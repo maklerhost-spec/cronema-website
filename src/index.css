@@ -28,7 +28,8 @@
     @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
   }
   .h2 {
-    @apply font-display text-4xl font-bold leading-[1.05] tracking-tight text-ink sm:text-5xl;
+    @apply font-display text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl;
+    color: #1d2025;
   }
   .lead {
     @apply mx-auto mt-4 max-w-2xl text-lg text-slate-600;
@@ -37,13 +38,28 @@
     @apply inline-flex items-center gap-2 border border-white/15 bg-white/5 px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.18em] text-slate-200;
   }
   .btn-accent {
-    @apply inline-flex items-center justify-center gap-3 rounded-md bg-accent-500 px-6 py-4 text-base font-semibold text-white transition-all hover:bg-accent-600;
+    @apply inline-flex items-center justify-center gap-3 rounded-md px-6 py-4 text-base font-semibold text-white transition-all;
+    background-color: #0091da;
   }
   .btn-outline {
-    @apply inline-flex items-center justify-center gap-3 rounded-md border border-ink px-6 py-4 text-base font-semibold text-ink transition-all hover:bg-ink hover:text-white;
+    @apply inline-flex items-center justify-center gap-3 rounded-md border px-6 py-4 text-base font-semibold transition-all;
+    border-color: #1d2025;
+    color: #1d2025;
   }
   .btn-light {
-    @apply inline-flex items-center justify-center gap-3 rounded-md border border-white/25 px-6 py-4 text-base font-semibold text-white transition-all hover:border-white hover:bg-white hover:text-ink;
+    @apply inline-flex items-center justify-center gap-3 rounded-md border border-white/25 px-6 py-4 text-base font-semibold text-white transition-all hover:border-white hover:bg-white;
+  }
+  /* Brand colours as plain CSS, so this file never depends on custom Tailwind colour names */
+  .btn-accent:hover {
+    background-color: #0081c4;
+  }
+  .btn-outline:hover {
+    background-color: #1d2025;
+    color: #fff;
+  }
+  .btn-light:hover,
+  .hero-dark .btn-outline:hover {
+    color: #1d2025;
   }
   /* Thin grid in dark sections */
   .grid-lines {
@@ -59,7 +75,7 @@
     @apply text-white;
   }
   .hero-dark .btn-outline {
-    @apply border-white/25 text-white hover:border-white hover:bg-white hover:text-ink;
+    @apply border-white/25 text-white hover:border-white hover:bg-white;
   }
 }
 
