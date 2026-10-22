@@ -1,0 +1,10 @@
+# Netlify: build as Bolt does it; prerendering runs inside "vite build" (see vite.config.ts).
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Unknown paths: real 404 page, no fallback to index.html (existing files are served first).
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

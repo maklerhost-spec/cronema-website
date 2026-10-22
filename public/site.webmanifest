@@ -1,0 +1,12 @@
+{
+  "name": "Cronema – Cross Net Management",
+  "short_name": "Cronema",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/logo.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#0a2540",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "lang": "de"
+}

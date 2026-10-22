@@ -1,0 +1,9 @@
+# Netlify (Bolt hosting): every page is a prerendered file (existing files are served first).
+
+# Common old addresses
+/impressum.html     /impressum/    301
+/datenschutz.html   /datenschutz/  301
+/kontakt.html       /kontakt/      301
+
+# Unknown paths get a real 404 instead of a fallback to the home page
+/*    /404.html    404
