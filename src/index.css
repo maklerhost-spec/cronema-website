@@ -18,7 +18,7 @@
     scroll-margin-top: 5rem;
   }
   *:focus-visible {
-    outline: 2px solid #fe7700;
+    outline: 2px solid #0091da;
     outline-offset: 2px;
   }
 }
@@ -28,22 +28,38 @@
     @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
   }
   .h2 {
-    @apply text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl;
+    @apply font-display text-4xl font-bold leading-[1.05] tracking-tight text-ink sm:text-5xl;
   }
   .lead {
-    @apply mx-auto mt-3 max-w-2xl text-lg text-slate-600;
+    @apply mx-auto mt-4 max-w-2xl text-lg text-slate-600;
   }
   .pill {
-    @apply inline-flex items-center gap-2 rounded-full border border-accent-200 bg-accent-50 px-3 py-1 text-xs font-medium text-accent-700;
-  }
-  .btn {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-2.5 text-sm font-semibold transition-all;
+    @apply inline-flex items-center gap-2 border border-white/15 bg-white/5 px-3 py-1.5 text-xs font-semibold uppercase tracking-[0.18em] text-slate-200;
   }
   .btn-accent {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-accent-600 px-6 py-3.5 text-base font-semibold text-white shadow-lg shadow-accent-600/20 transition-all hover:bg-accent-700 hover:shadow-xl hover:shadow-accent-600/30;
+    @apply inline-flex items-center justify-center gap-3 rounded-md bg-accent-500 px-6 py-4 text-base font-semibold text-white transition-all hover:bg-accent-600;
   }
   .btn-outline {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-slate-300 bg-white px-6 py-3.5 text-base font-semibold text-slate-700 transition-all hover:border-accent-300 hover:text-accent-600;
+    @apply inline-flex items-center justify-center gap-3 rounded-md border border-ink px-6 py-4 text-base font-semibold text-ink transition-all hover:bg-ink hover:text-white;
+  }
+  .btn-light {
+    @apply inline-flex items-center justify-center gap-3 rounded-md border border-white/25 px-6 py-4 text-base font-semibold text-white transition-all hover:border-white hover:bg-white hover:text-ink;
+  }
+  /* Thin grid in dark sections */
+  .grid-lines {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 72px 72px;
+    mask-image: radial-gradient(ellipse at 70% 30%, black 20%, transparent 75%);
+  }
+  /* Content placed into the dark page hero */
+  .hero-dark p {
+    @apply text-slate-300;
+  }
+  .hero-dark strong {
+    @apply text-white;
+  }
+  .hero-dark .btn-outline {
+    @apply border-white/25 text-white hover:border-white hover:bg-white hover:text-ink;
   }
 }
 

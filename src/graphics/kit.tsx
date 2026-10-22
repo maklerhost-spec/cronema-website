@@ -2,15 +2,16 @@
 import type { ReactNode } from "react";
 
 export const C = {
-  navy: "#0a2540",
-  navy7: "#12345a",
-  orange: "#fe7700",
-  orange1: "#ffe9d1",
-  orange0: "#fff6ec",
-  net: "#1d63f1",
-  net4: "#59a2ff",
-  net1: "#d9eaff",
-  net0: "#eef6ff",
+  // Anthracite and the logo blue (no orange, Manfred 22.10.2026)
+  ink: "#1d2025",
+  ink7: "#2b2f36",
+  hi: "#0091da",
+  hi1: "#cdeafb",
+  hi0: "#eaf6fd",
+  net: "#38bdf8",
+  net4: "#7dd3fc",
+  net1: "#e0f2fe",
+  net0: "#f0f9ff",
   s50: "#f8fafc",
   s100: "#f1f5f9",
   s200: "#e2e8f0",
@@ -37,12 +38,12 @@ export function Art({ w, h, label, children, className = "" }: { w: number; h: n
 export function Win({ x, y, w, h, title, children, dark = false }: { x: number; y: number; w: number; h: number; title?: string; children?: ReactNode; dark?: boolean }) {
   return (
     <g transform={`translate(${x} ${y})`}>
-      <rect x="2" y="6" width={w} height={h} rx="12" fill={C.navy} opacity=".08" />
-      <rect width={w} height={h} rx="12" fill={dark ? C.navy : C.white} stroke={dark ? C.navy7 : C.s200} />
-      <path d={`M0 12A12 12 0 0 1 12 0H${w - 12}A12 12 0 0 1 ${w} 12V24H0Z`} fill={dark ? C.navy7 : C.s100} />
-      <circle cx="14" cy="12" r="3.5" fill="#f87171" />
-      <circle cx="26" cy="12" r="3.5" fill="#fbbf24" />
-      <circle cx="38" cy="12" r="3.5" fill="#4ade80" />
+      <rect x="2" y="6" width={w} height={h} rx="12" fill={C.ink} opacity=".08" />
+      <rect width={w} height={h} rx="12" fill={dark ? C.ink : C.white} stroke={dark ? C.ink7 : C.s200} />
+      <path d={`M0 12A12 12 0 0 1 12 0H${w - 12}A12 12 0 0 1 ${w} 12V24H0Z`} fill={dark ? C.ink7 : C.s100} />
+      <circle cx="14" cy="12" r="3.5" fill={dark ? C.s500 : C.s300} />
+      <circle cx="26" cy="12" r="3.5" fill={dark ? C.s500 : C.s300} />
+      <circle cx="38" cy="12" r="3.5" fill={dark ? C.s500 : C.s300} />
       {title && (
         <text x={w / 2} y="16" textAnchor="middle" fontSize="9" fontWeight="600" fill={dark ? C.s300 : C.s500}>
           {title}
@@ -59,7 +60,7 @@ export function Bar({ x, y, w, h = 6, fill = C.s200 }: { x: number; y: number; w
 }
 
 /** Small rounded label (pill) with text. */
-export function Pill({ x, y, text, fill = C.white, color = C.navy, stroke = C.s200, size = 10, pad = 10, w }: { x: number; y: number; text: string; fill?: string; color?: string; stroke?: string; size?: number; pad?: number; w?: number }) {
+export function Pill({ x, y, text, fill = C.white, color = C.ink, stroke = C.s200, size = 10, pad = 10, w }: { x: number; y: number; text: string; fill?: string; color?: string; stroke?: string; size?: number; pad?: number; w?: number }) {
   const width = w ?? text.length * size * 0.58 + pad * 2;
   const h = size + 12;
   return (
@@ -83,7 +84,7 @@ export function Check({ x, y, r = 7, fill = C.green }: { x: number; y: number; r
 }
 
 /** Network node: ring with a dot, as in the logo. */
-export function Node({ x, y, r = 6, color = C.orange }: { x: number; y: number; r?: number; color?: string }) {
+export function Node({ x, y, r = 6, color = C.hi }: { x: number; y: number; r?: number; color?: string }) {
   return (
     <g>
       <circle cx={x} cy={y} r={r} fill={color} />

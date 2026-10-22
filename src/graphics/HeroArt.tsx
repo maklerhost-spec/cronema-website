@@ -6,11 +6,11 @@ import { Art, Bar, C, Check, Flag, Node, Win } from "./kit";
 function Card({ x, y, w = 160, title, sub, color, children }: { x: number; y: number; w?: number; title: string; sub: string; color: string; children?: React.ReactNode }) {
   return (
     <g transform={`translate(${x} ${y})`}>
-      <rect x="2" y="5" width={w} height="64" rx="14" fill={C.navy} opacity=".09" />
+      <rect x="2" y="5" width={w} height="64" rx="14" fill={C.ink} opacity=".09" />
       <rect width={w} height="64" rx="14" fill={C.white} stroke={C.s200} />
       <rect x="12" y="14" width="36" height="36" rx="10" fill={color} />
       <g transform="translate(30 32)">{children}</g>
-      <text x="58" y="29" fontSize="11" fontWeight="700" fill={C.navy}>{title}</text>
+      <text x="58" y="29" fontSize="11" fontWeight="700" fill={C.ink}>{title}</text>
       <text x="58" y="44" fontSize="8.5" fill={C.s500}>{sub}</text>
     </g>
   );
@@ -20,8 +20,8 @@ export function HeroArt() {
   const mono = "ui-monospace, SFMono-Regular, Menlo, monospace";
   return (
     <Art w={560} h={460} label="Grafik: Claude Code entwickelt Shopify-App, CRM-Erweiterung, KI-Agent und eigenes System auf Servern in Deutschland">
-      <circle cx="280" cy="230" r="200" fill={C.net0} />
-      <circle cx="280" cy="230" r="140" fill="none" stroke={C.net1} strokeWidth="1.5" strokeDasharray="4 6" />
+      <circle cx="280" cy="230" r="200" fill={C.white} opacity=".04" />
+      <circle cx="280" cy="230" r="140" fill="none" stroke={C.white} strokeOpacity=".18" strokeWidth="1.5" strokeDasharray="4 6" />
       {/* network lines */}
       <g stroke={C.net} strokeWidth="2" fill="none" opacity=".6">
         <path d="M150 114L200 170" />
@@ -31,14 +31,14 @@ export function HeroArt() {
       </g>
       {/* terminal */}
       <Win x={150} y={140} w={260} h={170} dark title="claude">
-        <text x="14" y="20" fontSize="10" fontFamily={mono} fill={C.orange}>✻ <tspan fill={C.white}>Claude Code</tspan></text>
+        <text x="14" y="20" fontSize="10" fontFamily={mono} fill={C.hi}>✻ <tspan fill={C.white}>Claude Code</tspan></text>
         <text x="14" y="40" fontSize="9.5" fontFamily={mono} fill={C.s400}>&gt; <tspan fill={C.s200}>Baue ein Kundenportal mit</tspan></text>
         <text x="14" y="53" fontSize="9.5" fontFamily={mono} fill={C.s200}>  Login, Aufträgen und Rechnungen</text>
         <text x="14" y="73" fontSize="9" fontFamily={mono} fill="#4ade80">✓ <tspan fill={C.s300}>Datenmodell angelegt</tspan></text>
         <text x="14" y="87" fontSize="9" fontFamily={mono} fill="#4ade80">✓ <tspan fill={C.s300}>API und Oberfläche erstellt</tspan></text>
         <text x="14" y="101" fontSize="9" fontFamily={mono} fill="#4ade80">✓ <tspan fill={C.s300}>Tests bestanden (48/48)</tspan></text>
         <text x="14" y="121" fontSize="9" fontFamily={mono} fill={C.net4}>● <tspan fill={C.s300}>Prüfung durch Cronema …</tspan></text>
-        <rect x="14" y="131" width="7" height="11" fill={C.orange} />
+        <rect x="14" y="131" width="7" height="11" fill={C.hi} />
       </Win>
       {/* cards around */}
       <Card x={6} y={50} title="Shopify-App" sub="Erweiterung im Shop" color="#5e8e3e">
@@ -49,14 +49,14 @@ export function HeroArt() {
         <circle cx="6" cy="-2" r="3" fill={C.white} opacity=".7" />
         <path d="M-12 9a8 8 0 0 1 16 0Z M1 9a6 6 0 0 1 11 0Z" fill={C.white} />
       </Card>
-      <Card x={6} y={344} title="KI-Agent" sub="n8n · Make · Zapier" color={C.orange}>
+      <Card x={6} y={344} title="KI-Agent" sub="n8n · Make · Zapier" color={C.hi}>
         <path d="M0 -10l3 7 7 3-7 3-3 7-3-7-7-3 7-3Z" fill={C.white} />
       </Card>
-      <Card x={394} y={344} title="Eigenes System" sub="auf Ihrem Server" color={C.navy}>
+      <Card x={394} y={344} title="Eigenes System" sub="auf Ihrem Server" color={C.ink}>
         <rect x="-10" y="-10" width="20" height="8" rx="2" fill={C.white} />
         <rect x="-10" y="1" width="20" height="8" rx="2" fill={C.white} opacity=".75" />
-        <circle cx="-6" cy="-6" r="1.4" fill={C.navy} />
-        <circle cx="-6" cy="5" r="1.4" fill={C.navy} />
+        <circle cx="-6" cy="-6" r="1.4" fill={C.ink} />
+        <circle cx="-6" cy="5" r="1.4" fill={C.ink} />
       </Card>
       {/* hub dots on lines */}
       <Node x={166} y={132} r={6} />
@@ -67,7 +67,7 @@ export function HeroArt() {
       <g transform="translate(206 404)">
         <rect width="148" height="30" rx="15" fill={C.white} stroke={C.s200} />
         <Flag x={14} y={9.6} w={18} />
-        <text x="40" y="19.5" fontSize="10" fontWeight="700" fill={C.navy}>Hetzner · Deutschland</text>
+        <text x="40" y="19.5" fontSize="10" fontWeight="700" fill={C.ink}>Hetzner · Deutschland</text>
       </g>
     </Art>
   );
@@ -84,15 +84,15 @@ function Work247Art() {
             <rect x="0" y="0" width="86" height="56" rx="8" fill={i ? "#c7d2fe" : C.net1} />
             <path d="M24 44V30l19-14 19 14v14Z" fill={C.white} />
             <rect x="38" y="34" width="10" height="10" fill={i ? "#c7d2fe" : C.net1} />
-            <Bar x={8} y={66} w={60} h={6} fill={C.navy} />
+            <Bar x={8} y={66} w={60} h={6} fill={C.ink} />
             <Bar x={8} y={78} w={48} h={4} />
-            <text x="8" y="104" fontSize="10" fontWeight="800" fill={C.orange}>{i ? "1.290 €" : "489.000 €"}</text>
+            <text x="8" y="104" fontSize="10" fontWeight="800" fill={C.hi}>{i ? "1.290 €" : "489.000 €"}</text>
           </g>
         ))}
       </Win>
       <g transform="translate(200 40)">
         <rect width="104" height="120" rx="12" fill={C.white} stroke={C.s200} />
-        <rect x="10" y="10" width="84" height="22" rx="6" fill={C.orange} />
+        <rect x="10" y="10" width="84" height="22" rx="6" fill={C.hi} />
         <text x="52" y="25" textAnchor="middle" fontSize="9" fontWeight="700" fill={C.white}>PDF-Exposé</text>
         <Bar x={10} y={42} w={70} h={5} fill={C.s300} />
         <Bar x={10} y={52} w={84} h={4} />
@@ -110,37 +110,37 @@ function BookiqueArt() {
   const days = Array.from({ length: 21 }, (_, i) => i);
   return (
     <Art w={320} h={200} label="Grafik: Bookique zeigt einen Buchungskalender im Shopify-Shop">
-      <rect width="320" height="200" rx="16" fill={C.orange0} />
+      <rect width="320" height="200" rx="16" fill={C.hi0} />
       <Win x={18} y={18} w={176} h={164} title="Termin buchen">
-        <Bar x={12} y={10} w={70} h={7} fill={C.navy} />
+        <Bar x={12} y={10} w={70} h={7} fill={C.ink} />
         {days.map((d) => {
           const x = 12 + (d % 7) * 22;
           const y = 26 + Math.floor(d / 7) * 22;
           const sel = d === 9;
           return (
             <g key={d}>
-              <rect x={x} y={y} width="18" height="18" rx="5" fill={sel ? C.orange : d % 5 === 0 ? C.s100 : C.white} stroke={sel ? C.orange : C.s200} />
+              <rect x={x} y={y} width="18" height="18" rx="5" fill={sel ? C.hi : d % 5 === 0 ? C.s100 : C.white} stroke={sel ? C.hi : C.s200} />
               <text x={x + 9} y={y + 12.5} textAnchor="middle" fontSize="7.5" fontWeight={sel ? 800 : 500} fill={sel ? C.white : C.s700}>{d + 1}</text>
             </g>
           );
         })}
         {["09:00", "10:30", "14:00"].map((t, i) => (
           <g key={t} transform={`translate(${12 + i * 50} 100)`}>
-            <rect width="44" height="18" rx="9" fill={i === 1 ? C.navy : C.white} stroke={i === 1 ? C.navy : C.s300} />
-            <text x="22" y="12.5" textAnchor="middle" fontSize="8" fontWeight="700" fill={i === 1 ? C.white : C.navy}>{t}</text>
+            <rect width="44" height="18" rx="9" fill={i === 1 ? C.ink : C.white} stroke={i === 1 ? C.ink : C.s300} />
+            <text x="22" y="12.5" textAnchor="middle" fontSize="8" fontWeight="700" fill={i === 1 ? C.white : C.ink}>{t}</text>
           </g>
         ))}
       </Win>
       <g transform="translate(186 40)">
-        <rect width="120" height="56" rx="12" fill={C.navy} />
-        <path d="M22 16l2.5 6 6 2.5-6 2.5L22 33l-2.5-6-6-2.5 6-2.5Z" fill={C.orange} />
+        <rect width="120" height="56" rx="12" fill={C.ink} />
+        <path d="M22 16l2.5 6 6 2.5-6 2.5L22 33l-2.5-6-6-2.5 6-2.5Z" fill={C.hi} />
         <text x="38" y="24" fontSize="9" fontWeight="700" fill={C.white}>KI-Assistent</text>
         <text x="38" y="37" fontSize="7.5" fill={C.s300}>„Yogakurs anlegen“</text>
       </g>
       <g transform="translate(186 106)">
         <rect width="120" height="56" rx="12" fill={C.white} stroke={C.s200} />
         <Check x={20} y={28} r={9} />
-        <text x="36" y="25" fontSize="9" fontWeight="700" fill={C.navy}>Gebucht</text>
+        <text x="36" y="25" fontSize="9" fontWeight="700" fill={C.ink}>Gebucht</text>
         <text x="36" y="38" fontSize="7.5" fill={C.s500}>bezahlt im Checkout</text>
       </g>
     </Art>
@@ -155,22 +155,22 @@ function GaranArt() {
         <rect x="12" y="10" width="100" height="100" rx="10" fill={C.net1} />
         <rect x="38" y="30" width="48" height="60" rx="8" fill={C.white} />
         <circle cx="62" cy="52" r="10" fill={C.net} opacity=".7" />
-        <Bar x={122} y={12} w={110} h={9} fill={C.navy} />
-        <text x="122" y="40" fontSize="12" fontWeight="800" fill={C.navy}>149,00 €</text>
-        <rect x="122" y="48" width="80" height="20" rx="10" fill={C.navy} />
+        <Bar x={122} y={12} w={110} h={9} fill={C.ink} />
+        <text x="122" y="40" fontSize="12" fontWeight="800" fill={C.ink}>149,00 €</text>
+        <rect x="122" y="48" width="80" height="20" rx="10" fill={C.ink} />
         <text x="162" y="61.5" textAnchor="middle" fontSize="8.5" fontWeight="700" fill={C.white}>In den Warenkorb</text>
         {/* label */}
         <g transform="translate(212 44)">
-          <rect width="56" height="62" rx="8" fill={C.white} stroke={C.navy} strokeWidth="2" />
-          <rect width="56" height="18" rx="8" fill={C.navy} />
-          <rect y="10" width="56" height="8" fill={C.navy} />
+          <rect width="56" height="62" rx="8" fill={C.white} stroke={C.ink} strokeWidth="2" />
+          <rect width="56" height="18" rx="8" fill={C.ink} />
+          <rect y="10" width="56" height="8" fill={C.ink} />
           <text x="28" y="13" textAnchor="middle" fontSize="7.5" fontWeight="800" fill={C.white}>GARANTIE</text>
-          <text x="28" y="40" textAnchor="middle" fontSize="16" fontWeight="800" fill={C.orange}>5</text>
-          <text x="28" y="53" textAnchor="middle" fontSize="7" fontWeight="700" fill={C.navy}>JAHRE</text>
+          <text x="28" y="40" textAnchor="middle" fontSize="16" fontWeight="800" fill={C.hi}>5</text>
+          <text x="28" y="53" textAnchor="middle" fontSize="7" fontWeight="700" fill={C.ink}>JAHRE</text>
         </g>
         {/* legal notice */}
-        <rect x="12" y="118" width="260" height="18" rx="6" fill={C.orange0} stroke={C.orange1} />
-        <circle cx="24" cy="127" r="5" fill={C.orange} />
+        <rect x="12" y="118" width="260" height="18" rx="6" fill={C.hi0} stroke={C.hi1} />
+        <circle cx="24" cy="127" r="5" fill={C.hi} />
         <text x="21.6" y="130" fontSize="8" fontWeight="800" fill={C.white}>i</text>
         <text x="34" y="130" fontSize="7.5" fill={C.s700}>Gesetzliche Gewährleistung: mindestens 2 Jahre (EU)</text>
       </Win>

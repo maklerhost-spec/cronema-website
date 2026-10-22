@@ -10,10 +10,10 @@ export function Team({ compact = false }: { compact?: boolean }) {
         <SectionHead eyebrow={TEAM.eyebrow} title={TEAM.title} subtitle={TEAM.subtitle} />
         <div className="grid gap-8 lg:grid-cols-2">
           {TEAM.people.map((p) => (
-            <article key={p.id} className="flex flex-col overflow-hidden rounded-3xl border border-slate-200 bg-white">
+            <article key={p.id} className="flex flex-col overflow-hidden rounded-lg border border-slate-200 bg-white">
               <div className="relative aspect-[3/2] overflow-hidden bg-slate-100">
                 <img src={p.photo} alt={p.alt} width={1024} height={683} loading="lazy" className="h-full w-full object-cover object-[35%_30%]" />
-                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-navy/85 to-transparent p-6 pt-16">
+                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-ink/85 to-transparent p-6 pt-16">
                   <h3 className="text-2xl font-bold text-white">{p.name}</h3>
                   <p className="text-sm font-medium text-accent-300">{p.role}</p>
                 </div>
@@ -29,10 +29,10 @@ export function Team({ compact = false }: { compact?: boolean }) {
                 )}
                 <ul className="mt-5 flex flex-wrap gap-2">
                   {p.focus.map((f) => (
-                    <li key={f} className="rounded-full bg-net-50 px-3 py-1 text-xs font-semibold text-net-700">{f}</li>
+                    <li key={f} className="rounded-sm bg-net-50 px-3 py-1 text-xs font-semibold text-net-700">{f}</li>
                   ))}
                 </ul>
-                <blockquote className="mt-6 flex gap-3 rounded-2xl bg-accent-50 p-5 text-slate-700 ring-1 ring-accent-100">
+                <blockquote className="mt-6 flex gap-3 rounded-lg bg-accent-50 p-5 text-slate-700 ring-1 ring-accent-100">
                   <Quote className="h-5 w-5 shrink-0 text-accent-600" aria-hidden="true" />
                   <p className="italic leading-relaxed">„{p.quote}“</p>
                 </blockquote>

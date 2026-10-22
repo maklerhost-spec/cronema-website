@@ -19,7 +19,7 @@ export function App({ page, id }: { page: Page; id?: ServiceId }) {
 
   return (
     <SiteContext.Provider value={{ page, id }}>
-      <a href="#main" className="sr-only z-50 rounded-full bg-navy px-4 py-2 text-white focus:not-sr-only focus:fixed focus:left-4 focus:top-4">
+      <a href="#main" className="sr-only z-50 rounded-full bg-ink px-4 py-2 text-white focus:not-sr-only focus:fixed focus:left-4 focus:top-4">
         {NAV.skip}
       </a>
       <Header />

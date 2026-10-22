@@ -7,9 +7,9 @@ import { CONSENT } from "../content/consent";
 import { pathFor } from "../site";
 
 const primary =
-  "inline-flex flex-1 items-center justify-center rounded-xl bg-accent-600 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent-700 sm:flex-none";
+  "inline-flex flex-1 items-center justify-center rounded-md bg-accent-600 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent-700 sm:flex-none";
 const secondary =
-  "inline-flex flex-1 items-center justify-center rounded-xl border border-slate-300 bg-white px-4 py-2.5 text-sm font-semibold text-slate-800 transition-colors hover:bg-slate-50 sm:flex-none";
+  "inline-flex flex-1 items-center justify-center rounded-md border border-slate-300 bg-white px-4 py-2.5 text-sm font-semibold text-slate-800 transition-colors hover:bg-slate-50 sm:flex-none";
 
 export function ConsentBanner() {
   const t = CONSENT;
@@ -43,7 +43,7 @@ export function ConsentBanner() {
 
   return (
     <div className="fixed inset-x-0 bottom-0 z-[55] p-2 sm:p-4" role="region" aria-label={t.title}>
-      <div className="mx-auto max-h-[85vh] max-w-3xl overflow-y-auto rounded-2xl border border-slate-200 bg-white p-5 shadow-2xl shadow-slate-900/20 sm:p-6">
+      <div className="mx-auto max-h-[85vh] max-w-3xl overflow-y-auto rounded-lg border border-slate-200 bg-white p-5 shadow-2xl shadow-slate-900/20 sm:p-6">
         <div className="flex items-start gap-3">
           <ShieldCheck className="mt-0.5 h-6 w-6 shrink-0 text-accent-600" aria-hidden="true" />
           <div className="min-w-0 flex-1">
@@ -68,7 +68,7 @@ export function ConsentBanner() {
               const fixed = c.key === "necessary";
               const checked = fixed || choice.analytics;
               return (
-                <li key={c.key} className="rounded-xl bg-slate-50 p-3 ring-1 ring-slate-200">
+                <li key={c.key} className="rounded-md bg-slate-50 p-3 ring-1 ring-slate-200">
                   <label className={`flex items-start gap-3 ${fixed ? "" : "cursor-pointer"}`}>
                     <input
                       type="checkbox"
@@ -111,7 +111,7 @@ export function ConsentRevokeBox() {
   const { consent, ready } = useConsent();
   const analytics = t.categories.find((c) => c.key === "analytics")!;
   return (
-    <div className="mb-8 rounded-2xl border border-accent-200 bg-accent-50 p-5 sm:p-6">
+    <div className="mb-8 rounded-lg border border-accent-200 bg-accent-50 p-5 sm:p-6">
       <h2 className="flex items-center gap-2 text-lg font-bold text-slate-900">
         <ShieldCheck className="h-5 w-5 text-accent-600" aria-hidden="true" />
         {t.revoke.title}
@@ -122,7 +122,7 @@ export function ConsentRevokeBox() {
           {t.revoke.status} <strong>{consent?.analytics ? `${t.revoke.granted} ${analytics.title}` : t.revoke.none}</strong>
         </p>
       )}
-      <button type="button" onClick={openConsentSettings} className="mt-4 rounded-xl bg-accent-600 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent-700">
+      <button type="button" onClick={openConsentSettings} className="mt-4 rounded-md bg-accent-600 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent-700">
         {t.revoke.button}
       </button>
     </div>

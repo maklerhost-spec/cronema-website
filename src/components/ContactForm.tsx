@@ -8,7 +8,7 @@ import { SERVICES } from "../content/services";
 import { pathFor } from "../site";
 
 const input =
-  "w-full rounded-xl border border-slate-300 bg-white px-3.5 py-2.5 text-base text-slate-900 outline-none transition focus:border-accent-500 focus:ring-2 focus:ring-accent-100 sm:text-sm";
+  "w-full rounded-md border border-slate-300 bg-white px-3.5 py-2.5 text-base text-slate-900 outline-none transition focus:border-accent-500 focus:ring-2 focus:ring-accent-100 sm:text-sm";
 
 const ERRORS = {
   required: "Bitte füllen Sie alle Pflichtfelder aus.",
@@ -130,7 +130,7 @@ export function ContactForm({ interest = "" }: { interest?: string }) {
         </span>
       </label>
       {error && (
-        <p className="rounded-xl bg-red-50 px-4 py-3 text-sm text-red-700" role="alert">
+        <p className="rounded-md bg-red-50 px-4 py-3 text-sm text-red-700" role="alert">
           {error}
         </p>
       )}

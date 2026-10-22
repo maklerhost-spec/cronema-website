@@ -52,6 +52,12 @@ export const HOME = {
     primary: "Projekt anfragen",
     secondary: "Leistungen ansehen",
     trust: ["Server in Deutschland (Hetzner)", "Entwickelt mit Claude Code", "Für KMU und Mittelstand"],
+    stats: [
+      { value: "15", label: "Jahre Cross Net Management" },
+      { value: "30+", label: "Jahre Erfahrung je Gründer" },
+      { value: "3", label: "eigene Apps entwickelt" },
+      { value: "100 %", label: "Server in Deutschland" },
+    ],
   },
   platforms: {
     label: "Wir entwickeln für und mit",

@@ -10,7 +10,7 @@ import { Logo } from "./Logo";
 export function Footer() {
   const link = "text-sm text-slate-300 transition-colors hover:text-accent-400";
   return (
-    <footer className="bg-navy">
+    <footer className="border-t border-white/10 bg-ink-900">
       <div className="container-x py-14">
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
           <div>
@@ -36,7 +36,7 @@ export function Footer() {
             </ul>
           </div>
           <div>
-            <h2 className="text-sm font-bold text-white">{FOOTER.services}</h2>
+            <h2 className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">{FOOTER.services}</h2>
             <ul className="mt-3 space-y-2">
               {SERVICE_IDS.map((id) => (
                 <li key={id}><a className={link} href={pathFor("service", id)}>{SERVICES[id].name}</a></li>
@@ -44,7 +44,7 @@ export function Footer() {
             </ul>
           </div>
           <div>
-            <h2 className="text-sm font-bold text-white">{FOOTER.company}</h2>
+            <h2 className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">{FOOTER.company}</h2>
             <ul className="mt-3 space-y-2">
               <li><a className={link} href={pathFor("references")}>{NAV.references}</a></li>
               <li><a className={link} href={pathFor("approach")}>{NAV.approach}</a></li>
@@ -55,7 +55,7 @@ export function Footer() {
             </ul>
           </div>
           <div>
-            <h2 className="text-sm font-bold text-white">{FOOTER.legal}</h2>
+            <h2 className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">{FOOTER.legal}</h2>
             <ul className="mt-3 space-y-2">
               <li><a className={link} href={pathFor("imprint")}>{FOOTER.imprint}</a></li>
               <li><a className={link} href={pathFor("privacy")}>{FOOTER.privacy}</a></li>
