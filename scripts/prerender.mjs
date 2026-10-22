@@ -9,7 +9,7 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dist = join(root, "dist");
 const server = await import(pathToFileURL(join(root, "dist-server", "entry-server.js")).href);
-const { render, ROUTES, absoluteUrl, pathFor, LAST_MODIFIED, SERVICES, SERVICE_IDS, HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE, CONTACT_EMAIL, PHONE_DISPLAY, COMPANY_LEGAL_NAME } = server;
+const { render, ROUTES, absoluteUrl, pathFor, LAST_MODIFIED, SERVICES, SERVICE_IDS, HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE, TEAM, CONTACT_EMAIL, PHONE_DISPLAY, COMPANY_LEGAL_NAME } = server;
 
 const template = await readFile(join(dist, "index.html"), "utf8");
 if (!template.includes("<!--app-html-->") || !template.includes("<!--app-head-->")) {
@@ -116,6 +116,10 @@ ${APPROACH_PAGE.process.map((p, i) => `${i + 1}. ${p.title}: ${p.text}`).join("\
 ${ABOUT_PAGE.intro.map(plain).join("\n\n")}
 
 ${ABOUT_PAGE.mission.join("\n\n")}
+
+## Team
+
+${TEAM.people.map((p) => `### ${p.name}, ${p.role}\n\n${p.text.join("\n\n")}\n\nSchwerpunkte: ${p.focus.join(", ")}`).join("\n\n")}
 
 # Häufige Fragen
 

@@ -10,7 +10,7 @@ export { LAST_MODIFIED } from "./head";
 export { absoluteUrl, pathFor } from "./site";
 export { SERVICES } from "./content/services";
 export { SERVICE_IDS } from "./content/ids";
-export { HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE } from "./content/pages";
+export { HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE, TEAM } from "./content/pages";
 
 /** HTML for one route, used by scripts/prerender.mjs. */
 export function render(path: string) {

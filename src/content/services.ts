@@ -38,7 +38,7 @@ export const SERVICES: Record<ServiceId, Service> = {
     card: {
       title: "Websites, die verkaufen und gefunden werden",
       text: "Von der schlanken Landingpage bis zum mehrsprachigen Firmenauftritt: schnell, suchmaschinen- und KI-freundlich, auf Wunsch mit Anbindung an Ihr CRM.",
-      bullets: ["Eigene Texte, Grafiken und Logo-Entwicklung", "Vorgerendert für Google und KI-Suchmaschinen", "Import in Bolt oder Hosting auf Ihrem Server"],
+      bullets: ["Eigene Texte, Grafiken und Logo-Entwicklung", "Vorgerendert für Google und KI-Suchmaschinen", "Pflege im KI Website Studio oder Hosting auf Ihrem Server"],
     },
     metaTitle: "Website erstellen lassen mit KI – schnell, individuell, SEO-stark | Cronema",
     metaDescription:
@@ -71,18 +71,18 @@ export const SERVICES: Record<ServiceId, Service> = {
       { title: "Ziel und Inhalte klären", text: "Wen wollen Sie erreichen, was sollen Besucher tun? Wir sammeln Ihr Wissen und Ihre Unterlagen." },
       { title: "Entwurf in wenigen Tagen", text: "Sie sehen früh eine echte, klickbare Seite statt statischer Bilder und geben direkt Rückmeldung." },
       { title: "Texte, Grafiken, Feinschliff", text: "Wir schreiben, zeichnen und optimieren, bis jede Seite sitzt. Technisch geprüft und vorgerendert." },
-      { title: "Veröffentlichen", text: "Auf Ihrem Server, bei Netlify oder als GitHub-Projekt zum Import in Bolt, ganz wie Sie möchten." },
+      { title: "Veröffentlichen", text: "Auf Ihrem Server, bei Netlify oder als Projekt in einem KI Website Studio, ganz wie Sie möchten." },
     ],
     techTitle: "Technik und Werkzeuge",
-    tech: ["React", "Vite", "TypeScript", "Tailwind CSS", "Vorrendern (SSG)", "schema.org", "llms.txt", "Bolt", "Netlify", "Hetzner"],
+    tech: ["React", "Vite", "TypeScript", "Tailwind CSS", "Vorrendern (SSG)", "schema.org", "llms.txt", "KI Website Studio", "Netlify", "Hetzner"],
     highlight: {
-      title: "Auf Wunsch zum Selbstbearbeiten in Bolt",
-      text: "Wir legen Ihre Website als GitHub-Projekt an, das Sie direkt in Bolt importieren können. So ändern Sie Texte später selbst per KI-Prompt, ohne auf uns warten zu müssen. Wenn es komplexer wird, sind wir da.",
+      title: "Auf Wunsch zum Selbstbearbeiten im KI Website Studio",
+      text: "Wir übergeben Ihnen die Website als Projekt in einem KI Website Studio. So ändern Sie Texte später selbst per KI-Prompt, ohne auf uns warten zu müssen. Wenn es komplexer wird, sind wir da.",
     },
     faq: [
       { q: "Wie lange dauert eine neue Website?", a: "Ein erster klickbarer Entwurf steht meist innerhalb weniger Tage. Wie lange es bis zum Start dauert, hängt vor allem vom Umfang der Inhalte ab. Eine Landingpage ist oft in ein bis zwei Wochen live, ein großer Firmenauftritt braucht entsprechend länger." },
       { q: "Schreibt ihr auch die Texte?", a: "Ja. Wir erarbeiten die Texte mit Ihnen auf Basis Ihrer Unterlagen und Gespräche. KI hilft uns beim Formulieren, die fachliche Prüfung und die Freigabe liegen bei Ihnen." },
-      { q: "Kann ich die Website später selbst ändern?", a: "Ja. Entweder über den Import in Bolt, wo Sie Änderungen per Prompt beschreiben, oder wir bauen Ihnen einfache Bearbeitungsmöglichkeiten ein. Größere Erweiterungen übernehmen wir gerne." },
+      { q: "Kann ich die Website später selbst ändern?", a: "Ja. Entweder im KI Website Studio, wo Sie Änderungen einfach per Prompt beschreiben, oder wir bauen Ihnen einfache Bearbeitungsmöglichkeiten ein. Größere Erweiterungen übernehmen wir gerne." },
       { q: "Was bedeutet „vorgerendert“?", a: "Jede Seite liegt als fertige HTML-Datei mit allen Texten vor. Suchmaschinen und KI-Crawler müssen kein JavaScript ausführen, um den Inhalt zu sehen. Das verbessert Auffindbarkeit und Ladezeit." },
       { q: "Wird meine Website an ein CRM angebunden?", a: "Wenn Sie möchten, ja. Formulare und Anfragen können direkt in GoHighLevel, HubSpot oder Ihr eigenes System laufen, inklusive automatischer Folgeaktionen." },
     ],

@@ -271,7 +271,7 @@ export const ABOUT_PAGE = {
   h1: "Über Cronema",
   claim: "Cross Net Management. Seit rund 15 Jahren. Heute mit KI.",
   intro: [
-    "Cronema ist eine KI-Programmierschmiede aus München. Wir entwickeln Software für kleine und mittlere Unternehmen, von der einfachen Website bis zur komplexen Systemsoftware, und betreiben sie auf eigenen Servern in Deutschland.",
+    "Cronema ist eine KI-Programmierschmiede und KI-Agentur aus München. Hinter uns stehen jeweils über 30 Jahre Erfahrung in 3D-Animation, Grafikdesign, Redaktion und Webentwicklung. Wir entwickeln Software für kleine und mittlere Unternehmen, von der einfachen Website bis zur komplexen Systemsoftware, und betreiben sie auf eigenen Servern in Deutschland.",
     "Unser Name steht für **Cross Net Management**: Systeme über Netzwerke hinweg verbinden und steuern. Als der Name vor rund 15 Jahren entstand, ging es um Server, Netzwerke und Schnittstellen. Heute geht es um Shops, CRM-Systeme, Cloud-Server und KI-Agenten. Der Gedanke dahinter ist derselbe geblieben.",
   ],
   nameTitle: "Was der Name heute bedeutet",
@@ -326,4 +326,42 @@ export const FOOTER = {
   privacy: "Datenschutz",
   rights: "Alle Rechte vorbehalten.",
   hosted: "Server in Deutschland",
+};
+
+export type Person = { id: string; name: string; role: string; photo: string; alt: string; intro: string; text: string[]; focus: string[]; quote: string };
+
+export const TEAM = {
+  eyebrow: "Team",
+  title: "Die Köpfe hinter Cronema",
+  subtitle: "Jeweils über 30 Jahre Erfahrung in der digitalen Welt, vom Grafikdesign bis zur Webentwicklung. Heute bündeln wir dieses Wissen in einer KI-Agentur.",
+  people: [
+    {
+      id: "manfred-sandner",
+      name: "Manfred Sandner",
+      role: "Gründer und Geschäftsführer",
+      photo: "/team/manfred-sandner.webp",
+      alt: "Manfred Sandner, Gründer und Geschäftsführer von Cronema, lächelnd mit einer Zeitschrift",
+      intro: "Entwickler aus Leidenschaft, von der 3D-Animation zur KI-gestützten Softwareentwicklung.",
+      text: [
+        "Manfred hat in der 3D-Animation und im Grafikdesign angefangen und sich dann ganz der Webentwicklung verschrieben. Über die Jahre hat er Online-Shops entwickelt und erweitert, Open-Source-CRM-Systeme angepasst und unzählige WordPress-Projekte umgesetzt.",
+        "Heute entwickelt er mit Claude Code Apps, Plattform-Erweiterungen und eigene Systeme für den Mittelstand, darunter work247, Bookique und GARAN-Label. Er verantwortet Architektur, Qualität und den Betrieb auf den Servern in Deutschland.",
+      ],
+      focus: ["KI-gestützte Softwareentwicklung", "Shopify- und GoHighLevel-Apps", "Schnittstellen und Systemarchitektur", "Server und Betrieb"],
+      quote: "Neue Technologien begeistern mich jeden Tag aufs Neue.",
+    },
+    {
+      id: "rolf-mai",
+      name: "Rolf Mai",
+      role: "Business Partner, Marketing und Strategie",
+      photo: "/team/rolf-mai.webp",
+      alt: "Rolf Mai, Business Partner von Cronema, lächelnd im Sessel mit einer Zeitschrift",
+      intro: "Stratege mit Wurzeln in Gestaltung und Redaktion, der Technik und Geschäftsmodell zusammenbringt.",
+      text: [
+        "Rolf kommt aus dem Grafikdesign und der redaktionellen Arbeit und hat später eigene Kommunikations- und Beratungsprojekte aufgebaut. Er berät Unternehmen zu Marketing- und Content-Strategien, Vertrieb und digitalen Geschäftsmodellen.",
+        "Bei Cronema sorgt er dafür, dass KI dort eingesetzt wird, wo sie im Unternehmen wirklich etwas bewegt: in Abläufen, im Vertrieb und in der Kommunikation. Er übersetzt Ziele in Konzepte für KI-Agenten und Automatisierung, die sich rechnen.",
+      ],
+      focus: ["KI zur Prozessoptimierung", "Marketing- und Content-Strategie", "Digitale Geschäftsmodelle", "Vertrieb und Kommunikation"],
+      quote: "Mich begeistert es, kreative Ideen mit technologischer Entwicklung zu verbinden.",
+    },
+  ] as Person[],
 };

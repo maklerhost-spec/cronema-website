@@ -12,6 +12,7 @@ import { IMPRINT, PRIVACY, type LegalBlock } from "../legal/content";
 import { pathFor } from "../site";
 import { ReferenceCards } from "./Home";
 import { Cta, Eyebrow, Faq, PageHero, Paragraphs, SectionHead, Steps } from "./common";
+import { Team } from "./Team";
 
 const card = "rounded-2xl border border-slate-200 bg-white p-6";
 
@@ -279,6 +280,7 @@ export function AboutPage() {
       >
         <Paragraphs items={p.intro} className="mt-6" />
       </PageHero>
+      <Team />
       <section className="bg-white py-20">
         <div className="container-x">
           <SectionHead eyebrow="Cross Net Management" title={p.nameTitle} />

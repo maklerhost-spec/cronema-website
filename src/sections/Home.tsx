@@ -7,6 +7,7 @@ import { HeroArt, REFERENCE_ART } from "../graphics/HeroArt";
 import { ServiceArt } from "../graphics/ServiceArt";
 import { pathFor } from "../site";
 import { Cta, Eyebrow, Faq, SectionHead, Steps } from "./common";
+import { Team } from "./Team";
 
 function Hero() {
   const h = HOME.hero;
@@ -335,6 +336,7 @@ export function HomePage() {
       <Hosting />
       <Approach />
       <NameStory />
+      <Team compact />
       <Faq title={HOME.faq.title} items={HOME.faq.items} />
       <Cta />
     </>

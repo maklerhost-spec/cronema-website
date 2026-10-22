@@ -1,7 +1,7 @@
 import { COMPANY_ADDRESS, COMPANY_LEGAL_NAME, CONTACT_EMAIL, PHONE_INTL, SITE_URL } from "./config";
 import type { ServiceId } from "./content/ids";
 import { SERVICE_IDS } from "./content/ids";
-import { HOME, META, NAV } from "./content/pages";
+import { HOME, META, NAV, TEAM } from "./content/pages";
 import { SERVICES } from "./content/services";
 import { absoluteUrl, pathFor, type Page } from "./site";
 
@@ -55,6 +55,8 @@ function structuredData(page: Page, url: string, id?: ServiceId) {
       areaServed: ["DE", "AT", "CH"],
       knowsAbout: ["Softwareentwicklung", "Künstliche Intelligenz", "Claude Code", "Shopify-Apps", "GoHighLevel", "HubSpot", "n8n", "Make", "Zapier", "API-Integration", "Hetzner Cloud"],
       sameAs: ["https://work247.app", "https://bookique.app"],
+      founder: { "@type": "Person", name: "Manfred Sandner", jobTitle: "Gründer und Geschäftsführer" },
+      employee: TEAM.people.map((p) => ({ "@type": "Person", name: p.name, jobTitle: p.role, image: absoluteUrl(p.photo) })),
       hasOfferCatalog: {
         "@type": "OfferCatalog",
         name: NAV.services,
