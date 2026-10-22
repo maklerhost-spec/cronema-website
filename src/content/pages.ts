@@ -297,7 +297,7 @@ export const ABOUT_PAGE = {
 export const CONTACT_PAGE = {
   h1: "Lassen Sie uns über Ihr Projekt sprechen",
   intro:
-    "Ob Website, Erweiterung für Ihr CRM, eigenes System oder KI-Agent: Schreiben Sie uns oder rufen Sie an. Wir melden uns schnell und klären in einem kurzen Gespräch, was möglich ist.",
+    "Ob Website, Erweiterung für Ihr CRM, eigenes System oder KI-Agent: Schicken Sie uns Ihre Anfrage über das Formular, per E-Mail oder rufen Sie an. Wir melden uns schnell und klären in einem kurzen Gespräch, was möglich ist.",
   email: "E-Mail",
   phone: "Telefon",
   address: "Adresse",

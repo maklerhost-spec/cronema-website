@@ -8,3 +8,5 @@ export const COMPANY_LEGAL_NAME = "Cronema UG (haftungsbeschränkt)";
 export const COMPANY_ADDRESS = { street: "Isabellastrasse 9", zip: "80798", city: "München" };
 /** Google Analytics 4 property (loads only after consent). Empty = no analytics. */
 export const GA_MEASUREMENT_ID = "";
+/** Contact form endpoint (Netlify Function → GoHighLevel). Can point elsewhere via VITE_CONTACT_ENDPOINT. */
+export const CONTACT_ENDPOINT: string = import.meta.env.VITE_CONTACT_ENDPOINT ?? "/.netlify/functions/contact";

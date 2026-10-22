@@ -2,6 +2,7 @@
 import { ArrowRight, Check, ExternalLink, Lightbulb, Mail, MapPin, Phone } from "lucide-react";
 import { COMPANY_ADDRESS, COMPANY_LEGAL_NAME, CONTACT_EMAIL, PHONE_DISPLAY, PHONE_INTL } from "../config";
 import { ConsentRevokeBox } from "../components/ConsentBanner";
+import { ContactForm } from "../components/ContactForm";
 import { Rich } from "../components/Rich";
 import { ABOUT_PAGE, APPROACH_PAGE, CONTACT_PAGE, HOME, META, NAV, REFERENCES, REFERENCES_PAGE } from "../content/pages";
 import { SERVICE_IDS, type ServiceId } from "../content/ids";
@@ -338,7 +339,7 @@ export function ContactPage() {
     <>
       <PageHero crumbs={[{ href: pathFor("contact"), label: NAV.contact }]} title={p.h1} claim={p.intro} />
       <section className="bg-white pb-20">
-        <div className="container-x grid gap-8 lg:grid-cols-2">
+        <div className="container-x grid items-start gap-8 lg:grid-cols-[1.15fr_0.85fr]">
           <div className="space-y-4">
             {items.map(({ icon: Icon, label, value, href }) => {
               const body = (
@@ -361,21 +362,20 @@ export function ContactPage() {
               );
             })}
             <p className="text-sm text-slate-500">{COMPANY_LEGAL_NAME}</p>
+            <div className="rounded-3xl bg-slate-50 p-6 ring-1 ring-slate-200">
+              <h2 className="text-lg font-bold text-slate-900">{p.checklistTitle}</h2>
+              <ul className="mt-4 space-y-3">
+                {p.checklist.map((c) => (
+                  <li key={c} className="flex gap-3 text-sm text-slate-700">
+                    <Check className="mt-0.5 h-4 w-4 shrink-0 text-accent-500" aria-hidden="true" />
+                    {c}
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
-          <div className="rounded-3xl bg-slate-50 p-8 ring-1 ring-slate-200">
-            <h2 className="text-xl font-bold text-slate-900">{p.checklistTitle}</h2>
-            <ul className="mt-5 space-y-3">
-              {p.checklist.map((c) => (
-                <li key={c} className="flex gap-3 text-slate-700">
-                  <Check className="mt-0.5 h-5 w-5 shrink-0 text-accent-500" aria-hidden="true" />
-                  {c}
-                </li>
-              ))}
-            </ul>
-            <a href={mail} className="btn-accent mt-8 w-full">
-              <Mail className="h-4 w-4" aria-hidden="true" />
-              E-Mail schreiben
-            </a>
+          <div id="formular" className="relative rounded-3xl border border-slate-200 bg-white p-6 shadow-frame sm:p-8 lg:order-first">
+            <ContactForm />
           </div>
         </div>
       </section>

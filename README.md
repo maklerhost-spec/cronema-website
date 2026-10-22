@@ -53,6 +53,24 @@ Titel, Beschreibung, Canonical, Open Graph und JSON-LD (schema.org), dazu `sitem
 
 Tipp für Prompts in Bolt: Alle Texte stehen in `src/content/*.ts`. Bitte Bolt, Texte dort zu ändern, nicht in den Komponenten.
 
+## Kontaktformular → GoHighLevel
+
+Das Formular auf `/kontakt/` sendet an die Netlify Function `netlify/functions/contact.mts`. Sie legt die Anfrage wie die
+GARAN-Label-App über eine **GHL Private Integration** als Kontakt an (bzw. aktualisiert ihn per E-Mail), setzt die Tags
+`website-anfrage`, `cronema-website` und `interesse-<leistung>` und speichert Thema, Firma, Telefon und Nachricht als Notiz.
+Spam-Schutz wie bei work247.app: unsichtbares Honeypot-Feld, Mindest-Ausfüllzeit, Begrenzung je IP.
+
+Einmalig einrichten (Netlify → Site configuration → Environment variables, bei Bolt-Hosting im verbundenen Netlify-Projekt):
+
+| Variable | Wert |
+|---|---|
+| `GHL_PRIVATE_TOKEN` | Token einer Private Integration in der Cronema-Location (Scopes: Kontakte lesen und schreiben) |
+| `GHL_LOCATION_ID` | ID der Cronema-Location |
+
+Ohne diese Variablen antwortet die Funktion mit einem Fehler und das Formular zeigt den Hinweis mit der E-Mail-Adresse.
+Lokal läuft die Funktion nur mit `npx netlify dev`; bei `npm run dev` wird das Formular angezeigt, kann aber nicht senden.
+Liegt die Website nicht bei Netlify, kann `VITE_CONTACT_ENDPOINT` auf einen anderen Endpunkt zeigen, der dasselbe JSON annimmt.
+
 ## Wo was geändert wird
 
 | Was | Wo |
@@ -61,6 +79,7 @@ Tipp für Prompts in Bolt: Alle Texte stehen in `src/content/*.ts`. Bitte Bolt, 
 | Texte der Leistungsseiten | `src/content/services.ts` |
 | Texte Startseite, Referenzen, Arbeitsweise, Über uns, Kontakt, Meta-Titel | `src/content/pages.ts` |
 | Impressum und Datenschutz | `src/legal/content.ts` |
+| Kontaktformular | `src/components/ContactForm.tsx`, Serverfunktion `netlify/functions/contact.mts` |
 | Cookie-Banner | `src/consent.ts`, `src/components/ConsentBanner.tsx`, Texte in `src/content/consent.ts` |
 | Grafiken (eigene SVG-Zeichnungen) | `src/graphics/ServiceArt.tsx` (je Leistung), `src/graphics/HeroArt.tsx` (Hero und Referenzen), Bausteine in `src/graphics/kit.tsx` |
 | Logo | `public/logo.svg`, `public/logo-light.svg` (für dunkle Flächen), `public/favicon.svg`, `public/logo.png` (512 px); Original-Logo und erster Entwurf in `public/brand/` |

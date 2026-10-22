@@ -1,7 +1,12 @@
-# Netlify: build as Bolt does it; prerendering runs inside "vite build" (see vite.config.ts).
+# Netlify (also Bolt hosting): build as Bolt does it; prerendering runs inside "vite build" (see vite.config.ts).
 [build]
   command = "npm run build"
   publish = "dist"
+
+# Contact form → GoHighLevel (netlify/functions/contact.mts). Needs the environment variables
+# GHL_PRIVATE_TOKEN and GHL_LOCATION_ID. The form posts to /.netlify/functions/contact.
+[functions]
+  directory = "netlify/functions"
 
 # Unknown paths: real 404 page, no fallback to index.html (existing files are served first).
 [[redirects]]
