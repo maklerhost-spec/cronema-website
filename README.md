@@ -1,6 +1,6 @@
 # Cronema – Website
 
-Website von **Cronema (Cross Net Management)**, KI-Programmierschmiede aus München: cronema.com.
+Website von **Cronema (Cross Net Management)**, KI-Programmierschmiede aus München: cronema.de.
 Statische Website, Vite + React + TypeScript + Tailwind CSS, kein Backend. Gleicher Aufbau wie bookique.app und work247.app.
 
 ## Seiten

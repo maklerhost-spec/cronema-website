@@ -151,7 +151,7 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "p",
     "lines": [
-      "This Privacy Policy applies to the website cronema.com (hereinafter “Website”)."
+      "This Privacy Policy applies to the website cronema.de (hereinafter “Website”)."
     ]
   },
   {

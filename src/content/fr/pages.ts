@@ -32,7 +32,7 @@ export const META: typeof DE.META = {
   },
   "privacy": {
     "title": "Déclaration de confidentialité | Cronema",
-    "description": "Déclaration de confidentialité du site cronema.com."
+    "description": "Déclaration de confidentialité du site cronema.de."
   }
 };
 
@@ -503,7 +503,7 @@ export const CONTACT_PAGE: typeof DE.CONTACT_PAGE = {
     "Y a-t-il un délai ou une date butoir, par exemple une échéance légale ?",
     "Qui utilisera le système ensuite : votre équipe, vos clients ou les deux ?"
   ],
-  "mailSubject": "Demande de projet via cronema.com",
+  "mailSubject": "Demande de projet via cronema.de",
   "nextTitle": "La suite en trois étapes",
   "next": [
     {

@@ -41,7 +41,7 @@ export const PRIVACY: LegalBlock[] = [
   { type: "p", lines: ["Stand: 22. Oktober 2026"] },
   { type: "h2", text: "1. Verantwortlicher" },
   { type: "p", lines: [COMPANY_LEGAL_NAME, `${ADDRESS.join(", ")}, Deutschland`, "Vertreten durch den Geschäftsführer Manfred Sandner", `Telefon: ${PHONE_DISPLAY}`, `E-Mail: ${CONTACT_EMAIL}`] },
-  { type: "p", lines: ["Diese Datenschutzerklärung gilt für die Website cronema.com (im Folgenden „Website“)."] },
+  { type: "p", lines: ["Diese Datenschutzerklärung gilt für die Website cronema.de (im Folgenden „Website“)."] },
   { type: "h2", text: "2. Überblick" },
   {
     type: "ul",

@@ -28,7 +28,7 @@ export const META = {
     description: "Sprechen Sie mit Cronema über Ihr Projekt: Website, App, Individualsoftware, KI-Agent oder Schnittstelle. Per E-Mail oder Telefon, aus München.",
   },
   imprint: { title: "Impressum | Cronema", description: "Impressum von Cronema, KI-Programmierschmiede aus München." },
-  privacy: { title: "Datenschutzerklärung | Cronema", description: "Datenschutzerklärung der Website cronema.com." },
+  privacy: { title: "Datenschutzerklärung | Cronema", description: "Datenschutzerklärung der Website cronema.de." },
 };
 
 export const NAV = {
@@ -339,7 +339,7 @@ export const CONTACT_PAGE = {
     "Gibt es einen Zeitrahmen oder einen festen Termin, etwa eine gesetzliche Frist?",
     "Wer arbeitet später mit dem System: Ihr Team, Ihre Kunden oder beide?",
   ],
-  mailSubject: "Projektanfrage über cronema.com",
+  mailSubject: "Projektanfrage über cronema.de",
   nextTitle: "So geht es weiter",
   next: [
     { title: "Kurzes Gespräch", text: "Wir verstehen Ihr Vorhaben und stellen die richtigen Fragen." },

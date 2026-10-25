@@ -32,7 +32,7 @@ export const META: typeof DE.META = {
   },
   "privacy": {
     "title": "Política de privacidad | Cronema",
-    "description": "Política de privacidad del sitio web cronema.com."
+    "description": "Política de privacidad del sitio web cronema.de."
   }
 };
 
@@ -503,7 +503,7 @@ export const CONTACT_PAGE: typeof DE.CONTACT_PAGE = {
     "¿Existe un plazo o una fecha fija, como una obligación legal?",
     "¿Quién trabajará después con el sistema: su equipo, sus clientes o ambos?"
   ],
-  "mailSubject": "Solicitud de proyecto a través de cronema.com",
+  "mailSubject": "Solicitud de proyecto a través de cronema.de",
   "nextTitle": "Los siguientes pasos",
   "next": [
     {
