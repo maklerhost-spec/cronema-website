@@ -87,6 +87,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Since when does this apply, and to whom?",
+    "body": [
+     "Batteries, EU: Since 18 August 2025 the retailer duties of the EU Battery Regulation (EU) 2023/1542 apply. Every retailer has to take back portable batteries free of charge (Art. 62) and inform about returns, the crossed-out wheeled bin and the hazards (Art. 74). This applies regardless of the size of the store, so to practically everyone who sells batteries or devices with batteries.",
+     "Batteries, Germany: The details are set out in the Battery Law Implementation Act (BattDG), in force since 7 October 2025. It replaces the Battery Act, which already required similar notices before. Online retailers show the notices clearly visible and easy to find on their website or enclose them with the shipment (§ 24(3) BattDG).",
+     "Electrical devices: The notices on returning old devices (§ 18(3) ElektroG) apply to retailers that have to take back old devices. Online, these are retailers with at least 400 m² of storage and shipping area for electrical devices; in a shop, from 400 m² of sales area. Anyone selling e-cigarettes or electronic tobacco heaters has to take them back regardless of size.",
+     "Take-back symbol: Retailers with a take-back duty show the symbol of Annex 3a ElektroG on the product page or at checkout and explain how returns and pick-up work (§ 18a(4)). The duty came with the amendment of the ElektroG of 25 November 2025; the transition period ended on 30 June 2026. Since 1 July 2026 the symbol is mandatory. For smaller stores without a take-back duty it is voluntary, and the app shows it as a recommendation.",
+     "Charger pictogram: Since 28 December 2024, phones, headphones, tablets, cameras and other devices charged by cable must state whether a charger is included and which charging power they need (Directive 2022/2380). For laptops this applies since 28 April 2026.",
+     "Data Act: Since 12 September 2025, customers must learn before buying a connected device which data it generates and how they can access it (Art. 3(2) of Regulation (EU) 2023/2854).",
+     "These dates apply to EU law and to Germany. Other countries transpose the WEEE Directive with rules and deadlines of their own; you find the competent authorities below under official sources. This overview is not legal advice."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Setup step by step",
     "body": [

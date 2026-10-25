@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Sinds wanneer geldt dit, en voor wie?",
+    "body": [
+     "Batterijen, EU: Sinds 18 augustus 2025 gelden de plichten voor handelaars uit de EU-batterijverordening (EU) 2023/1542. Elke handelaar moet draagbare batterijen gratis terugnemen (Art. 62) en informeren over terugname, de doorgekruiste afvalcontainer en de gevaren (Art. 74). Dit geldt ongeacht de grootte van je shop. Dus voor praktisch iedereen die batterijen of apparaten met batterijen verkoopt.",
+     "Batterijen, Duitsland: De details staan in de Uitvoeringswet batterijenrecht (BattDG), van kracht sinds 7 oktober 2025. Die vervangt de Batterijwet, die al eerder vergelijkbare meldingen vereiste. Online-handelaars tonen de meldingen duidelijk zichtbaar en makkelijk te vinden op de website of voegen ze bij de zending (§ 24 lid 3 BattDG).",
+     "Elektrische apparaten: De meldingen over het terugnemen van oude apparaten (§ 18 lid 3 ElektroG) gelden voor handelaars die oude apparaten moeten terugnemen. Online zijn dat handelaars met minstens 400 m² opslag- en verzendruimte voor elektrische apparaten; in de winkel vanaf 400 m² verkoopruimte. Wie e-sigaretten of elektronische tabaksverhitters verkoopt, moet ze ongeacht de grootte terugnemen.",
+     "Terugname-symbool: Handelaars met een terugnameplicht tonen het symbool van bijlage 3a ElektroG op de productpagina of bij het afrekenen en leggen uit hoe terugname en afhalen werken (§ 18a lid 4). De plicht kwam met de wijziging van de ElektroG van 25 november 2025; de overgangsperiode eindigde op 30 juni 2026. Sinds 1 juli 2026 is het symbool verplicht. Voor kleinere shops zonder terugnameplicht is het vrijwillig, en de app toont het dan als aanbeveling.",
+     "Opladerpictogram: Sinds 28 december 2024 moeten telefoons, koptelefoons, tablets, camera’s en andere apparaten die via kabel laden aangeven of er een oplader is inbegrepen en welk laadvermogen ze nodig hebben (Richtlijn 2022/2380). Voor laptops geldt dit sinds 28 april 2026.",
+     "Data Act: Sinds 12 september 2025 moeten klanten vóór de aankoop van een verbonden apparaat te weten komen welke gegevens het apparaat genereert en hoe ze daarop toegang hebben (Art. 3 lid 2 van Verordening (EU) 2023/2854).",
+     "Deze data gelden voor het EU-recht en voor Duitsland. Andere landen zetten de WEEE-richtlijn om met eigen regels en termijnen; de bevoegde autoriteiten vind je hieronder bij de officiële bronnen. Dit overzicht is geen juridisch advies."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Instellen stap voor stap",
     "body": [

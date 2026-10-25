@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "De când se aplică și pentru cine?",
+    "body": [
+     "Baterii, UE: Din 18 August 2025 se aplică obligațiile pentru comercianți din Regulamentul (UE) 2023/1542 privind bateriile și deșeurile de baterii. Fiecare comerciant trebuie să preia gratuit bateriile portabile (Art. 62) și să informeze despre retururi, despre pubela cu roți barată și despre pericole (Art. 74). Asta se aplică indiferent de mărimea magazinului, deci practic tuturor celor care vând baterii sau dispozitive cu baterii.",
+     "Baterii, Germania: Detaliile sunt prevăzute în Legea de punere în aplicare a dreptului privind bateriile (BattDG), în vigoare din 7 October 2025. Ea înlocuiește Legea bateriilor, care cerea deja anunțuri similare. Comercianții online arată anunțurile clar vizibil și ușor de găsit pe site sau le includ în colet (§ 24(3) BattDG).",
+     "Echipamente electrice: Anunțurile privind returnarea echipamentelor vechi (§ 18(3) ElektroG) se aplică comercianților care trebuie să preia echipamente vechi. Online, asta înseamnă comercianți cu cel puțin 400 m² de spațiu de depozitare și expediere pentru echipamente electrice; într-un magazin, de la 400 m² de suprafață de vânzare. Oricine vinde e-țigări sau încălzitoare electronice de tutun trebuie să le preia indiferent de mărime.",
+     "Simbol de preluare: Comercianții cu obligație de preluare arată online pe pagina produsului sau la checkout simbolul din Annex 3a ElektroG și explică cum funcționează returul și ridicarea (§ 18a(4)). Obligația a venit odată cu modificarea ElektroG din 25 November 2025; perioada de tranziție s-a încheiat la 30 June 2026. Din 1 July 2026 simbolul este obligatoriu. Pentru magazinele mai mici fără obligație de preluare este opțional, iar aplicația îl arată ca recomandare.",
+     "Pictograma încărcătorului: Din 28 December 2024, telefoanele, căștile, tabletele, camerele și alte dispozitive încărcate prin cablu trebuie să indice dacă un încărcător este inclus și ce putere de încărcare le trebuie (Directiva (UE) 2022/2380). Pentru laptopuri asta se aplică din 28 April 2026.",
+     "Data Act: Din 12 September 2025, clienții trebuie să afle înainte de a cumpăra un dispozitiv conectat ce date generează acesta și cum pot accesa datele (Art. 3(2) din Regulamentul (UE) 2023/2854).",
+     "Aceste date se aplică dreptului UE și Germaniei. Alte țări transpun Directiva WEEE cu propriile reguli și termene; găsești autoritățile competente mai jos, la sursele oficiale. Această prezentare nu este consultanță juridică."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Configurare pas cu pas",
     "body": [

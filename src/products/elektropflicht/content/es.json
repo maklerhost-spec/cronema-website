@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "¿Desde cuándo se aplica y a quién?",
+    "body": [
+     "Pilas y baterías, UE: Desde el 18 de agosto de 2025 se aplican las obligaciones para comerciantes del Reglamento (UE) 2023/1542 sobre pilas y baterías. Todo comerciante debe recoger gratis las pilas y baterías portátiles (art. 62) e informar sobre la devolución, el contenedor con ruedas tachado y los peligros (art. 74). Esto se aplica con independencia del tamaño de la tienda, así que prácticamente a cualquiera que venda pilas o dispositivos con pilas o baterías.",
+     "Pilas y baterías, Alemania: Los detalles los regula la Ley de aplicación del derecho sobre baterías (BattDG), en vigor desde el 7 de octubre de 2025. Sustituye a la Ley de baterías, que ya exigía avisos similares antes. Los comercios online muestran los avisos de forma bien visible y fácil de encontrar en su sitio web o los incluyen en el envío (§ 24(3) BattDG).",
+     "Aparatos eléctricos: Los avisos sobre la devolución de aparatos viejos (§ 18(3) ElektroG) se aplican a los comercios que tienen obligación de recoger aparatos viejos. Online, son los comercios con al menos 400 m² de superficie de almacenamiento y expedición para aparatos eléctricos; en tienda, desde 400 m² de superficie de ventas. Quien venda cigarrillos electrónicos o calentadores electrónicos de tabaco debe recogerlos con independencia del tamaño.",
+     "Símbolo de recogida: Los comercios con obligación de recogida muestran el símbolo del anexo 3a ElektroG en la página del producto o en el checkout y explican cómo funcionan la devolución y la recogida (§ 18a(4)). La obligación llegó con la modificación del ElektroG del 25 de noviembre de 2025; el periodo transitorio terminó el 30 de junio de 2026. Desde el 1 de julio de 2026 el símbolo es obligatorio. Para tiendas pequeñas sin obligación de recogida es voluntario, y la app lo muestra como recomendación.",
+     "Pictograma del cargador: Desde el 28 de diciembre de 2024, los teléfonos, auriculares, tabletas, cámaras y otros dispositivos que se cargan por cable deben indicar si se incluye cargador y qué potencia de carga necesitan (Directiva (UE) 2022/2380). Para los portátiles esto se aplica desde el 28 de abril de 2026.",
+     "Data Act: Desde el 12 de septiembre de 2025, los clientes deben saber antes de comprar un dispositivo conectado qué datos genera y cómo pueden acceder a ellos (art. 3(2) del Reglamento (UE) 2023/2854).",
+     "Estas fechas se aplican al Derecho de la UE y a Alemania. Otros países transponen la Directiva WEEE con sus propias normas y plazos; encontrarás las autoridades competentes abajo, en fuentes oficiales. Este resumen no es asesoramiento jurídico."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Configuración paso a paso",
     "body": [

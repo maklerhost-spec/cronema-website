@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Desde quando se aplica e a quem?",
+    "body": [
+     "Baterias, UE: Since 18 August 2025 aplicam-se as obrigações dos lojistas do Regulamento (UE) 2023/1542 relativo às pilhas e baterias e respetivos resíduos. Todo o lojista tem de aceitar a devolução gratuita de baterias portáteis (Art. 62) e informar sobre a devolução, o caixote do lixo com rodas riscado e os perigos (Art. 74). Aplica-se independentemente do tamanho da loja, portanto a praticamente todos os que vendem baterias ou dispositivos com baterias.",
+     "Baterias, Alemanha: Os detalhes estão no Batterierecht-Durchführungsgesetz (BattDG), em vigor desde 7 October 2025. Substitui a Lei das Baterias, que já exigia avisos semelhantes antes. As lojas online mostram os avisos de forma bem visível e fácil de encontrar no site ou incluem-nos no envio (§ 24(3) BattDG).",
+     "Equipamentos elétricos: Os avisos sobre a devolução de equipamentos usados (§ 18(3) ElektroG) aplicam-se aos lojistas que têm de os aceitar de volta. Online, isto abrange lojistas com pelo menos 400 m² de área de armazenagem e expedição para equipamentos elétricos; numa loja física, a partir de 400 m² de área de vendas. Quem vende cigarros eletrónicos ou aquecedores eletrónicos de tabaco tem de os aceitar de volta, independentemente do tamanho.",
+     "Símbolo de devolução: Os lojistas com obrigação de devolução mostram o símbolo do Anexo 3a do ElektroG na página do produto ou no checkout e explicam como funciona a devolução e a recolha (§ 18a(4)). A obrigação veio com a alteração do ElektroG de 25 November 2025; o período de transição terminou em 30 June 2026. Since 1 July 2026 o símbolo é obrigatório. Para lojas mais pequenas sem obrigação de devolução é voluntário, e a app mostra-o como recomendação.",
+     "Pictograma do carregador: Since 28 December 2024, telemóveis, auscultadores, tablets, câmaras e outros dispositivos carregados por cabo têm de indicar se incluem carregador e qual a potência de carregamento de que precisam (Diretiva (UE) 2022/2380). Para portáteis, isto aplica-se desde 28 April 2026.",
+     "Data Act: Since 12 September 2025, os clientes têm de saber, antes da compra de um dispositivo conectado, que dados ele gera e como lhes podem aceder (Art. 3(2) do Regulamento (UE) 2023/2854).",
+     "Estas datas aplicam-se ao direito da UE e à Alemanha. Outros países transpõem a Diretiva relativa aos resíduos de equipamentos elétricos e eletrónicos (WEEE) com regras e prazos próprios; encontras as autoridades competentes abaixo, nas fontes oficiais. Este resumo não é aconselhamento jurídico."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Configuração passo a passo",
     "body": [

@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Od kedy to platí a koho sa to týka?",
+    "body": [
+     "Batérie, EÚ: Od 18. augusta 2025 platia povinnosti predajcov podľa Nariadenia (EÚ) 2023/1542 o batériách a odpadových batériách. Každý predajca musí bezplatne preberať prenosné batérie (Art. 62) a informovať o vrátení, preškrtnutom kontajneri na kolieskach a nebezpečenstvách (Art. 74). Platí to bez ohľadu na veľkosť obchodu. Teda prakticky pre každého, kto predáva batérie alebo zariadenia s batériami.",
+     "Batérie, Nemecko: Podrobnosti upravuje Zákon o vykonávaní batériového práva (BattDG), v platnosti od 7. októbra 2025. Nahrádza Zákon o batériách, ktorý už predtým vyžadoval podobné oznámenia. Online predajcovia zobrazujú oznámenia jasne viditeľné a ľahko nájditeľné na svojej webovej stránke alebo ich prikladajú k zásielke (§ 24(3) BattDG).",
+     "Elektrozariadenia: Oznámenia o vrátení starých zariadení (§ 18(3) ElektroG) platia pre predajcov, ktorí musia staré zariadenia preberať. Online ide o predajcov s aspoň 400 m² skladovej a expedičnej plochy pre elektrozariadenia; v predajni od 400 m² predajnej plochy. Kto predáva e‑cigarety alebo elektronické ohrievače tabaku, musí ich preberať bez ohľadu na veľkosť.",
+     "Symbol spätného zberu: Predajcovia s povinnosťou spätného zberu zobrazujú online na stránke produktu alebo pri pokladni symbol podľa prílohy 3a ElektroG a vysvetľujú, ako funguje vrátenie a vyzdvihnutie (§ 18a(4)). Povinnosť prišla novelou ElektroG z 25. novembra 2025; prechodné obdobie sa skončilo 30. júna 2026. Od 1. júla 2026 je symbol povinný. Pre menšie obchody bez povinnosti spätného zberu je dobrovoľný a aplikácia ho ukazuje ako odporúčanie.",
+     "Piktogram nabíjačky: Od 28. decembra 2024 musia telefóny, slúchadlá, tablety, fotoaparáty a iné zariadenia nabíjané káblom uvádzať, či je priložená nabíjačka a aký nabíjací výkon potrebujú (Smernica (EÚ) 2022/2380). Pre laptopy to platí od 28. apríla 2026.",
+     "Data Act: Od 12. septembra 2025 sa zákazníci musia pred kúpou prepojeného zariadenia dozvedieť, aké údaje zariadenie vytvára a ako k nim môžu pristupovať (Art. 3(2) Nariadenia (EÚ) 2023/2854 o údajoch).",
+     "Tieto termíny platia pre právo EÚ a pre Nemecko. Iné krajiny transponujú smernicu WEEE s vlastnými pravidlami a termínmi; príslušné orgány nájdete nižšie v časti Oficiálne zdroje. Tento prehľad nie je právne poradenstvo."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Úvodné nastavenie krok za krokom",
     "body": [

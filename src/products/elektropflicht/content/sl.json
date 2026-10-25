@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Od kdaj to velja in za koga?",
+    "body": [
+     "Baterije, EU: Od 18. avgusta 2025 veljajo obveznosti trgovcev iz Uredbe (EU) 2023/1542 o baterijah in odpadnih baterijah. Vsak trgovec mora prenosne baterije prevzeti brezplačno (Art. 62) ter obvestiti o vračilu, prečrtanem zabojniku na kolesih in nevarnostih (Art. 74). To velja ne glede na velikost trgovine, torej praktično za vse, ki prodajajo baterije ali naprave z baterijami.",
+     "Baterije, Nemčija: Podrobnosti določa Batterierecht-Durchführungsgesetz (BattDG), v veljavi od 7. oktobra 2025. Nadomešča Batteriegesetz, ki je podobna obvestila zahteval že prej. Spletni trgovci obvestila prikažejo jasno vidna in lahko najdljiva na spletnem mestu ali jih priložijo pošiljki (§ 24(3) BattDG).",
+     "Električne naprave: Obvestila o vračilu starih naprav (§ 18(3) ElektroG) veljajo za trgovce, ki morajo stare naprave prevzemati. Na spletu to velja za trgovce z najmanj 400 m² skladiščne in odpremne površine za električne naprave; v prodajalni od 400 m² prodajne površine. Kdor prodaja e-cigarete ali elektronske grelnike tobaka, jih mora prevzeti ne glede na velikost.",
+     "Simbol za vračanje: Trgovci z obveznostjo vračila na strani izdelka ali ob zaključku nakupa prikažejo simbol iz Annex 3a ElektroG in pojasnijo, kako potekata vračilo in prevzem (§ 18a(4)). Obveznost je prišla z novelo ElektroG z dne 25. novembra 2025; prehodno obdobje se je končalo 30. junija 2026. Od 1. julija 2026 je simbol obvezen. Za manjše trgovine brez obveznosti vračila je prostovoljen, aplikacija ga prikaže kot priporočilo.",
+     "Piktogram polnilnika: Od 28. decembra 2024 morajo telefoni, slušalke, tablice, kamere in druge naprave, ki se polnijo s kablom, navesti, ali je polnilnik priložen in kakšno moč polnjenja potrebujejo (Direktiva 2022/2380). Za prenosne računalnike to velja od 28. aprila 2026.",
+     "Data Act: Od 12. septembra 2025 morajo stranke pred nakupom povezane naprave izvedeti, katere podatke naprava ustvarja in kako lahko do njih dostopajo (Art. 3(2) Uredbe (EU) 2023/2854 o usklajenih pravilih za pravičen dostop do podatkov in njihovo uporabo – Data Act).",
+     "Ti datumi veljajo za pravo EU in za Nemčijo. Druge države prenašajo Direktivo WEEE s svojimi pravili in roki; pristojne organe najdete spodaj pri uradnih virih. Ta pregled ni pravni nasvet."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Nastavitev po korakih",
     "body": [

@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Ó cathain a bhaineann sé seo, agus cé dó?",
+    "body": [
+     "Cadhnraí, AE: Ó 18 Lúnasa 2025 i leith, baineann oibleagáidí an mhiondíoltóra de chuid Rialachán (AE) 2023/1542 maidir le cadhnraí agus dramhchadhnraí. Caithfidh gach miondíoltóir cadhnraí iniompartha a ghlacadh ar ais saor in aisce (Art. 62) agus eolas a thabhairt faoi thabhairt ar ais, faoin mbosca bruscair ar rothaí le traslíne, agus faoi na guaiseacha (Art. 74). Baineann sé seo beag beann ar mhéid an tsiopa, mar sin le gach duine a dhíolann cadhnraí nó gléasanna le cadhnraí go praiticiúil.",
+     "Cadhnraí, an Ghearmáin: Leagtar amach na sonraí sa Dlí um Fheidhmiú an Dhlí Cadhnraí (BattDG), i bhfeidhm ó 7 Deireadh Fómhair 2025. Cuireann sé an tAcht Cadhnraí roimhe seo in ionad, a d’éiligh fógraí cosúil leo cheana féin. Taispeánann miondíoltóirí ar líne na fógraí go soiléir le feiceáil agus éasca a aimsiú ar a suíomh Gréasáin, nó cuireann siad isteach sa loingsiún iad (§ 24(3) BattDG).",
+     "Gléasanna leictreacha: Baintear na fógraí maidir le tuairisceán sean‑ghléasanna (§ 18(3) ElektroG) le miondíoltóirí a chaithfidh sean‑ghléasanna a ghlacadh ar ais. Ar líne, is iad sin miondíoltóirí a bhfuil ar a laghad 400 m² d’achar stórála agus seolta do ghléasanna leictreacha; i siopa, ó 400 m² d’achar díolacháin. Caithfidh aon duine a dhíolann toitíní leictreonacha nó téitheoirí tobac leictreonacha iad a ghlacadh ar ais beag beann ar an méid.",
+     "Siombail ghlactha ar ais: Taispeánann miondíoltóirí a bhfuil dualgas glactha ar ais orthu siombail Iarscríbhinn 3a ElektroG ar leathanach an táirge nó ag an tseiceáil‑amach, agus míníonn siad conas a oibríonn tabhairt ar ais agus bailiú (§ 18a(4)). Tháinig an dualgas leis an leasú ar an ElektroG an 25 Samhain 2025; chríochnaigh an tréimhse aistrithe an 30 Meitheamh 2026. Ó 1 Iúil 2026 i leith tá an siombail éigeantach. I gcás siopaí beaga gan dualgas glactha ar ais, tá sé deonach, agus taispeánann an aip é mar mholadh.",
+     "Picteagram luchtaire: Ó 28 Nollaig 2024 i leith, caithfidh fóin, cluasáin, táibléid, ceamaraí agus gléasanna eile a mhuirearaítear le cábla a rá an bhfuil luchtaire san áireamh agus cén chumhacht luchtaithe a theastaíonn uathu (Treoir (AE) 2022/2380). I gcás ríomhairí glúine, baineann sé seo ó 28 Aibreán 2026 i leith.",
+     "An tAcht Sonraí: Ó 12 Meán Fómhair 2025 i leith, ní mór do chustaiméirí a fháil amach roimh ghléas nasctha a cheannach cé na sonraí a ghineann sé agus conas is féidir leo rochtain a fháil orthu (Airteagal 3(2) de Rialachán (AE) 2023/2854).",
+     "Baineann na dátaí seo le dlí an AE agus leis an nGearmáin. Leagann tíortha eile an Treoir WEEE i bhfeidhm lena rialacha agus lena spriocdhátaí féin; gheobhaidh tú na húdaráis inniúla thíos faoi fhoinsí oifigiúla. Ní comhairle dlí é an forbhreathnú seo."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Socrú céim ar chéim",
     "body": [

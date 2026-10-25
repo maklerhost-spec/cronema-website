@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Depuis quand cela s’applique-t-il, et à qui ?",
+    "body": [
+     "Piles et batteries, UE : Depuis le 18 août 2025, les obligations des détaillants du Règlement (UE) 2023/1542 relatif aux batteries et aux déchets de batteries s’appliquent. Chaque détaillant doit reprendre gratuitement les piles portables (Art. 62) et informer sur la reprise, la poubelle barrée et les dangers (Art. 74). Cela vaut quelle que soit la taille du magasin, donc pratiquement pour toute personne qui vend des batteries ou des appareils avec batteries.",
+     "Piles et batteries, Allemagne : Les détails sont fixés dans la loi d’exécution du droit des batteries (BattDG), en vigueur depuis le 7 octobre 2025. Elle remplace la loi sur les batteries, qui exigeait déjà des informations similaires auparavant. Les détaillants en ligne affichent ces informations bien en vue et faciles à trouver sur leur site web, ou les joignent à l’envoi (§ 24(3) BattDG).",
+     "Équipements électriques : Les informations sur la reprise des anciens appareils (§ 18(3) ElektroG) s’appliquent aux détaillants qui doivent reprendre les anciens appareils. En ligne, cela concerne les détaillants disposant d’au moins 400 m² de surface de stockage et d’expédition pour les équipements électriques ; en magasin, à partir de 400 m² de surface de vente. Quiconque vend des e‑cigarettes ou des dispositifs électroniques de chauffage du tabac doit les reprendre quelle que soit sa taille.",
+     "Symbole de reprise : Les détaillants soumis à l’obligation de reprise affichent le symbole de l’annexe 3a ElektroG sur la page produit ou au passage en caisse et expliquent comment fonctionnent la reprise et l’enlèvement (§ 18a(4)). L’obligation vient de la modification de l’ElektroG du 25 novembre 2025 ; la période transitoire a pris fin le 30 juin 2026. Depuis le 1er juillet 2026, le symbole est obligatoire. Pour les petites boutiques sans obligation de reprise, il est facultatif, et l’app l’affiche alors comme recommandation.",
+     "Pictogramme du chargeur : Depuis le 28 décembre 2024, les téléphones, écouteurs, tablettes, appareils photo et autres appareils chargés par câble doivent indiquer si un chargeur est inclus et quelle puissance de charge ils nécessitent (directive (UE) 2022/2380). Pour les ordinateurs portables, cela s’applique depuis le 28 avril 2026.",
+     "Data Act : Depuis le 12 septembre 2025, les clients doivent savoir, avant d’acheter un appareil connecté, quelles données il génère et comment y accéder (Art. 3(2) du Règlement (UE) 2023/2854).",
+     "Ces dates s’appliquent au droit de l’UE et à l’Allemagne. Les autres pays transposent la directive WEEE avec leurs propres règles et délais ; vous trouverez les autorités compétentes ci‑dessous sous sources officielles. Ce résumé ne constitue pas un avis juridique."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Configuration étape par étape",
     "body": [

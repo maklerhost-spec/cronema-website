@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Mistä alkaen tämä koskee ja ketä?",
+    "body": [
+     "Paristot, EU: 18 August 2025 alkaen sovelletaan EU:n paristoasetuksen (EU) 2023/1542 jälleenmyyjän velvoitteita. Jokaisen kauppiaan on otettava kannettavat paristot maksutta takaisin (Art. 62) ja kerrottava palautuksesta, yliviivatusta pyörällisestä jäteastia-merkistä ja vaaroista (Art. 74). Tämä koskee kaupan koosta riippumatta käytännössä kaikkia, jotka myyvät paristoja tai paristoja sisältäviä laitteita.",
+     "Paristot, Saksa: Yksityiskohdat on säädetty laissa Batterierecht-Durchführungsgesetz (BattDG), voimassa 7 October 2025 alkaen. Se korvaa Batteriegesetzin, joka vaati jo aiemmin vastaavia ilmoituksia. Verkkokauppiaat näyttävät ilmoitukset selkeästi ja helposti löydettävästi verkkosivulla tai liittävät ne lähetykseen (§ 24(3) BattDG).",
+     "Sähkölaitteet: Ilmoitukset vanhojen laitteiden palautuksesta (§ 18(3) ElektroG) koskevat kauppiaita, joiden on otettava vanhat laitteet takaisin. Verkkokaupoissa tämä koskee kauppiaita, joilla on vähintään 400 m² sähkö­laitteiden varasto- ja lähetysalaa; myymälässä 400 m² myyntialasta alkaen. Jos myyt e-savukkeita tai elektronisia tupakankuumentimia, sinun on otettava ne takaisin koosta riippumatta.",
+     "Palautussymboli: Palautusvelvolliset kauppiaat näyttävät tuotesivulla tai kassalla ElektroG:n liitteen 3a symbolin ja selittävät, miten palautus ja nouto toimivat (§ 18a(4)). Velvollisuus tuli ElektroG:n 25 November 2025 annetun muutoksen myötä; siirtymäaika päättyi 30 June 2026. 1 July 2026 alkaen symboli on pakollinen. Pienemmille, ilman palautusvelvollisuutta oleville kaupoille se on vapaaehtoinen, ja sovellus näyttää sen suosituksena.",
+     "Laturipiktogrammi: 28 December 2024 alkaen puhelimissa, kuulokkeissa, tableteissa, kameroissa ja muissa kaapelilla ladattavissa laitteissa on ilmoitettava, sisältyykö laturi ja mitä lataustehoa laite tarvitsee (direktiivi (EU) 2022/2380). Kannettaviin tietokoneisiin tämä koskee 28 April 2026 alkaen.",
+     "Data Act: 12 September 2025 alkaen asiakkaiden on saatava ennen yhdistetyn laitteen ostoa tieto siitä, mitä dataa laite tuottaa ja miten siihen pääsee käsiksi (asetuksen (EU) 2023/2854 3 artiklan 2 kohta).",
+     "Nämä päivämäärät koskevat EU-oikeutta ja Saksaa. Muut maat panevat WEEE-direktiivin täytäntöön omilla säännöillä ja määräajoilla; toimivaltaiset viranomaiset löydät alta kohdasta viralliset lähteet. Tämä on yleiskuva, ei oikeudellista neuvontaa."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Käyttöönotto vaihe vaiheelta",
     "body": [

@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Mióta érvényes, és kire?",
+    "body": [
+     "Elemek, EU: 18 August 2025 óta érvényesek az (EU) 2023/1542 rendelet kereskedői kötelezettségei. Minden kereskedőnek ingyenesen vissza kell vennie a hordozható elemeket (Art. 62), és tájékoztatnia kell a visszavételről, az áthúzott kerekes kuka jelről és a veszélyekről (Art. 74). Ez a bolt méretétől függetlenül vonatkozik mindenkire, aki elemeket vagy elemmel működő készülékeket árul.",
+     "Elemek, Németország: A részleteket az Akkumulátorjog végrehajtásáról szóló törvény (BattDG) tartalmazza, 7 October 2025 óta hatályos. Ez váltotta fel az Akkumulátortörvényt, amely már korábban is hasonló tájékoztatásokat írt elő. Az online kereskedők a tájékoztatásokat a weboldalon jól láthatóan és könnyen megtalálhatóan jelenítik meg, vagy a küldeményhez mellékelik (§ 24(3) BattDG).",
+     "Elektromos készülékek: Az elhasznált készülékek visszavételére vonatkozó tájékoztatások (§ 18(3) ElektroG) azokra a kereskedőkre vonatkoznak, akiknek kötelező a visszavétel. Online ez azoknál áll fenn, akiknek legalább 400 m² raktár- és feladási területük van elektromos készülékekhez; üzletben 400 m² eladótértől. Aki e-cigarettát vagy elektronikus dohányhevítőt árul, mérettől függetlenül köteles visszavenni.",
+     "Visszavételi szimbólum: A visszavételre kötelezett kereskedők a termékoldalon vagy a pénztárnál megjelenítik az Annex 3a ElektroG szerinti szimbólumot, és elmagyarázzák, hogyan működik a visszavétel és a felvétel (§ 18a(4)). A kötelezettség az ElektroG 25 November 2025-i módosításával jött, az átmeneti időszak 30 June 2026-án ért véget. 1 July 2026 óta a szimbólum kötelező. A kisebb, visszavételi kötelezettség nélküli boltoknál önkéntes, az app ilyenkor ajánlásként mutatja.",
+     "Töltő piktogram: 28 December 2024 óta a kábellel tölthető telefonoknak, fejhallgatóknak, tableteknek, fényképezőgépeknek és más eszközöknek fel kell tüntetniük, hogy van-e töltő a dobozban, és mekkora töltési teljesítményre van szükségük (2022/2380 irányelv). Laptopokra 28 April 2026 óta vonatkozik.",
+     "Data Act: 12 September 2025 óta a vevőknek még a vásárlás előtt meg kell tudniuk a csatlakoztatott eszközökről, hogy milyen adatokat generálnak, és hogyan férhetnek hozzájuk (Art. 3(2) of Regulation (EU) 2023/2854).",
+     "Ezek a dátumok az uniós jogra és Németországra vonatkoznak. Más országok a WEEE irányelvet saját szabályokkal és határidőkkel ültetik át; a hatáskörrel rendelkező hatóságokat lejjebb, az hivatalos források alatt találod. Ez az összefoglaló nem minősül jogi tanácsadásnak."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Beállítás lépésről lépésre",
     "body": [

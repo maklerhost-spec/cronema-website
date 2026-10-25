@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Od kada to vrijedi i za koga?",
+    "body": [
+     "Baterije, EU: Od 18. kolovoza 2025. vrijede obveze trgovaca iz Uredbe (EU) 2023/1542 o baterijama i otpadnim baterijama. Svaki trgovac mora besplatno preuzeti prijenosne baterije (Art. 62) i informirati o povratu, precrtanoj kanti na kotačima i opasnostima (Art. 74). To vrijedi bez obzira na veličinu trgovine, dakle praktično za svakoga tko prodaje baterije ili uređaje s baterijama.",
+     "Baterije, Njemačka: Pojedinosti uređuje Zakon o provedbi propisa o baterijama (BattDG), na snazi od 7. listopada 2025. On zamjenjuje Zakon o baterijama, koji je slične obavijesti tražio i prije. Internetski trgovci prikazuju obavijesti jasno vidljivo i lako pronađivo na web-mjestu ili ih prilažu pošiljci (§ 24(3) BattDG).",
+     "Električni uređaji: Obavijesti o povratu starih uređaja (§ 18(3) ElektroG) vrijede za trgovce koji moraju preuzimati stare uređaje. Online su to trgovci s najmanje 400 m² skladišnog i otpremnog prostora za električne uređaje; u trgovini od 400 m² prodajne površine. Tko prodaje e-cigarete ili elektroničke grijače duhana mora ih preuzimati neovisno o veličini.",
+     "Simbol za povrat: Trgovci s obvezom preuzimanja prikazuju na mreži na stranici proizvoda ili pri naplati simbol iz Priloga 3a ElektroG i objašnjavaju kako funkcioniraju povrat i preuzimanje (§ 18a(4)). Obveza je došla izmjenom ElektroG od 25. studenoga 2025.; prijelazno razdoblje završilo je 30. lipnja 2026. Od 1. srpnja 2026. simbol je obvezan. Za manje trgovine bez obveze preuzimanja on je dobrovoljan, a aplikacija ga tada prikazuje kao preporuku.",
+     "Piktogram punjača: Od 28. prosinca 2024. telefoni, slušalice, tableti, kamere i drugi uređaji koji se pune kabelom moraju navesti je li punjač uključen i koju im snagu punjenja treba (Direktiva (EU) 2022/2380). Za prijenosna računala to vrijedi od 28. travnja 2026.",
+     "Data Act: Od 12. rujna 2025. kupci moraju prije kupnje povezanog uređaja saznati koje podatke uređaj generira i kako im mogu pristupiti (Art. 3(2) of Regulation (EU) 2023/2854).",
+     "Ovi datumi vrijede za pravo EU-a i za Njemačku. Druge zemlje prenose WEEE Direktivu vlastitim pravilima i rokovima; nadležna tijela nalaziš dolje pod službenim izvorima. Ovaj pregled nije pravni savjet."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Postavljanje korak po korak",
     "body": [

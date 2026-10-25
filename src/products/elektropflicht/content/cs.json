@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Od kdy to platí a pro koho?",
+    "body": [
+     "Baterie, EU: Od 18. srpna 2025 platí povinnosti prodejců podle nařízení (EU) 2023/1542 o bateriích a odpadních bateriích. Každý prodejce musí bezplatně zpětně odebírat přenosné baterie (Art. 62) a informovat o vracení, přeškrtnuté popelnici na kolečkách a rizicích (Art. 74). Platí to bez ohledu na velikost obchodu, tedy prakticky pro každého, kdo prodává baterie nebo zařízení s bateriemi.",
+     "Baterie, Německo: Podrobnosti upravuje zákon o provedení právní úpravy baterií (BattDG), účinný od 7. října 2025. Nahrazuje zákon o bateriích, který už dříve vyžadoval podobná oznámení. Online prodejci zobrazují oznámení zřetelně a snadno k nalezení na svém webu, nebo je přikládají k zásilce (§ 24(3) BattDG).",
+     "Elektrozařízení: Oznámení o vracení starých zařízení (§ 18(3) ElektroG) platí pro prodejce, kteří musí stará zařízení přebírat. Online jde o prodejce s alespoň 400 m² skladové a expediční plochy pro elektrozařízení; v kamenném obchodě od 400 m² prodejní plochy. Kdo prodává e‑cigarety nebo elektronické nahřívače tabáku, musí je přebírat bez ohledu na velikost.",
+     "Symbol zpětného odběru: Prodejci s povinností zpětného odběru zobrazují na stránce produktu nebo při objednávce symbol podle Annex 3a ElektroG a vysvětlují, jak funguje vrácení a vyzvednutí (§ 18a(4)). Povinnost přišla s novelou ElektroG ze dne 25. listopadu 2025; přechodné období skončilo 30. června 2026. Od 1. července 2026 je symbol povinný. Pro menší obchody bez povinnosti zpětného odběru je dobrovolný a aplikace ho zobrazuje jako doporučení.",
+     "Piktogram nabíječky: Od 28. prosince 2024 musí telefony, sluchátka, tablety, fotoaparáty a další zařízení nabíjená kabelem uvádět, zda je součástí balení nabíječka a jaký nabíjecí výkon potřebují (směrnice (EU) 2022/2380). U laptopů to platí od 28. dubna 2026.",
+     "Data Act: Od 12. září 2025 musí zákazníci před koupí připojeného zařízení zjistit, jaká data zařízení vytváří a jak k nim mohou přistupovat (Art. 3(2) nařízení (EU) 2023/2854 o harmonizovaných pravidlech týkajících se spravedlivého přístupu k datům a jejich využívání (akt o datech)).",
+     "Tyto termíny platí pro právo EU a pro Německo. Ostatní země provádějí směrnici WEEE s vlastními pravidly a lhůtami; příslušné orgány najdete níže u oficiálních zdrojů. Tento přehled není právní poradenství."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Úvodní nastavení krok za krokem",
     "body": [

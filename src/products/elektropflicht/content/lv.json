@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Kopš kura brīža tas attiecas un uz ko?",
+    "body": [
+     "Baterijas, ES: Kopš 18 August 2025 ir spēkā mazumtirgotāju pienākumi saskaņā ar Regulu (ES) 2023/1542 par baterijām un atkritumu baterijām. Katram tirgotājam bez maksas jāpieņem atpakaļ pārnēsājamās baterijas (Art. 62) un jāinformē par atgriešanu, pārsvītrotās atkritumu tvertnes simbolu un riskiem (Art. 74). Tas attiecas neatkarīgi no veikala lieluma, tātad praktiski uz ikvienu, kas pārdod baterijas vai ierīces ar baterijām.",
+     "Baterijas, Vācija: Sīkāk to nosaka Bateriju tiesību aktu īstenošanas likums (BattDG), spēkā kopš 7 October 2025. Tas aizstāj Bateriju likumu, kas jau iepriekš prasīja līdzīgus paziņojumus. Tiešsaistes tirgotāji sniedz paziņojumus tīmekļa vietnē skaidri redzamā un viegli atrodama vietā vai pievieno tos sūtījumam (§ 24(3) BattDG).",
+     "Elektroiekārtas: Paziņojumi par veco iekārtu nodošanu (§ 18(3) ElektroG) attiecas uz tirgotājiem, kuriem ir pienākums pieņemt atpakaļ vecās iekārtas. Tiešsaistē tie ir tirgotāji ar vismaz 400 m² elektroiekārtu glabāšanas un nosūtīšanas platības; veikalā — no 400 m² tirdzniecības platības. Ikvienam, kas pārdod e‑cigaretes vai elektroniskos tabakas karsētājus, tās jāpieņem atpakaļ neatkarīgi no lieluma.",
+     "Nodošanas simbols: Tirgotājiem ar nodošanas pienākumu ir jāparāda Annex 3a ElektroG simbols produkta lapā vai noformējot pirkumu un jāizskaidro, kā notiek nodošana un savākšana (§ 18a(4)). Pienākums ieviests ar ElektroG grozījumiem no 25 November 2025; pārejas periods beidzās 30 June 2026. Kopš 1 July 2026 simbols ir obligāts. Mazākiem veikaliem bez nodošanas pienākuma tas ir brīvprātīgs, un lietotne to rāda kā ieteikumu.",
+     "Lādētāja piktogramma: Kopš 28 December 2024 telefoni, austiņas, planšetdatori, kameras un citas ar kabeli lādējamas ierīces norāda, vai komplektā ir lādētājs un kāda uzlādes jauda tām ir vajadzīga (Direktīva (ES) 2022/2380). Datoriem (klēpjdatoriem) tas attiecas kopš 28 April 2026.",
+     "Data Act: Kopš 12 September 2025 klientiem pirms iegādes ir jāuzzina, kādus datus rada pievienotā ierīce un kā tiem var piekļūt (Art. 3(2) Regulas (ES) 2023/2854).",
+     "Šie datumi attiecas uz ES tiesībām un uz Vāciju. Citas valstis pārņem WEEE direktīvu ar saviem noteikumiem un termiņiem; kompetentās iestādes jūs atradīsiet zemāk pie oficiālajiem avotiem. Šis pārskats nav juridiska konsultācija."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Iestatīšana soli pa solim",
     "body": [

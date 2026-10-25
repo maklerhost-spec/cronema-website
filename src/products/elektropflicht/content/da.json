@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Hvornår gælder det fra, og for hvem?",
+    "body": [
+     "Batterier, EU: Siden 18. august 2025 gælder forhandlerpligterne i EU’s batteriforordning (EU) 2023/1542. Hver forhandler skal gratis tage bærbare batterier tilbage (Art. 62) og oplyse om retur, den overstregede skraldespand og farerne (Art. 74). Det gælder uanset butikkens størrelse – altså næsten alle, der sælger batterier eller produkter med batterier.",
+     "Batterier, Tyskland: Detaljerne står i Batteriretsgennemførelsesloven (BattDG), i kraft siden 7. oktober 2025. Den afløser batteriloven, som allerede krævede lignende oplysninger før. Onlineforhandlere viser oplysningerne tydeligt og let at finde på deres website eller vedlægger dem forsendelsen (§ 24(3) BattDG).",
+     "Elektriske apparater: Oplysningerne om tilbagelevering af udtjente apparater (§ 18(3) ElektroG) gælder for forhandlere, der skal tage udtjente apparater tilbage. Online er det forhandlere med mindst 400 m² lager- og forsendelsesareal for elektriske apparater; i en butik fra 400 m² salgsareal. Sælger du e-cigaretter eller elektroniske tobaksvarmere, skal du tage dem tilbage uanset størrelse.",
+     "Tilbagetagelsessymbol: Forhandlere med tilbagetagningspligt viser symbolet i bilag 3a til ElektroG på produktsiden eller ved checkout og forklarer, hvordan returnering og afhentning fungerer (§ 18a(4)). Pligten kom med ændringen af ElektroG af 25. november 2025; overgangsperioden sluttede den 30. juni 2026. Siden 1. juli 2026 er symbolet obligatorisk. For mindre butikker uden tilbagetagningspligt er det frivilligt, og appen viser det som en anbefaling.",
+     "Opladerpiktogram: Siden 28. december 2024 skal telefoner, hovedtelefoner, tablets, kameraer og andre enheder, der oplades med kabel, oplyse, om der følger en oplader med, og hvilken ladeeffekt de behøver (direktiv (EU) 2022/2380). For bærbare computere gælder det siden 28. april 2026.",
+     "Data Act: Siden 12. september 2025 skal kunder før køb af en forbundet enhed få at vide, hvilke data den genererer, og hvordan de kan få adgang til dem (Art. 3(2) i forordning (EU) 2023/2854).",
+     "Datoerne gælder for EU-retten og for Tyskland. Andre lande gennemfører WEEE-direktivet med egne regler og frister; du finder de kompetente myndigheder nedenfor under officielle kilder. Denne oversigt er ikke juridisk rådgivning."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Opsætning trin for trin",
     "body": [

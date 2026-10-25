@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Nuo kada tai taikoma ir kam?",
+    "body": [
+     "Baterijos, ES: Nuo 2025 m. rugpjūčio 18 d. taikomos mažmenininkų pareigos pagal Reglamentą (ES) 2023/1542 dėl baterijų ir atliekų baterijų. Kiekvienas mažmenininkas turi nemokamai priimti grąžinti prietaisų baterijas (Art. 62) ir informuoti apie grąžinimą, perbrauktą ratukinės šiukšlių dėžės piktogramą ir keliamus pavojus (Art. 74). Tai taikoma nepriklausomai nuo parduotuvės dydžio, praktiškai visiems, kurie parduoda baterijas ar įrenginius su baterijomis.",
+     "Baterijos, Vokietija: Išsamias taisykles nustato Baterijų teisės įgyvendinimo įstatymas (BattDG), galiojantis nuo 2025 m. spalio 7 d. Jis pakeitė Baterijų įstatymą, kuris panašių pranešimų reikalavo ir anksčiau. Internetiniai mažmenininkai pranešimus rodo aiškiai matomus ir lengvai randamus svetainėje arba prideda juos prie siuntos (§ 24(3) BattDG).",
+     "Elektros prietaisai: Pranešimai apie senų prietaisų grąžinimą (§ 18(3) ElektroG) taikomi mažmenininkams, kurie privalo priimti senus prietaisus. Internete tai mažmenininkai, turintys ne mažiau kaip 400 m² elektros prietaisų sandėliavimo ir išsiuntimo ploto; parduotuvėje – nuo 400 m² prekybos ploto. Kas parduoda elektronines cigaretes ar elektroninius tabako kaitintuvus, privalo juos priimti grąžinti nepriklausomai nuo dydžio.",
+     "Grąžinimo simbolis: Mažmenininkai, turintys grąžinimo pareigą, internete rodo produkto puslapyje arba atsiskaitymo metu simbolį pagal ElektroG 3a priedą ir paaiškina, kaip veikia grąžinimas ir atsiėmimas (§ 18a(4)). Pareiga įsigaliojo su ElektroG pakeitimu nuo 2025 m. lapkričio 25 d.; pereinamasis laikotarpis baigėsi 2026 m. birželio 30 d. Nuo 2026 m. liepos 1 d. simbolis yra privalomas. Mažesnėms parduotuvėms be grąžinimo pareigos jis savanoriškas, programa tuomet rodo jį kaip rekomendaciją.",
+     "Įkroviklio piktograma: Nuo 2024 m. gruodžio 28 d. telefonai, ausinės, planšetiniai kompiuteriai, fotoaparatai ir kiti laidu įkraunami įrenginiai turi nurodyti, ar įkroviklis pridedamas ir kokios įkrovimo galios jiems reikia (Direktyva (ES) 2022/2380). Nešiojamiesiems kompiuteriams tai taikoma nuo 2026 m. balandžio 28 d.",
+     "Duomenų aktas: Nuo 2025 m. rugsėjo 12 d. klientai prieš pirkdami sujungtą įrenginį turi sužinoti, kokius duomenis jis generuoja ir kaip jie gali su jais susipažinti (Art. 3(2) Reglamento (ES) 2023/2854).",
+     "Šios datos taikomos ES teisei ir Vokietijai. Kitos šalys perkelia WEEE direktyvą su savo taisyklėmis ir terminais; kompetentingas institucijas rasite žemiau, skiltyje „official sources“. Ši apžvalga nėra teisinė konsultacija."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Sąranka žingsnis po žingsnio",
     "body": [

@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Frá hvenær gildir þetta, og fyrir hvern?",
+    "body": [
+     "Rafhlöður, ESB: Frá 18. ágúst 2025 gilda skyldur smásala samkvæmt reglugerð ESB um rafhlöður Reglugerð (ESB) 2023/1542. Allir söluaðilar þurfa að taka við tækjarafhlöðum endurgjaldslaust (Art. 62) og upplýsa um skil, yfirstrikaða hjólatunnumerkið og hættur (Art. 74). Þetta gildir óháð stærð verslunar, í raun fyrir alla sem selja rafhlöður eða tæki með rafhlöðum.",
+     "Rafhlöður, Þýskaland: Nánari reglur eru í innleiðingarlögum um batteríarétt (BattDG), í gildi frá 7. október 2025. Þau leysa af hólmi batteríulögin sem þegar kröfðust svipaðra tilkynninga. Netverslanir birta tilkynningarnar vel sýnilegar og auðfundnar á vefnum eða leggja þær með sendingunni (§ 24(3) BattDG).",
+     "Raftæki: Tilkynningar um skil á gömlum tækjum (§ 18(3) ElektroG) gilda fyrir söluaðila sem verða að taka við gömlum tækjum. Á netinu á þetta við um söluaðila með að minnsta kosti 400 m² af vörugeymslu- og sendingarrými fyrir raftæki; í verslun frá 400 m² af sölurými. Sá sem selur rafsígarettur eða rafræna tóbakshitara þarf að taka þau við óháð stærð.",
+     "Skilamerki: Söluaðilar með skilaskyldu sýna táknið samkvæmt viðauka 3a ElektroG á vörusíðu eða við pöntun og útskýra hvernig skil og afhending virka (§ 18a(4)). Skyldan kom með breytingu á ElektroG 25. nóvember 2025; aðlögunarfresti lauk 30. júní 2026. Frá 1. júlí 2026 er táknið skylt. Fyrir smærri verslanir án skilaskyldu er það valkvætt og appið sýnir það þá sem tillögu.",
+     "Myndtákn hleðslutækis: Frá 28. desember 2024 þurfa símar, heyrnartól, spjaldtölvur, myndavélar og önnur tæki sem eru hlaðin með snúru að segja hvort hleðslutæki fylgi og hvaða hleðsluafl þau þurfa (Tilskipun 2022/2380). Fyrir fartölvur gildir þetta frá 28. apríl 2026.",
+     "Data Act: Frá 12. september 2025 þurfa viðskiptavinir að fá að vita fyrir kaupin á tengdu tæki hvaða gögn það myndar og hvernig þeir geta nálgast þau (Art. 3(2) of Regulation (EU) 2023/2854).",
+     "Þessir dagar eiga við um ESB-reglur og um Þýskaland. Önnur lönd innleiða WEEE-tilskipunina með eigin reglum og frestum; þú finnur viðkomandi yfirvöld fyrir neðan undir opinberum heimildum. Þetta yfirlit er ekki lögfræðiráðgjöf."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Uppsetning skref fyrir skref",
     "body": [

@@ -87,6 +87,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Seit wann gilt das und für wen?",
+    "body": [
+     "Batterien, EU: Seit dem 18. August 2025 gelten die Händlerpflichten der EU-Batterieverordnung (EU) 2023/1542. Jeder Händler muss Gerätebatterien kostenlos zurücknehmen (Art. 62) und über Rückgabe, durchgestrichene Mülltonne und Gefahren informieren (Art. 74). Das gilt unabhängig von der Größe des Shops, also für praktisch jeden, der Batterien oder Geräte mit Batterien verkauft.",
+     "Batterien, Deutschland: Die Einzelheiten regelt das Batterierecht-Durchführungsgesetz (BattDG), in Kraft seit dem 7. Oktober 2025. Es löst das Batteriegesetz ab, das ähnliche Hinweise schon vorher verlangt hat. Online-Händler zeigen die Hinweise gut sichtbar und leicht auffindbar auf der Website oder legen sie der Sendung bei (§ 24 Abs. 3 BattDG).",
+     "Elektrogeräte: Die Hinweise zur Rückgabe von Altgeräten (§ 18 Abs. 3 ElektroG) gelten für Händler, die Altgeräte zurücknehmen müssen. Online sind das Händler mit mindestens 400 m² Lager- und Versandfläche für Elektrogeräte, im Laden ab 400 m² Verkaufsfläche. Wer E-Zigaretten oder elektronische Tabakerhitzer verkauft, muss unabhängig von der Größe zurücknehmen.",
+     "Rücknahme-Symbol: Rücknahmepflichtige Händler zeigen online auf der Produktseite oder bei der Bestellung das Symbol nach Anlage 3a ElektroG und erklären, wie Rückgabe und Abholung funktionieren (§ 18a Abs. 4). Die Pflicht kam mit der Änderung des ElektroG vom 25. November 2025, die Übergangsfrist endete am 30. Juni 2026. Seit dem 1. Juli 2026 ist das Symbol verpflichtend. Für kleinere Shops ohne Rücknahmepflicht ist es freiwillig, die App zeigt es dann als Empfehlung.",
+     "Ladegerät-Piktogramm: Seit dem 28. Dezember 2024 müssen Handys, Kopfhörer, Tablets, Kameras und andere Geräte mit Kabelladung angeben, ob ein Ladegerät dabei ist und welche Ladeleistung sie brauchen (Richtlinie 2022/2380). Für Laptops gilt das seit dem 28. April 2026.",
+     "Data Act: Seit dem 12. September 2025 müssen Kunden vor dem Kauf vernetzter Geräte erfahren, welche Daten das Gerät erzeugt und wie sie darauf zugreifen (Art. 3 Abs. 2 der Verordnung (EU) 2023/2854).",
+     "Die Daten gelten für das EU-Recht und für Deutschland. Andere Länder setzen die WEEE-Richtlinie mit eigenen Regeln und Fristen um; die zuständigen Behörden findest du unten bei den offiziellen Quellen. Diese Übersicht ist keine Rechtsberatung."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Einrichtung Schritt für Schritt",
     "body": [

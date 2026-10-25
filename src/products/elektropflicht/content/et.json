@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Alates millal see kehtib ja kellele?",
+    "body": [
+     "Patareid, EL: Alates 18. augustist 2025 kehtivad jaemüüja kohustused vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL) 2023/1542 patareide ja jäätmepatareide kohta. Iga müüja peab võtma kaasaskantavad patareid tasuta tagasi (Art. 62) ja teavitama tagasitoomisest, läbikriipsutatud ratastega prügikastist ja ohtudest (Art. 74). See kehtib olenemata poe suurusest, seega sisuliselt kõigile, kes müüvad patareisid või patareidega seadmeid.",
+     "Patareid, Saksamaa: Üksikasjad sätestab Patareiõiguse rakendamise seadus (BattDG), jõus alates 7. oktoobrist 2025. See asendab Patareiseaduse, mis nõudis sarnaseid teateid juba varem. Veebimüüjad näitavad teateid veebilehel selgelt nähtavalt ja hõlpsasti leitavalt või lisavad need saadetisele (§ 24(3) BattDG).",
+     "Elektriseadmed: Teated vanade seadmete tagasitoomisest (§ 18(3) ElektroG) kehtivad müüjatele, kes peavad vanu seadmeid tagasi võtma. Veebis on need müüjad, kellel on vähemalt 400 m² elektriseadmete lao- ja saatmispinda; poes alates 400 m² müügipinda. Kes müüb e-sigarette või elektroonilisi tubakasoojendeid, peab need tagasi võtma sõltumata suurusest.",
+     "Tagasivõtmise sümbol: Tagasivõtmiskohustusega müüjad näitavad tootelehel või kassas Lisa 3a ElektroG sümbolit ja selgitavad, kuidas tagasitoomine ja kauba äraviimine käib (§ 18a(4)). Kohustus tuli koos ElektroG 25. novembri 2025. aasta muudatusega; üleminekuaeg lõppes 30. juunil 2026. Alates 1. juulist 2026 on sümbol kohustuslik. Väiksematele poodidele ilma tagasivõtmiskohustuseta on see vabatahtlik ja rakendus näitab seda soovitusena.",
+     "Laadija piktogramm: Alates 28. detsembrist 2024 peavad telefonid, kõrvaklapid, tahvelarvutid, kaamerad ja muud juhtmega laetavad seadmed märkima, kas laadija on kaasas ja millist laadimisvõimsust need vajavad (Euroopa Parlamendi ja nõukogu direktiiv (EL) 2022/2380). Sülearvutitele kehtib see alates 28. aprillist 2026.",
+     "Data Act: Alates 12. septembrist 2025 peab klient enne ühendatud seadme ostmist teada saama, milliseid andmeid seade tekitab ja kuidas ta neile ligi pääseb (Art. 3(2) määrusest (EL) 2023/2854, Euroopa Parlamendi ja nõukogu määrus andmete õiglase juurdepääsu ja kasutamise kohta (andmeseadus)).",
+     "Need kuupäevad kehtivad ELi õiguse ja Saksamaa kohta. Teised riigid võtavad WEEE direktiivi üle enda reeglite ja tähtaegadega; pädevad asutused leiad allpool jaotises Ametlikud allikad. See ülevaade ei ole õigusnõu."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Seadistamine samm-sammult",
     "body": [

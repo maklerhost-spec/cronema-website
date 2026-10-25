@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Sedan när gäller det här, och för vem?",
+    "body": [
+     "Batterier, EU: Sedan den 18 augusti 2025 gäller återförsäljarens skyldigheter enligt förordning (EU) 2023/1542 om batterier och batteriavfall. Varje återförsäljare måste ta tillbaka bärbara batterier kostnadsfritt (Art. 62) och informera om retur, den överkryssade soptunnan och farorna (Art. 74). Det gäller oavsett butikens storlek, alltså i praktiken alla som säljer batterier eller produkter med batterier.",
+     "Batterier, Tyskland: Detaljerna finns i Batterierecht-Durchführungsgesetz (BattDG), i kraft sedan den 7 oktober 2025. Det ersätter Batteriegesetz, som redan tidigare krävde liknande meddelanden. Onlineåterförsäljare visar informationen väl synligt och lätt att hitta på sin webbplats eller bifogar den i försändelsen (§ 24(3) BattDG).",
+     "Elektroapparater: Meddelandena om att lämna tillbaka gamla apparater (§ 18(3) ElektroG) gäller för återförsäljare som måste ta tillbaka gamla apparater. Online gäller det återförsäljare med minst 400 m² lager- och leveransyta för elektrisk utrustning; i butik från 400 m² försäljningsyta. Den som säljer e-cigaretter eller elektroniska tobaksuppvärmare måste ta tillbaka dem oavsett storlek.",
+     "Retursymbol: Återförsäljare med återtagningsskyldighet visar symbolen i bilaga 3a ElektroG på produktsidan eller i kassan och förklarar hur retur och upphämtning fungerar (§ 18a(4)). Skyldigheten kom med ändringen av ElektroG den 25 november 2025; övergångsperioden slutade den 30 juni 2026. Sedan den 1 juli 2026 är symbolen obligatorisk. För mindre butiker utan återtagningsskyldighet är den frivillig, och appen visar den då som en rekommendation.",
+     "Laddarpiktogram: Sedan den 28 december 2024 måste mobiltelefoner, hörlurar, surfplattor, kameror och andra enheter som laddas med kabel ange om en laddare ingår och vilken laddningseffekt de behöver (direktiv 2022/2380). För bärbara datorer gäller det sedan den 28 april 2026.",
+     "Data Act: Sedan den 12 september 2025 måste kunder före köp av en uppkopplad enhet få veta vilka data enheten genererar och hur de kan komma åt dem (Art. 3(2) i förordning (EU) 2023/2854).",
+     "Dessa datum gäller för EU-rätten och för Tyskland. Andra länder genomför WEEE-direktivet med egna regler och tidsfrister; du hittar behöriga myndigheter nedan under officiella källor. Denna översikt är inte juridisk rådgivning."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Konfiguration steg för steg",
     "body": [

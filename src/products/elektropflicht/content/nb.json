@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Fra når gjelder dette, og for hvem?",
+    "body": [
+     "Batterier, EU: Fra 18. august 2025 gjelder forhandlerpliktene i EUs batteriforordning (EU) 2023/1542. Hver forhandler må ta imot portable batterier gratis (Art. 62) og informere om retur, den overkryssede avfallsdunken og farene (Art. 74). Dette gjelder uansett butikkstørrelse, altså praktisk talt alle som selger batterier eller produkter med batterier.",
+     "Batterier, Tyskland: Detaljene står i Batterierecht-Durchführungsgesetz (BattDG), i kraft siden 7. oktober 2025. Den erstatter Batteriegesetz, som allerede krevde lignende opplysninger før. Nettbutikker viser opplysningene godt synlige og lette å finne på nettsiden, eller legger dem ved forsendelsen (§ 24(3) BattDG).",
+     "Elektriske produkter: Opplysningene om retur av gamle apparater (§ 18(3) ElektroG) gjelder for forhandlere som må ta tilbake gamle apparater. På nett er dette forhandlere med minst 400 m² lager- og utsendelsesareal for elektriske produkter; i butikk fra 400 m² salgsareal. Den som selger e-sigaretter eller elektroniske tobakksvarmere, må ta dem tilbake uansett størrelse.",
+     "Retursymbol: Forhandlere med returplikt viser symbolet i vedlegg 3a ElektroG på produktsiden eller i kassen og forklarer hvordan retur og henting fungerer (§ 18a(4)). Plikten kom med endringen av ElektroG av 25. november 2025; overgangsperioden endte 30. juni 2026. Siden 1. juli 2026 er symbolet obligatorisk. For mindre butikker uten returplikt er det frivillig, og appen viser det som en anbefaling.",
+     "Laderpiktogram: Siden 28. desember 2024 må telefoner, hodetelefoner, nettbrett, kameraer og andre enheter som lades med kabel opplyse om lader er inkludert og hvilken ladeeffekt de trenger (direktiv 2022/2380). For bærbare PC-er gjelder dette siden 28. april 2026.",
+     "Data Act: Siden 12. september 2025 må kundene få vite før kjøp av et tilkoblet produkt hvilke data det genererer og hvordan de kan få tilgang (Art. 3(2) i forordning (EU) 2023/2854).",
+     "Disse datoene gjelder for EU-retten og for Tyskland. Andre land gjennomfører WEEE-direktivet med egne regler og frister; du finner de kompetente myndighetene nedenfor under offisielle kilder. Denne oversikten er ikke juridisk rådgivning."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Oppsett trinn for trinn",
     "body": [

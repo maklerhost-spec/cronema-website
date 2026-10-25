@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Da quando vale e per chi?",
+    "body": [
+     "Batterie, UE: Dal 18 agosto 2025 si applicano gli obblighi per i rivenditori del Regolamento (UE) 2023/1542 sulle batterie. Ogni rivenditore deve ritirare gratuitamente le batterie portatili (Art. 62) e informare su restituzione, bidone barrato e pericoli (Art. 74). Vale a prescindere dalla dimensione del negozio, quindi praticamente per chiunque venda batterie o dispositivi con batterie.",
+     "Batterie, Germania: I dettagli sono stabiliti nella Legge di attuazione del diritto sulle batterie (BattDG), in vigore dal 7 ottobre 2025. Sostituisce la Legge sulle batterie, che già richiedeva indicazioni simili. I rivenditori online mostrano le informazioni ben visibili e facili da trovare sul sito oppure le includono nella spedizione (§ 24(3) BattDG).",
+     "Apparecchi elettrici: Le indicazioni sulla restituzione dei vecchi apparecchi (§ 18(3) ElektroG) valgono per i rivenditori che devono ritirare i vecchi apparecchi. Online sono i rivenditori con almeno 400 m² di area di stoccaggio e spedizione per apparecchi elettrici; in negozio, da 400 m² di superficie di vendita. Chi vende sigarette elettroniche o scalda-tabacco elettronici deve ritirarli a prescindere dalla dimensione.",
+     "Simbolo di ritiro: I rivenditori con obbligo di ritiro mostrano online sulla pagina prodotto o al checkout il simbolo dell’allegato 3a ElektroG e spiegano come funzionano restituzione e ritiro (§ 18a(4)). L’obbligo è arrivato con la modifica dell’ElektroG del 25 novembre 2025; il periodo transitorio è finito il 30 giugno 2026. Dal 1 luglio 2026 il simbolo è obbligatorio. Per i negozi più piccoli senza obbligo di ritiro è facoltativo e l’app lo mostra come raccomandazione.",
+     "Pittogramma caricabatterie: Dal 28 dicembre 2024 telefoni, cuffie, tablet, fotocamere e altri dispositivi ricaricati via cavo devono indicare se il caricabatterie è incluso e quale potenza di ricarica richiedono (Direttiva (UE) 2022/2380). Per i laptop vale dal 28 aprile 2026.",
+     "Data Act: Dal 12 settembre 2025 i clienti devono sapere prima dell’acquisto di un dispositivo connesso quali dati genera e come possono accedervi (Art. 3(2) del Regolamento (UE) 2023/2854).",
+     "Queste date valgono per il diritto dell’UE e per la Germania. Gli altri Paesi recepiscono la direttiva WEEE con regole e scadenze proprie; trovi le autorità competenti qui sotto, nelle fonti ufficiali. Questo riepilogo non è consulenza legale."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Configurazione passo dopo passo",
     "body": [

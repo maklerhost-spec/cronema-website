@@ -100,6 +100,19 @@
     ]
    },
    {
+    "id": "dates",
+    "title": "Od kiedy to obowiązuje i kogo dotyczy?",
+    "body": [
+     "Baterie, UE: Od 18 August 2025 obowiązują obowiązki sprzedawców z rozporządzenia w sprawie baterii (UE) 2023/1542. Każdy sprzedawca musi bezpłatnie przyjmować z powrotem baterie przenośne (Art. 62) i informować o zwrotach, przekreślonym pojemniku na kółkach i zagrożeniach (Art. 74). Dotyczy to niezależnie od wielkości sklepu, czyli praktycznie każdego, kto sprzedaje baterie albo urządzenia z bateriami.",
+     "Baterie, Niemcy: Szczegóły reguluje Batterierecht-Durchführungsgesetz (BattDG), obowiązuje od 7 October 2025. Zastępuje ustawę o bateriach, która już wcześniej wymagała podobnych informacji. Sprzedawcy online pokazują informacje dobrze widoczne i łatwe do znalezienia na stronie albo dołączają je do przesyłki (§ 24(3) BattDG).",
+     "Urządzenia elektryczne: Informacje o zwrocie zużytych urządzeń (§ 18(3) ElektroG) dotyczą sprzedawców, którzy muszą przyjmować zwroty. W internecie są to sprzedawcy z co najmniej 400 m² powierzchni magazynowo-wysyłkowej dla sprzętu elektrycznego; w sklepie od 400 m² powierzchni sprzedaży. Każdy, kto sprzedaje e‑papierosy lub elektroniczne podgrzewacze tytoniu, musi je przyjmować niezależnie od wielkości.",
+     "Symbol odbioru: Sprzedawcy z obowiązkiem odbioru pokazują na stronie produktu albo przy zamówieniu symbol z Załącznika 3a ElektroG i wyjaśniają, jak działa zwrot i odbiór (§ 18a(4)). Obowiązek wszedł wraz ze zmianą ElektroG z 25 November 2025; okres przejściowy skończył się 30 June 2026. Od 1 July 2026 symbol jest obowiązkowy. Dla mniejszych sklepów bez obowiązku odbioru jest dobrowolny, a aplikacja pokazuje go jako rekomendację.",
+     "Piktogram ładowarki: Od 28 December 2024 telefony, słuchawki, tablety, aparaty i inne urządzenia ładowane kablem muszą podać, czy ładowarka jest w zestawie i jakiej mocy ładowania potrzebują (Dyrektywa (UE) 2022/2380). Dla laptopów obowiązuje to od 28 April 2026.",
+     "Data Act: Od 12 September 2025 klienci muszą przed zakupem urządzenia połączonego z siecią dowiedzieć się, jakie dane ono wytwarza i jak mogą do nich uzyskać dostęp (Art. 3(2) rozporządzenia (UE) 2023/2854).",
+     "Te daty dotyczą prawa UE i Niemiec. Inne kraje wdrażają dyrektywę WEEE z własnymi zasadami i terminami; właściwe organy znajdziesz poniżej w sekcji oficjalnych źródeł. Ten przegląd nie jest poradą prawną."
+    ]
+   },
+   {
     "id": "setup",
     "title": "Konfiguracja krok po kroku",
     "body": [
