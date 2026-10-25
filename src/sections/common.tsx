@@ -6,6 +6,7 @@ import { PHONE_INTL } from "../config";
 import { HOME } from "../content/pages";
 import { Rich } from "../components/Rich";
 import { pathFor } from "../site";
+import { UI } from "../content/ui";
 
 export function Eyebrow({ children, light = false, index }: { children: ReactNode; light?: boolean; index?: string }) {
   return (
@@ -35,7 +36,7 @@ export function Faq({ title, items }: { title: string; items: { q: string; a: st
     <section id="faq" className="bg-slate-50 py-24 sm:py-32">
       <div className="container-x grid gap-12 lg:grid-cols-[0.8fr_1.2fr]">
         <div className="lg:sticky lg:top-28 lg:self-start">
-          <Eyebrow>FAQ</Eyebrow>
+          <Eyebrow>{UI.faqEyebrow}</Eyebrow>
           <h2 className="mt-4 font-display text-4xl font-bold leading-[1.05] tracking-tight text-ink sm:text-5xl">{title}</h2>
         </div>
         <div className="border-t border-slate-300">
@@ -62,7 +63,7 @@ export function Cta() {
       <div className="pointer-events-none absolute -right-40 top-0 h-[28rem] w-[28rem] rounded-full bg-accent-500/20 blur-3xl" aria-hidden="true" />
       <div className="container-x relative grid gap-10 lg:grid-cols-[1.3fr_0.7fr] lg:items-end">
         <div>
-          <Eyebrow light>Kontakt</Eyebrow>
+          <Eyebrow light>{UI.contactEyebrow}</Eyebrow>
           <h2 className="mt-5 max-w-4xl font-display text-4xl font-bold leading-[1.02] tracking-tight text-white sm:text-6xl">{c.title}</h2>
           <p className="mt-6 max-w-xl text-lg text-slate-300">{c.text}</p>
         </div>
@@ -88,9 +89,9 @@ export function PageHero({ crumbs, title, claim, children, art }: { crumbs: { hr
       <div className="grid-lines pointer-events-none absolute inset-0 opacity-60" aria-hidden="true" />
       <div className="pointer-events-none absolute -right-32 -top-32 h-[30rem] w-[30rem] rounded-full bg-accent-500/20 blur-3xl" aria-hidden="true" />
       <div className="container-x relative">
-        <nav aria-label="Brotkrumen" className="text-xs font-medium uppercase tracking-[0.18em] text-slate-400">
+        <nav aria-label={UI.crumbs.label} className="text-xs font-medium uppercase tracking-[0.18em] text-slate-400">
           <ol className="flex flex-wrap items-center gap-2">
-            <li><a href="/" className="hover:text-accent-300">Start</a></li>
+            <li><a href={pathFor("home")} className="hover:text-accent-300">{UI.crumbs.home}</a></li>
             {crumbs.map((c) => (
               <li key={c.href} className="flex items-center gap-2">
                 <span aria-hidden="true" className="text-slate-600">/</span>

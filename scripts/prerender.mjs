@@ -9,15 +9,18 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dist = join(root, "dist");
 const server = await import(pathToFileURL(join(root, "dist-server", "entry-server.js")).href);
-const { render, ROUTES, absoluteUrl, pathFor, LAST_MODIFIED, SERVICES, SERVICE_IDS, HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE, TEAM, CONTACT_EMAIL, PHONE_DISPLAY, COMPANY_LEGAL_NAME } = server;
+const { render, ROUTES, absoluteUrl, pathFor, setLang, SITE_LANGS, LAST_MODIFIED, SERVICES, SERVICE_IDS, HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE, TEAM, CONTACT_EMAIL, PHONE_DISPLAY, COMPANY_LEGAL_NAME } = server;
 
 const template = await readFile(join(dist, "index.html"), "utf8");
 if (!template.includes("<!--app-html-->") || !template.includes("<!--app-head-->")) {
   throw new Error("dist/index.html has no <!--app-head--> / <!--app-html--> placeholders");
 }
 const pageHtml = (path) => {
-  const { html, head } = render(path);
-  return template.replace("<!--app-head-->", head).replace("<!--app-html-->", html);
+  const { html, head, lang } = render(path);
+  return template
+    .replace(/<html lang="[^"]*">/, `<html lang="${lang}">`)
+    .replace("<!--app-head-->", head)
+    .replace("<!--app-html-->", html);
 };
 
 // 1. Pages
@@ -27,16 +30,26 @@ for (const route of ROUTES) {
   await writeFile(file, pageHtml(route.path));
 }
 
+// The summaries below are German: switch the texts back after the pages.
+setLang("de");
+
 // 2. 404: the home page, not indexed
 await writeFile(
   join(dist, "404.html"),
   pageHtml("/").replace(/<meta name="robots" content="[^"]*" \/>/, '<meta name="robots" content="noindex, follow" />').replace(/<link rel="canonical"[^>]*>/, ""),
 );
 
-// 3. Sitemap
+// 3. Sitemap with every language version of each page (hreflang)
 const priority = (r) => (r.page === "home" ? "1.0" : r.page === "service" || r.page === "services" ? "0.9" : r.page === "imprint" || r.page === "privacy" ? "0.2" : "0.7");
-const urls = ROUTES.map((r) => `  <url>\n    <loc>${absoluteUrl(r.path)}</loc>\n    <lastmod>${LAST_MODIFIED}</lastmod>\n    <priority>${priority(r)}</priority>\n  </url>`);
-await writeFile(join(dist, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>\n`);
+const alternates = (r) =>
+  SITE_LANGS.map((l) => `    <xhtml:link rel="alternate" hreflang="${l}" href="${absoluteUrl(pathFor(r.page, r.id, l))}" />`).join("\n");
+const urls = ROUTES.map(
+  (r) => `  <url>\n    <loc>${absoluteUrl(r.path)}</loc>\n${alternates(r)}\n    <lastmod>${LAST_MODIFIED}</lastmod>\n    <priority>${priority(r)}</priority>\n  </url>`,
+);
+await writeFile(
+  join(dist, "sitemap.xml"),
+  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls.join("\n")}\n</urlset>\n`,
+);
 
 // 4. robots.txt
 const bots = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended", "Bingbot", "CCBot"];

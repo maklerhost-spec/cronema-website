@@ -6,24 +6,19 @@ import { CONTACT_EMAIL, CONTACT_ENDPOINT } from "../config";
 import { SERVICE_IDS } from "../content/ids";
 import { SERVICES } from "../content/services";
 import { pathFor } from "../site";
+import { UI } from "../content/ui";
 
 const input =
   "w-full rounded-md border border-slate-300 bg-white px-3.5 py-2.5 text-base text-slate-900 outline-none transition focus:border-accent-500 focus:ring-2 focus:ring-accent-100 sm:text-sm";
 
-const ERRORS = {
-  required: "Bitte füllen Sie alle Pflichtfelder aus.",
-  email: "Bitte prüfen Sie Ihre E-Mail-Adresse.",
-  consent: "Bitte bestätigen Sie die Datenschutzerklärung.",
-  rateLimited: "Sie haben gerade mehrere Anfragen gesendet. Bitte versuchen Sie es in einigen Minuten erneut.",
-  generic: `Das Senden hat leider nicht geklappt. Bitte versuchen Sie es erneut oder schreiben Sie uns an ${CONTACT_EMAIL}.`,
-};
+const errors = () => ({ ...UI.form.errors, generic: `${UI.form.errors.generic} ${CONTACT_EMAIL}.` });
 
 function Field({ label, required, children }: { label: string; required?: boolean; children: ReactNode }) {
   return (
     <label className="block">
       <span className="mb-1.5 block text-sm font-medium text-slate-700">
         {label}
-        {required ? <span className="text-accent-600"> *</span> : <span className="font-normal text-slate-400"> (optional)</span>}
+        {required ? <span className="text-accent-600"> *</span> : <span className="font-normal text-slate-400"> {UI.form.optional}</span>}
       </span>
       {children}
     </label>
@@ -38,6 +33,7 @@ export function ContactForm({ interest = "" }: { interest?: string }) {
   const set = (key: keyof typeof form) => (value: string | boolean) => setForm((f) => ({ ...f, [key]: value }));
 
   async function submit(event: FormEvent) {
+    const ERRORS = errors();
     event.preventDefault();
     setError(null);
     if (!form.first_name.trim() || !form.last_name.trim() || !form.email.trim() || !form.message.trim()) return setError(ERRORS.required);
@@ -67,48 +63,48 @@ export function ContactForm({ interest = "" }: { interest?: string }) {
     return (
       <div className="py-12 text-center" role="status">
         <CheckCircle2 className="mx-auto h-14 w-14 text-accent-600" aria-hidden="true" />
-        <h2 className="mt-4 text-2xl font-bold text-slate-900">Vielen Dank für Ihre Anfrage!</h2>
-        <p className="mx-auto mt-2 max-w-md text-slate-600">Wir haben Ihre Nachricht erhalten und melden uns in Kürze bei Ihnen, in der Regel innerhalb eines Werktags.</p>
+        <h2 className="mt-4 text-2xl font-bold text-slate-900">{UI.form.doneTitle}</h2>
+        <p className="mx-auto mt-2 max-w-md text-slate-600">{UI.form.doneText}</p>
       </div>
     );
   }
 
   return (
     <form onSubmit={submit} noValidate className="space-y-4">
-      <h2 className="text-xl font-bold text-slate-900">Projekt anfragen</h2>
+      <h2 className="text-xl font-bold text-slate-900">{UI.form.title}</h2>
       <div className="grid gap-4 sm:grid-cols-2">
-        <Field label="Vorname" required>
+        <Field label={UI.form.firstName} required>
           <input className={input} autoComplete="given-name" value={form.first_name} onChange={(e) => set("first_name")(e.target.value)} maxLength={80} required />
         </Field>
-        <Field label="Nachname" required>
+        <Field label={UI.form.lastName} required>
           <input className={input} autoComplete="family-name" value={form.last_name} onChange={(e) => set("last_name")(e.target.value)} maxLength={80} required />
         </Field>
-        <Field label="E-Mail" required>
+        <Field label={UI.form.email} required>
           <input type="email" className={input} autoComplete="email" value={form.email} onChange={(e) => set("email")(e.target.value)} maxLength={200} required />
         </Field>
-        <Field label="Telefon">
+        <Field label={UI.form.phone}>
           <input type="tel" className={input} autoComplete="tel" value={form.phone} onChange={(e) => set("phone")(e.target.value)} maxLength={40} />
         </Field>
       </div>
-      <Field label="Firma">
+      <Field label={UI.form.company}>
         <input className={input} autoComplete="organization" value={form.company} onChange={(e) => set("company")(e.target.value)} maxLength={120} />
       </Field>
-      <Field label="Worum geht es?">
+      <Field label={UI.form.interest}>
         <select className={input} value={form.interest} onChange={(e) => set("interest")(e.target.value)}>
-          <option value="">Bitte wählen</option>
+          <option value="">{UI.form.choose}</option>
           {SERVICE_IDS.map((id) => (
             <option key={id} value={id}>{SERVICES[id].name}</option>
           ))}
-          <option value="other">Sonstiges</option>
+          <option value="other">{UI.form.other}</option>
         </select>
       </Field>
-      <Field label="Ihre Nachricht" required>
+      <Field label={UI.form.message} required>
         <textarea
           className={`${input} min-h-[140px]`}
           value={form.message}
           onChange={(e) => set("message")(e.target.value)}
           maxLength={5000}
-          placeholder="Beschreiben Sie kurz Ihre Idee, Ihre bestehenden Systeme und Ihren Zeitrahmen."
+          placeholder={UI.form.placeholder}
           required
         />
       </Field>
@@ -122,11 +118,11 @@ export function ContactForm({ interest = "" }: { interest?: string }) {
       <label className="flex cursor-pointer items-start gap-3 text-sm text-slate-600">
         <input type="checkbox" className="mt-0.5 h-4 w-4 shrink-0 accent-accent-600" checked={form.consent} onChange={(e) => set("consent")(e.target.checked)} />
         <span>
-          Ich habe die{" "}
+          {UI.form.consentBefore}{" "}
           <a href={pathFor("privacy")} className="font-medium text-accent-700 underline" target="_blank" rel="noopener">
-            Datenschutzerklärung
+            {UI.form.consentLink}
           </a>{" "}
-          gelesen und bin einverstanden, dass meine Angaben zur Bearbeitung meiner Anfrage gespeichert werden. *
+          {UI.form.consentAfter} *
         </span>
       </label>
       {error && (
@@ -136,7 +132,7 @@ export function ContactForm({ interest = "" }: { interest?: string }) {
       )}
       <button type="submit" className="btn-accent w-full disabled:opacity-60" disabled={state === "sending"}>
         {state === "sending" ? <Loader2 className="h-4 w-4 animate-spin" aria-hidden="true" /> : <Send className="h-4 w-4" aria-hidden="true" />}
-        {state === "sending" ? "Wird gesendet …" : "Anfrage senden"}
+        {state === "sending" ? UI.form.sending : UI.form.send}
       </button>
     </form>
   );

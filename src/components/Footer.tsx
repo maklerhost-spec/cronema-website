@@ -5,6 +5,7 @@ import { FOOTER, NAV } from "../content/pages";
 import { SERVICE_IDS } from "../content/ids";
 import { SERVICES } from "../content/services";
 import { pathFor } from "../site";
+import { UI } from "../content/ui";
 import { Logo } from "./Logo";
 
 export function Footer() {
@@ -59,7 +60,7 @@ export function Footer() {
             <ul className="mt-3 space-y-2">
               <li><a className={link} href={pathFor("imprint")}>{FOOTER.imprint}</a></li>
               <li><a className={link} href={pathFor("privacy")}>{FOOTER.privacy}</a></li>
-              <li><button type="button" className={link} onClick={openConsentSettings}>Cookie-Einstellungen</button></li>
+              <li><button type="button" className={link} onClick={openConsentSettings}>{UI.cookieSettings}</button></li>
             </ul>
           </div>
         </div>

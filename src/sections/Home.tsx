@@ -6,6 +6,7 @@ import { Rich } from "../components/Rich";
 import { HeroArt, REFERENCE_ART } from "../graphics/HeroArt";
 import { ServiceArt } from "../graphics/ServiceArt";
 import { pathFor } from "../site";
+import { UI } from "../content/ui";
 import { Cta, Eyebrow, Faq, MoreLink, SectionHead, Steps } from "./common";
 import { Team } from "./Team";
 
@@ -286,7 +287,7 @@ function NameStory() {
       <div className="grid-lines pointer-events-none absolute inset-0 opacity-70" aria-hidden="true" />
       <div className="container-x relative grid items-center gap-14 lg:grid-cols-[0.8fr_1.2fr]">
         <div className="mx-auto w-full max-w-sm">
-          <img src="/logo-light.svg" alt="Cronema Logo: Kreuz im Netz mit KI-Kern" width={320} height={320} className="h-auto w-full" loading="lazy" />
+          <img src="/logo-light.svg" alt={UI.logoAlt} width={320} height={320} className="h-auto w-full" loading="lazy" />
         </div>
         <div>
           <Eyebrow light index="07">{n.eyebrow}</Eyebrow>

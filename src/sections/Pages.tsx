@@ -11,6 +11,7 @@ import { REFERENCE_ART } from "../graphics/HeroArt";
 import { ServiceArt } from "../graphics/ServiceArt";
 import { IMPRINT, PRIVACY, type LegalBlock } from "../legal/content";
 import { pathFor } from "../site";
+import { UI } from "../content/ui";
 import { ReferenceCards } from "./Home";
 import { Cta, Eyebrow, Faq, PageHero, Paragraphs, SectionHead, Steps } from "./common";
 import { Team } from "./Team";
@@ -81,7 +82,7 @@ export function ServicePage({ id }: { id: ServiceId }) {
             {NAV.cta}
             <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
           </a>
-          <a href="#faq" className="btn-light">Häufige Fragen</a>
+          <a href="#faq" className="btn-light">{UI.faqLink}</a>
         </div>
       </PageHero>
 
@@ -146,7 +147,7 @@ export function ServicePage({ id }: { id: ServiceId }) {
 
       <section className="bg-white pt-20">
         <div className="container-x">
-          <h2 className="text-2xl font-bold text-slate-900">Weitere Leistungen</h2>
+          <h2 className="text-2xl font-bold text-slate-900">{UI.moreServices}</h2>
           <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
             {others.map((o) => (
               <a key={o} href={pathFor("service", o)} className="group rounded-md border border-slate-200 p-5 transition-all hover:border-accent-200 hover:shadow-soft">
@@ -276,7 +277,7 @@ export function AboutPage() {
         claim={p.claim}
         art={
           <div className="mx-auto flex max-w-sm items-center justify-center rounded-md border border-white/10 bg-white/5 p-12">
-            <img src="/logo-light.svg" alt="Cronema Logo" width={240} height={240} className="h-auto w-full" />
+            <img src="/logo-light.svg" alt={UI.logoAltShort} width={240} height={240} className="h-auto w-full" />
           </div>
         }
       >
@@ -301,7 +302,7 @@ export function AboutPage() {
         <div className="container-x grid gap-12 lg:grid-cols-2">
           <div>
             <Eyebrow>{p.missionTitle}</Eyebrow>
-            <h2 className="h2 mt-2">Individuelle Software für den Mittelstand</h2>
+            <h2 className="h2 mt-2">{UI.aboutTagline}</h2>
             <Paragraphs items={p.mission} className="mt-5" />
           </div>
           <div>
@@ -417,12 +418,13 @@ function LegalText({ blocks }: { blocks: LegalBlock[] }) {
 export function LegalPage({ page }: { page: "imprint" | "privacy" }) {
   return (
     <section className="mx-auto min-h-[60vh] max-w-3xl px-4 pb-24 pt-32 sm:px-6 lg:px-8">
-      <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">{page === "imprint" ? "Impressum" : "Datenschutzerklärung"}</h1>
+      <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">{page === "imprint" ? UI.imprint : UI.privacy}</h1>
+      {UI.legalNote && <p className="mt-4 rounded-md bg-slate-50 px-4 py-3 text-sm text-slate-600">{UI.legalNote}</p>}
       <div className="mt-8">
         {page === "privacy" && <ConsentRevokeBox />}
         <LegalText blocks={page === "imprint" ? IMPRINT : PRIVACY} />
       </div>
-      <a href="/" className="btn-outline mt-12">Zur Startseite</a>
+      <a href={pathFor("home")} className="btn-outline mt-12">{UI.backHome}</a>
     </section>
   );
 }

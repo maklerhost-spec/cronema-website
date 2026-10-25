@@ -5,6 +5,8 @@ import { SERVICE_IDS } from "../content/ids";
 import { SERVICES } from "../content/services";
 import { useSite } from "../context";
 import { pathFor } from "../site";
+import { UI } from "../content/ui";
+import { LanguageMenu } from "./LanguageMenu";
 import { Logo } from "./Logo";
 
 export function Header() {
@@ -33,8 +35,8 @@ export function Header() {
         scrolled ? "bg-ink/95 shadow-lg shadow-ink/30 backdrop-blur-md" : "bg-ink"
       }`}
     >
-      <nav className="container-x flex h-20 items-center justify-between" aria-label="Hauptnavigation">
-        <a href="/" aria-label="Cronema Startseite" onClick={() => setOpen(false)}>
+      <nav className="container-x flex h-20 items-center justify-between" aria-label={UI.header.mainNav}>
+        <a href={pathFor("home")} aria-label={UI.header.homeLabel} onClick={() => setOpen(false)}>
           <Logo light />
         </a>
         <div className="hidden items-center gap-8 lg:flex">
@@ -63,6 +65,9 @@ export function Header() {
           ))}
         </div>
         <div className="flex items-center gap-2 sm:gap-3">
+          <div className="hidden lg:block">
+            <LanguageMenu />
+          </div>
           <a
             href={pathFor("contact")}
             className="hidden whitespace-nowrap rounded-md bg-accent-500 px-5 py-2.5 text-[13px] font-semibold uppercase tracking-[0.12em] text-white transition-colors hover:bg-accent-600 sm:inline-block"
@@ -96,6 +101,7 @@ export function Header() {
               {l.label}
             </a>
           ))}
+          <LanguageMenu mobile />
           <a href={pathFor("contact")} className="mt-2 block rounded-md bg-accent-500 px-4 py-2.5 text-center text-sm font-semibold text-white">
             {NAV.cta}
           </a>

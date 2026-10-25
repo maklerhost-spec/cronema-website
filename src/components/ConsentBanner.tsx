@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { closeConsentSettings, openConsentSettings, saveConsent, useConsent, type ConsentChoice } from "../consent";
 import { CONSENT } from "../content/consent";
 import { pathFor } from "../site";
+import { UI } from "../content/ui";
 
 const primary =
   "inline-flex flex-1 items-center justify-center rounded-md bg-accent-600 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent-700 sm:flex-none";
@@ -50,9 +51,9 @@ export function ConsentBanner() {
             <h2 className="text-lg font-bold text-slate-900">{t.title}</h2>
             <p className="mt-1.5 text-sm leading-relaxed text-slate-600">{t.text}</p>
             <p className="mt-2 text-sm">
-              <a href={pathFor("privacy")} className="font-medium text-accent-700 underline">Datenschutz</a>
+              <a href={pathFor("privacy")} className="font-medium text-accent-700 underline">{UI.privacyShort}</a>
               <span className="mx-2 text-slate-300">·</span>
-              <a href={pathFor("imprint")} className="font-medium text-accent-700 underline">Impressum</a>
+              <a href={pathFor("imprint")} className="font-medium text-accent-700 underline">{UI.imprint}</a>
             </p>
           </div>
           {consent && (

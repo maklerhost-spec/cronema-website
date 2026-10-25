@@ -1,10 +1,11 @@
+import { art } from "../content/art";
 // One drawn graphic per service (480×320). Used on the homepage cards and on each service page.
 import type { ServiceId } from "../content/ids";
 import { Art, Bar, C, Check, Flag, Glow, Node, Pill, Win } from "./kit";
 
 function WebsitesArt() {
   return (
-    <Art w={480} h={320} label="Grafik: Website im Browser und auf dem Smartphone, optimiert für Suchmaschinen und KI-Suche">
+    <Art w={480} h={320} label={art("Grafik: Website im Browser und auf dem Smartphone, optimiert für Suchmaschinen und KI-Suche")}>
       <Glow cx={250} cy={160} r={140} />
       <Win x={36} y={34} w={330} h={226}>
         {/* address bar */}
@@ -61,9 +62,9 @@ function WebsitesArt() {
         <rect width="196" height="58" rx="12" fill={C.white} stroke={C.s200} />
         <circle cx="22" cy="20" r="7" fill="none" stroke={C.net} strokeWidth="2.5" />
         <path d="M27 25l5 5" stroke={C.net} strokeWidth="2.5" strokeLinecap="round" />
-        <text x="40" y="24" fontSize="10" fontWeight="700" fill={C.ink}>Google & KI-Suche</text>
+        <text x="40" y="24" fontSize="10" fontWeight="700" fill={C.ink}>{art("Google & KI-Suche")}</text>
         <Check x={22} y={42} r={6} />
-        <text x="34" y="45.5" fontSize="9" fill={C.s700}>vorgerendert · schema.org · llms.txt</text>
+        <text x="34" y="45.5" fontSize="9" fill={C.s700}>{art("vorgerendert · schema.org · llms.txt")}</text>
       </g>
     </Art>
   );
@@ -77,7 +78,7 @@ function ExtensionsArt() {
     { y: 244, name: "WordPress", color: "#2b2f36" },
   ];
   return (
-    <Art w={480} h={320} label="Grafik: Eigene Erweiterung wird wie ein Puzzleteil in Shopify, GoHighLevel, HubSpot oder WordPress eingesetzt">
+    <Art w={480} h={320} label={art("Grafik: Eigene Erweiterung wird wie ein Puzzleteil in Shopify, GoHighLevel, HubSpot oder WordPress eingesetzt")}>
       <Glow cx={300} cy={160} r={140} color={C.hi0} />
       {/* platform chips */}
       {platforms.map((p) => (
@@ -114,7 +115,7 @@ function ExtensionsArt() {
           fill={C.hi}
           transform="translate(-4 -10) scale(.92)"
         />
-        <text x="62" y="26" textAnchor="middle" fontSize="12" fontWeight="800" fill={C.white}>Ihre Funktion</text>
+        <text x="62" y="26" textAnchor="middle" fontSize="12" fontWeight="800" fill={C.white}>{art("Ihre Funktion")}</text>
         <Bar x={18} y={38} w={88} h={5} fill="#9dd6f6" />
         <Bar x={18} y={49} w={70} h={5} fill="#9dd6f6" />
         <rect x="18" y="60" width="44" height="12" rx="6" fill={C.white} />
@@ -127,7 +128,7 @@ function ExtensionsArt() {
 function CustomArt() {
   const bars = [38, 56, 44, 72, 64, 88, 80];
   return (
-    <Art w={480} h={320} label="Grafik: Eigenes Software-Dashboard, geschützt und auf einem Server in Deutschland betrieben">
+    <Art w={480} h={320} label={art("Grafik: Eigenes Software-Dashboard, geschützt und auf einem Server in Deutschland betrieben")}>
       <Glow cx={230} cy={160} r={145} />
       <Win x={26} y={30} w={360} h={244} title="ihr-system.de">
         <rect x="0" y="0" width="74" height="220" fill={C.ink} />
@@ -185,7 +186,7 @@ function CustomArt() {
           </g>
         ))}
         <Flag x={66} y={128} w={22} />
-        <text x="0" y="141" fontSize="9" fontWeight="700" fill={C.ink}>Server DE</text>
+        <text x="0" y="141" fontSize="9" fontWeight="700" fill={C.ink}>{art("Server DE")}</text>
       </g>
       <g transform="translate(340 110)">
         <path d="M24 0L46 8V24C46 38 37 48 24 54C11 48 2 38 2 24V8Z" fill={C.hi} stroke={C.white} strokeWidth="3" />
@@ -208,7 +209,7 @@ function AgentsArt() {
     </g>
   );
   return (
-    <Art w={480} h={320} label="Grafik: Workflow mit KI-Agent, der Anfragen liest und an CRM, E-Mail und Team weitergibt">
+    <Art w={480} h={320} label={art("Grafik: Workflow mit KI-Agent, der Anfragen liest und an CRM, E-Mail und Team weitergibt")}>
       <defs>
         <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
           <circle cx="2" cy="2" r="1.2" fill={C.s300} />
@@ -233,11 +234,11 @@ function AgentsArt() {
         <rect width="128" height="72" rx="14" fill={C.ink} />
         <path d="M24 22l3.5 8.5L36 34l-8.5 3.5L24 46l-3.5-8.5L12 34l8.5-3.5Z" fill={C.hi} />
         <path d="M38 14l1.6 3.9 3.9 1.6-3.9 1.6L38 25l-1.6-3.9-3.9-1.6 3.9-1.6Z" fill={C.net4} />
-        <text x="48" y="31" fontSize="12" fontWeight="800" fill={C.white}>KI-Agent</text>
-        <text x="48" y="45" fontSize="8.5" fill={C.s300}>versteht & handelt</text>
+        <text x="48" y="31" fontSize="12" fontWeight="800" fill={C.white}>{art("KI-Agent")}</text>
+        <text x="48" y="45" fontSize="8.5" fill={C.s300}>{art("versteht & handelt")}</text>
         <rect x="48" y="52" width="58" height="11" rx="5.5" fill={C.ink7} />
         <circle cx="55" cy="57.5" r="2.5" fill="#4ade80" />
-        <text x="61" y="60.5" fontSize="7" fill={C.s300}>aktiv</text>
+        <text x="61" y="60.5" fontSize="7" fill={C.s300}>{art("aktiv")}</text>
       </g>
       {/* sub tools */}
       {[
@@ -267,7 +268,7 @@ function AgentsArt() {
 
 function ApisArt() {
   return (
-    <Art w={480} h={320} label="Grafik: Schnittstelle verbindet Shop, CRM und Warenwirtschaft und tauscht Daten in beide Richtungen aus">
+    <Art w={480} h={320} label={art("Grafik: Schnittstelle verbindet Shop, CRM und Warenwirtschaft und tauscht Daten in beide Richtungen aus")}>
       <Glow cx={240} cy={130} r={130} />
       {/* systems */}
       {[
@@ -319,7 +320,7 @@ function ApisArt() {
         <text x="14" y="54" fontSize="9" fontFamily="ui-monospace, Menlo, monospace" fill={C.s300}>{'  "sync": ["crm", "erp"] }'}</text>
         <rect x="14" y="61" width="58" height="13" rx="6.5" fill="#14532d" />
         <text x="43" y="70.5" textAnchor="middle" fontSize="8" fontWeight="700" fill="#4ade80">200 OK</text>
-        <text x="80" y="71" fontSize="8" fill={C.s400}>protokolliert · 38 ms</text>
+        <text x="80" y="71" fontSize="8" fill={C.s400}>{art("protokolliert · 38 ms")}</text>
       </g>
     </Art>
   );
@@ -328,7 +329,7 @@ function ApisArt() {
 function HostingArt() {
   const usage = [14, 18, 22, 30, 38, 52, 66, 84, 104, 128];
   return (
-    <Art w={480} h={320} label="Grafik: Cloud-Server in Deutschland, Serverleistung wächst stufenweise mit der Nutzung">
+    <Art w={480} h={320} label={art("Grafik: Cloud-Server in Deutschland, Serverleistung wächst stufenweise mit der Nutzung")}>
       <Glow cx={130} cy={170} r={120} color={C.hi0} />
       {/* rack */}
       <g transform="translate(34 46)">
@@ -347,12 +348,12 @@ function HostingArt() {
       </g>
       <g transform="translate(34 274)">
         <Flag x={0} y={2} w={22} />
-        <text x="30" y="13" fontSize="10.5" fontWeight="700" fill={C.ink}>Rechenzentrum Deutschland</text>
+        <text x="30" y="13" fontSize="10.5" fontWeight="700" fill={C.ink}>{art("Rechenzentrum Deutschland")}</text>
       </g>
       {/* chart */}
       <g transform="translate(212 40)">
         <rect width="250" height="214" rx="14" fill={C.white} stroke={C.s200} />
-        <text x="16" y="24" fontSize="10.5" fontWeight="700" fill={C.ink}>Kosten wachsen mit dem Erfolg</text>
+        <text x="16" y="24" fontSize="10.5" fontWeight="700" fill={C.ink}>{art("Kosten wachsen mit dem Erfolg")}</text>
         <path d="M16 186H234" stroke={C.s200} />
         {usage.map((h, i) => (
           <rect key={i} x={22 + i * 21} y={186 - h} width="13" height={h} rx="3" fill={C.net} opacity=".8" />
@@ -360,15 +361,15 @@ function HostingArt() {
         {/* stepped server capacity */}
         <path d="M18 160H80V140H122V112H164V70H234" stroke={C.hi} strokeWidth="3" fill="none" strokeLinejoin="round" strokeLinecap="round" />
         <g fontSize="8" fontWeight="600" fill={C.s500}>
-          <text x="22" y="202">Start</text>
-          <text x="96" y="202">Wachstum</text>
-          <text x="176" y="202">Skalierung</text>
+          <text x="22" y="202">{art("Start")}</text>
+          <text x="96" y="202">{art("Wachstum")}</text>
+          <text x="176" y="202">{art("Skalierung")}</text>
         </g>
         <g transform="translate(16 36)">
           <rect width="8" height="8" rx="2" fill={C.net} />
-          <text x="12" y="7.5" fontSize="8" fill={C.s500}>Nutzung</text>
+          <text x="12" y="7.5" fontSize="8" fill={C.s500}>{art("Nutzung")}</text>
           <rect x="62" y="3" width="12" height="3" rx="1.5" fill={C.hi} />
-          <text x="78" y="7.5" fontSize="8" fill={C.s500}>Serverleistung</text>
+          <text x="78" y="7.5" fontSize="8" fill={C.s500}>{art("Serverleistung")}</text>
         </g>
       </g>
       <Pill x={300} y={268} text="ab wenigen Euro im Monat" size={9.5} fill={C.hi0} stroke={C.hi1} color={C.hi} />

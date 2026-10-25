@@ -5,10 +5,10 @@ import { parsePath } from "./site";
 import "./index.css";
 
 const root = document.getElementById("root")!;
-const { page, id } = parsePath(window.location.pathname);
+const { page, id, lang } = parsePath(window.location.pathname);
 const app = (
   <StrictMode>
-    <App page={page} id={id} />
+    <App page={page} id={id} lang={lang} />
   </StrictMode>
 );
 
