@@ -131,27 +131,27 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "p",
     "lines": [
-      "Fecha: 22 de octubre de 2026"
+      "Última actualización: 25 de octubre de 2026"
     ]
   },
   {
     "type": "h2",
-    "text": "1. Responsable"
+    "text": "1. Responsable y ámbito de aplicación"
   },
   {
     "type": "p",
     "lines": [
       "Cronema UG (haftungsbeschränkt)",
-      "Isabellastrasse 9, 80798 Múnich, Alemania",
+      "Isabellastrasse 9, 80798 München, Deutschland",
       "Representada por el director gerente Manfred Sandner",
       "Teléfono: 0163 4517633",
-      "E-Mail: support@cronema.com"
+      "Correo electrónico: support@cronema.com"
     ]
   },
   {
     "type": "p",
     "lines": [
-      "Esta política de privacidad se aplica al sitio web cronema.de (en lo sucesivo, «Sitio web»)."
+      "La presente política de privacidad se aplica al sitio web cronema.de (en lo sucesivo, «Sitio web», apartados 3 a 8) y a nuestras aplicaciones (apartados 9 a 12)."
     ]
   },
   {
@@ -161,10 +161,11 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "ul",
     "items": [
-      "No utilizamos cookies publicitarias. Solo usamos Google Analytics con su consentimiento para mejorar el Sitio web (sección 5).",
-      "Puede cambiar o revocar su consentimiento en cualquier momento mediante el icono del escudo abajo a la izquierda o el enlace „Configuración de cookies“ en la parte inferior de cada página.",
+      "No utilizamos cookies publicitarias. Solo empleamos Google Analytics con su consentimiento para mejorar el Sitio web (apartado 5).",
+      "Puede cambiar o revocar su consentimiento en cualquier momento a través del icono del escudo abajo a la izquierda o mediante el enlace «Configuración de cookies» al pie de cada página.",
       "Las fuentes se cargan desde nuestro propio servidor web, no desde Google.",
-      "Las consultas a través del formulario de contacto las guardamos en nuestro sistema de gestión de clientes (CRM) HighLevel para poder tramitarlas (sección 7)."
+      "Guardamos las consultas a través del formulario de contacto en nuestro sistema de gestión de clientes (CRM) HighLevel para poder tramitarlas (apartado 7).",
+      "Nuestras aplicaciones se ejecutan en servidores en Alemania. Las apps de Shopify GARAN-Label y ElektroPflicht no leen ni almacenan datos de los clientes de una tienda (apartados 9 a 12)."
     ]
   },
   {
@@ -174,19 +175,19 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "p",
     "lines": [
-      "Al acceder al Sitio web, nuestro proveedor de alojamiento procesa los datos técnicamente necesarios que su navegador transmite: dirección IP, fecha y hora del acceso, página consultada, URL de referencia, tipo y versión del navegador, sistema operativo. Estos datos son necesarios para entregar el Sitio web y garantizar su seguridad y estabilidad (p. ej., defensa frente a ataques). No se realiza una combinación con otras fuentes de datos."
+      "Al acceder al Sitio web, nuestro proveedor de alojamiento procesa los datos técnicamente necesarios que su navegador transmite: dirección IP, fecha y hora de acceso, página solicitada, URL de referencia, tipo y versión del navegador, sistema operativo. Estos datos son necesarios para entregar el Sitio web y garantizar su seguridad y estabilidad (p. ej., defensa frente a ataques). No se realiza una combinación con otras fuentes de datos."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "La base jurídica es el Art. 6 apdo. 1 letra f RGPD; nuestro interés legítimo radica en la prestación segura y sin errores del Sitio web. Los registros del servidor son eliminados por el proveedor de alojamiento al poco tiempo, por regla general a más tardar a los 30 días, salvo que sean necesarios para aclarar un incidente de seguridad."
+      "La base jurídica es el art. 6, apdo. 1, letra f), RGPD; nuestro interés legítimo reside en la prestación segura y sin errores del Sitio web. Los registros del servidor son eliminados por el proveedor de alojamiento al cabo de un corto periodo, por lo general en un máximo de 30 días, salvo que sean necesarios para esclarecer un incidente de seguridad."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "Proveedor de alojamiento: Netlify, Inc., 512 2nd Street, Suite 200, San Francisco, CA 94107, USA. Existe con el proveedor un contrato de encargo de tratamiento (Art. 28 RGPD). Para la transferencia a EE. UU. rige la decisión de adecuación de la Comisión de la UE relativa al EU-US Data Privacy Framework, en la medida en que el proveedor esté certificado; en lo demás, las Cláusulas Contractuales Tipo de la Comisión de la UE (Art. 46 apdo. 2 letra c RGPD). El Sitio web se entrega a través de una red mundial de servidores."
+      "Proveedor de alojamiento: Netlify, Inc., 512 2nd Street, Suite 200, San Francisco, CA 94107, USA. Con el proveedor existe un contrato de encargo del tratamiento (art. 28, RGPD). Para la transferencia a EE. UU. se aplica la Decisión de adecuación de la Comisión de la UE relativa al EU-US Data Privacy Framework, en la medida en que el proveedor esté certificado; en lo demás, las Cláusulas Contractuales Tipo de la Comisión de la UE (art. 46, apdo. 2, letra c), RGPD). El Sitio web se entrega a través de una red mundial de servidores."
     ]
   },
   {
@@ -196,47 +197,47 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "p",
     "lines": [
-      "Conforme al § 25 apdo. 1 TDDDG, para almacenar información en su dispositivo o acceder a ella se requiere, por regla general, su consentimiento, salvo que sea estrictamente necesario para un servicio que usted haya solicitado de forma expresa (§ 25 apdo. 2 núm. 2 TDDDG). Sin su consentimiento no utilizamos cookies. Por razones técnicas, solo guardamos en el almacenamiento local de su navegador (localStorage) una entrada:"
+      "Conforme al § 25, apdo. 1, TDDDG, para almacenar información en su dispositivo terminal o para acceder a ella, por regla general se requiere su consentimiento, salvo que sea estrictamente necesario para un servicio expresamente solicitado por usted (§ 25, apdo. 2, núm. 2, TDDDG). Sin su consentimiento no utilizamos cookies. Por razones técnicas, solo almacenamos en el almacenamiento local de su navegador (localStorage) una entrada:"
     ]
   },
   {
     "type": "ul",
     "items": [
-      "„cronema-consent“: su selección en el banner de consentimiento y el momento de la decisión, para que el banner no aparezca en cada visita. Válido durante 12 meses; después, le volveremos a preguntar."
+      "«cronema-consent»: su selección en el banner de consentimiento y el momento de la decisión, para que el banner no aparezca en cada visita. Válido durante 12 meses; transcurrido ese plazo, volveremos a solicitarlo."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "Esta entrada no sale de su navegador. Puede eliminarla en cualquier momento desde la configuración de su navegador."
+      "Esta entrada no sale de su navegador. Puede eliminarla en cualquier momento mediante la configuración de su navegador."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "Para el análisis web con Google Analytics (sección 5) solicitamos su consentimiento (Art. 6 apdo. 1 letra a RGPD, § 25 apdo. 1 TDDDG). Sin consentimiento no se cargará Google Analytics; todos los contenidos del Sitio web seguirán estando plenamente disponibles. Puede revocar su consentimiento en cualquier momento con efecto para el futuro abriendo la configuración mediante el icono del escudo abajo a la izquierda, el enlace „Configuración de cookies“ al pie de cada página o el botón en la parte superior de esta página y cambiando su selección. La licitud del tratamiento realizado hasta la revocación no se ve afectada (Art. 7 apdo. 3 RGPD)."
+      "Para la analítica web con Google Analytics (apartado 5) solicitamos su consentimiento (art. 6, apdo. 1, letra a), RGPD; § 25, apdo. 1, TDDDG). Sin consentimiento, Google Analytics no se carga; todos los contenidos del Sitio web siguen siendo plenamente utilizables. Puede revocar su consentimiento en cualquier momento con efectos para el futuro abriendo la configuración mediante el icono del escudo abajo a la izquierda, el enlace «Configuración de cookies» al pie de cada página o el botón situado en la parte superior de esta página y modificando su selección. La licitud del tratamiento realizado hasta la revocación no se ve afectada (art. 7, apdo. 3, RGPD)."
     ]
   },
   {
     "type": "h2",
-    "text": "5. Análisis web con Google Analytics (solo con consentimiento)"
+    "text": "5. Analítica web con Google Analytics (solo con consentimiento)"
   },
   {
     "type": "p",
     "lines": [
-      "Si consiente en la categoría «Estadística», utilizamos Google Analytics 4, un servicio de análisis web de Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irlanda (matriz: Google LLC, USA). Google Analytics registra qué páginas visita, cuánto tiempo permanece, de qué sitio procede, así como información sobre navegador, sistema operativo, dispositivo, tamaño de pantalla y ubicación aproximada (país, región, ciudad). Para ello se almacenan cookies (_ga, _ga_<ID>) en su dispositivo, con una validez de hasta dos años. Google Analytics 4 no almacena su dirección IP; solo se utiliza brevemente para determinar la ubicación aproximada. Utilizamos los análisis exclusivamente de forma agregada para mejorar el Sitio web y nuestra oferta. Google Signals y la publicidad personalizada no están activados."
+      "Si usted consiente en la categoría «Estadística», utilizamos Google Analytics 4, un servicio de analítica web de Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irlanda (matriz: Google LLC, EE. UU.). Google Analytics registra qué páginas visita, cuánto tiempo permanece, desde qué sitio web procede, así como información sobre navegador, sistema operativo, dispositivo, tamaño de pantalla y ubicación aproximada (país, región, ciudad). Para ello se almacenan cookies (_ga, _ga_<ID>) en su dispositivo, con una validez de hasta dos años. Su dirección IP no se guarda en Google Analytics 4; solo se utiliza brevemente para determinar la ubicación aproximada. Utilizamos los análisis exclusivamente en forma agregada para mejorar el Sitio web y nuestra oferta. Señales de Google y la publicidad personalizada no están activadas."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "Google procesa los datos por encargo nuestro; existe con Google un contrato de encargo de tratamiento (Art. 28 RGPD). Los datos también pueden transferirse a Google LLC en EE. UU. Google LLC está certificada en el EU-US Data Privacy Framework; por tanto, la transferencia se basa en la decisión de adecuación de la Comisión de la UE (Art. 45 RGPD) y, con carácter complementario, en las Cláusulas Contractuales Tipo. El plazo de conservación de los datos analíticos en Google está configurado en 14 meses."
+      "Google trata los datos por nuestra cuenta; con Google existe un contrato de encargo del tratamiento (art. 28, RGPD). Los datos pueden transferirse también a Google LLC en EE. UU. Google LLC está certificada en el EU-US Data Privacy Framework; por tanto, la transferencia se basa en la Decisión de adecuación de la Comisión de la UE (art. 45, RGPD) y, de forma complementaria, en las Cláusulas Contractuales Tipo. El periodo de conservación de los datos analíticos en Google está configurado en 14 meses."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "La base jurídica es su consentimiento (Art. 6 apdo. 1 letra a RGPD, § 25 apdo. 1 TDDDG). Si revoca el consentimiento en la configuración de cookies, detendremos la medición y eliminaremos las cookies de Google Analytics de su navegador. Más información: policies.google.com/privacy."
+      "La base jurídica es su consentimiento (art. 6, apdo. 1, letra a), RGPD; § 25, apdo. 1, TDDDG). Si revoca el consentimiento en la configuración de cookies, pondremos fin a la medición y eliminaremos las cookies de Google Analytics en su navegador. Más información: policies.google.com/privacy."
     ]
   },
   {
@@ -246,35 +247,35 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "p",
     "lines": [
-      "Las fuentes utilizadas en el Sitio web (Inter, Inter Tight) están alojadas en nuestro servidor web y se cargan desde allí. No se establece conexión con servidores de Google ni de otros proveedores de tipografías."
+      "Las fuentes utilizadas en el Sitio web (Inter, Inter Tight) están almacenadas en nuestro servidor web y se cargan desde allí. No se establece ninguna conexión con servidores de Google u otros proveedores de fuentes."
     ]
   },
   {
     "type": "h2",
-    "text": "7. Formulario de contacto, e-mail y teléfono"
+    "text": "7. Formulario de contacto, correo electrónico y teléfono"
   },
   {
     "type": "p",
     "lines": [
-      "Si se pone en contacto con nosotros a través del formulario de contacto, por e-mail o por teléfono, procesamos sus datos (nombre y apellidos, dirección de e-mail, opcionalmente número de teléfono y empresa, tema seleccionado, su mensaje y la hora de la solicitud) para responder a su consulta y asesorarle sobre nuestra oferta. La base jurídica es el Art. 6 apdo. 1 letra b RGPD, en la medida en que su consulta guarde relación con un contrato o su preparación; en los demás casos, el Art. 6 apdo. 1 letra f RGPD (interés legítimo en responder consultas)."
+      "Si se pone en contacto con nosotros a través del formulario de contacto, por correo electrónico o por teléfono, trataremos sus datos (nombre y apellidos, dirección de correo electrónico, opcionalmente número de teléfono y empresa, tema elegido, su mensaje y la fecha de la solicitud) para responder a su consulta y asesorarle sobre nuestra oferta. La base jurídica es el art. 6, apdo. 1, letra b), RGPD, en la medida en que su solicitud esté relacionada con un contrato o su preparación; en caso contrario, el art. 6, apdo. 1, letra f), RGPD (interés legítimo en responder consultas)."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "El formulario de contacto transmite sus datos cifrados a una función de servidor de nuestro proveedor de alojamiento Netlify (sección 3), que los remite a nuestro sistema de gestión de clientes (CRM). Allí se almacenan como contacto con una nota sobre su solicitud. Para protegernos del spam comprobamos la rapidez con la que se ha rellenado el formulario y limitamos temporalmente el número de solicitudes por dirección IP; la dirección IP no se almacena de forma permanente para ello."
+      "El formulario de contacto transmite sus datos cifrados a una función de servidor de nuestro proveedor de alojamiento Netlify (apartado 3), que los reenvía a nuestro sistema de gestión de clientes (CRM). Allí se almacenan como un contacto con una nota sobre su consulta. Para protegernos del spam, comprobamos la rapidez con la que se ha completado el formulario y limitamos temporalmente el número de solicitudes por dirección IP; la dirección IP no se almacena de forma permanente para ello."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "El proveedor del sistema CRM es HighLevel, Inc. (con LeadConnector LLC), 1801 N. Lamar St., Suite 600, Dallas, Texas 75202, USA; los datos se procesan en centros de datos de Google Cloud y Amazon Web Services. Existe con HighLevel un contrato de encargo de tratamiento (Art. 28 RGPD, Data Processing Addendum con las Cláusulas Contractuales Tipo de la Comisión de la UE). HighLevel está certificada en el EU-US Data Privacy Framework; por tanto, la transferencia a EE. UU. se basa en la decisión de adecuación de la Comisión de la UE de 10 de julio de 2023 (Art. 45 RGPD) y, con carácter complementario, en las Cláusulas Contractuales Tipo (Art. 46 apdo. 2 letra c RGPD)."
+      "El proveedor del sistema CRM es HighLevel, Inc. (junto con LeadConnector LLC), 1801 N. Lamar St., Suite 600, Dallas, Texas 75202, USA; los datos se tratan en centros de datos de Google Cloud y Amazon Web Services. Con HighLevel existe un contrato de encargo del tratamiento (art. 28, RGPD; Data Processing Addendum con las Cláusulas Contractuales Tipo de la Comisión de la UE). HighLevel está certificada en el EU-US Data Privacy Framework; por tanto, la transferencia a EE. UU. se basa en la Decisión de adecuación de la Comisión de la UE de 10 de julio de 2023 (art. 45, RGPD) y, de forma complementaria, en las Cláusulas Contractuales Tipo (art. 46, apdo. 2, letra c), RGPD)."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "Eliminamos sus datos cuando la solicitud esté resuelta y no se derive una relación comercial posterior, a más tardar tras dos años sin nuevos contactos, salvo que existan obligaciones legales de conservación. Si se formaliza un contrato, se aplicarán los plazos de conservación mercantiles y fiscales."
+      "Eliminamos sus datos cuando su consulta esté resuelta y no se establezca una relación comercial posterior, como máximo tras dos años sin nuevo contacto, salvo que existan obligaciones legales de conservación en contrario. Si se celebra un contrato, rigen los plazos de conservación mercantiles y fiscales."
     ]
   },
   {
@@ -284,38 +285,159 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "p",
     "lines": [
-      "El Sitio web enlaza con sitios de nuestros productos (p. ej., work247.app, bookique.app) y con sitios de terceros. Solo cuando hace clic en dicho enlace se transmiten datos al operador correspondiente; allí rige su propia política de privacidad."
+      "El Sitio web enlaza con sitios web de nuestros productos (p. ej., work247.app, bookique.app) y con sitios web de terceros. Solo cuando hace clic en dicho enlace se transmiten datos al correspondiente operador; allí rige su política de privacidad."
     ]
   },
   {
     "type": "h2",
-    "text": "9. Sus derechos"
+    "text": "9. Nuestras aplicaciones"
   },
   {
     "type": "p",
     "lines": [
-      "Usted tiene frente a nosotros los siguientes derechos respecto a sus datos personales:"
+      "Desarrollamos y operamos aplicaciones propias. Somos responsables de los datos de los comerciantes y usuarios que instalan una aplicación. Si una aplicación trata, por cuenta de un comerciante, datos de sus clientes (p. ej., reservas en Bookique), actuamos como encargado del tratamiento del comerciante (art. 28, RGPD)."
     ]
   },
   {
     "type": "ul",
     "items": [
-      "Derecho de acceso (Art. 15 RGPD)",
-      "Derecho de rectificación (Art. 16 RGPD)",
-      "Derecho de supresión (Art. 17 RGPD)",
-      "Derecho a la limitación del tratamiento (Art. 18 RGPD)",
-      "Derecho a la portabilidad de los datos (Art. 20 RGPD)",
-      "Derecho a revocar los consentimientos otorgados con efectos futuros (Art. 7 apdo. 3 RGPD)"
+      "**work247** (app para GoHighLevel, inmobiliario): Las indicaciones detalladas figuran en la política de privacidad en work247.app/en/privacy/ en el apartado «Uso de la app Work247».",
+      "**Bookique** (app de reservas para Shopify): Las indicaciones detalladas figuran en la política de privacidad en bookique.app/es/privacy/.",
+      "**GARAN-Label** (app de Shopify para el aviso de garantía legal y la etiqueta de la UE sobre la garantía de durabilidad): apartados 10 y 11.",
+      "**ElektroPflicht: Batterie+WEEE** (app de Shopify para la información obligatoria sobre baterías, aparatos eléctricos, cargadores y el Data Act): apartados 10 y 12."
     ]
   },
   {
-    "type": "h3",
-    "text": "Derecho de oposición (Art. 21 RGPD)"
+    "type": "h2",
+    "text": "10. Apps de Shopify GARAN-Label y ElektroPflicht"
   },
   {
     "type": "p",
     "lines": [
-      "En la medida en que tratemos datos sobre la base del Art. 6 apdo. 1 letra f RGPD (interés legítimo), usted tiene derecho, por motivos relacionados con su situación particular, a oponerse en cualquier momento a dicho tratamiento. En ese caso dejaremos de tratar los datos, salvo que podamos acreditar motivos legítimos imperiosos que prevalezcan sobre sus intereses, derechos y libertades, o que el tratamiento tenga por objeto la formulación, el ejercicio o la defensa de reclamaciones."
+      "Para ambas aplicaciones se aplica lo siguiente:"
+    ]
+  },
+  {
+    "type": "ul",
+    "items": [
+      "Datos de la tienda: Al instalar, recibimos de Shopify el dominio de la tienda, el nombre de la tienda, la dirección de correo electrónico de la tienda, los idiomas de la tienda y una clave de acceso para la app. La app solo lee los datos de la tienda y de los productos en la medida de los permisos otorgados por el comerciante durante la instalación.",
+      "Sin datos de clientes: Las apps no leen ni almacenan datos de los clientes de la tienda (p. ej., nombres, direcciones, pedidos).",
+      "Alojamiento: Las apps y sus bases de datos se operan en servidores en Alemania (Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen). Con el proveedor existe un contrato de encargo del tratamiento (art. 28, RGPD).",
+      "Facturación: Las tarifas se facturan a través de Shopify; no recibimos datos de pago.",
+      "Visitantes de la tienda: Los contenidos que se cargan directamente desde nuestro servidor (véanse los apartados 11 y 12) procesan por motivos técnicos la dirección IP, el momento y la dirección solicitada. Estos registros solo sirven para el funcionamiento seguro y se eliminan, como máximo, a los diez días. Las apps no colocan cookies en la tienda ni utilizan servicios de análisis o publicidad.",
+      "Plazo de conservación: Conservamos los datos mientras la app esté instalada. Al desinstalarla, eliminamos inmediatamente la clave de acceso. 48 horas después, Shopify solicita la eliminación de todos los datos de la tienda; a continuación, borramos todos los datos de la tienda en nuestros sistemas. Los datos que la app haya guardado como metacampos en la tienda permanecen en la tienda hasta que el comerciante los elimine. Respondemos a las solicitudes de Shopify de acceso o eliminación de datos de clientes; las apps no almacenan dichos datos."
+    ]
+  },
+  {
+    "type": "p",
+    "lines": [
+      "La base jurídica es la ejecución del contrato de uso de la app (art. 6, apdo. 1, letra b), RGPD); para los registros del servidor y las evidencias del apartado 12, nuestro interés legítimo en el funcionamiento seguro y en la documentación (art. 6, apdo. 1, letra f), RGPD)."
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "11. GARAN-Label"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "GARAN-Label muestra en la tienda el aviso sobre la garantía legal y, en las páginas de producto, en el checkout y en la confirmación de pedido, la etiqueta de la UE sobre la garantía de durabilidad. La app trata:"
+    ]
+  },
+  {
+    "type": "ul",
+    "items": [
+      "Datos de producto: títulos de los productos, así como la duración de la garantía de durabilidad, garante y código de modelo, que la app guarda como metacampos en la tienda. Shopify notifica a la app los cambios en los productos.",
+      "Ajustes: idioma del aviso, garantes creados, avisos ocultos y estado de la configuración.",
+      "Contacto con el comerciante: En la instalación y en los cambios de tarifa, incorporamos los datos de contacto del titular de la tienda (dirección de correo electrónico, nombre, nombre de la tienda, sitio web, número de teléfono, país) junto con la tarifa elegida a nuestro CRM HighLevel (proveedor y transferencia a EE. UU. según el apartado 7), para atender a los comerciantes respecto a la app e informarles sobre cambios importantes. La base jurídica es el art. 6, apdo. 1, letras b) y f), RGPD. Tras la desinstalación, lo consignamos allí; puede oponerse al almacenamiento en cualquier momento.",
+      "Visitantes de la tienda: La etiqueta en el checkout y en la confirmación de pedido se carga como imagen desde nuestro servidor (garan-app.work247.app). La dirección de la imagen solo contiene la duración de la garantía, el garante y el código de modelo; véanse los registros del servidor en el apartado 10."
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "12. ElektroPflicht: Batterie+WEEE"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "ElektroPflicht muestra en las tiendas de Shopify la información obligatoria sobre baterías, aparatos eléctricos, cargadores y el Data Act. La app trata:"
+    ]
+  },
+  {
+    "type": "ul",
+    "items": [
+      "Datos de la tienda adicionales a los del apartado 10: los países de envío de la tienda y la tarifa elegida.",
+      "Datos de producto: título, fabricante, tipo de producto, etiquetas, descripción, SKU, código de barras y colecciones, para asociar productos con la información obligatoria y señalar productos adecuados. La app guarda las asociaciones como metacampos en la tienda; crea la página de eliminación como una página en la tienda.",
+      "Datos introducidos por el comerciante: dirección de devolución y vías de devolución, datos de contacto, números de registro, textos propios y plantillas del Data Act.",
+      "Evidencias: momento de la confirmación de la responsabilidad propia, propuestas adoptadas de la IA con su momento y el número de búsquedas con IA por mes.",
+      "Correo electrónico semanal (tarifa Business): la dirección del destinatario indicada por el comerciante y la hora de envío."
+    ]
+  },
+  {
+    "type": "h3",
+    "text": "Búsqueda con IA (OpenAI)"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "Si el comerciante hace clic en «Sugerir con IA» o utiliza la revisión en bloque con IA, transmitimos a OpenAI el título, fabricante, descripción, SKU y código de barras del producto correspondiente para investigar el tipo de batería, la categoría y los datos del cargador con sus fuentes. No se transmiten datos personales de clientes. El comerciante revisa cada propuesta y decide por sí mismo si la adopta."
+    ]
+  },
+  {
+    "type": "p",
+    "lines": [
+      "El proveedor es OpenAI Ireland Limited, 1st Floor, The Liffey Trust Centre, 117–126 Sheriff Street Upper, Dublin 1, D01 YC43, Irland; el tratamiento también puede ser realizado por OpenAI, L.L.C. en EE. UU. Para la transferencia a EE. UU. se aplica la Decisión de adecuación relativa al EU-US Data Privacy Framework, en la medida en que el proveedor esté certificado; en lo demás, las Cláusulas Contractuales Tipo de la Comisión de la UE. Según las condiciones de OpenAI para la interfaz de programación (API), los contenidos transmitidos no se utilizan para el entrenamiento de los modelos; OpenAI puede almacenarlos hasta 30 días para la detección de abusos."
+    ]
+  },
+  {
+    "type": "h3",
+    "text": "Envío de correos electrónicos (Postmark)"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "El correo electrónico semanal con los puntos pendientes y los correos electrónicos de prueba los enviamos a través del servicio Postmark de ActiveCampaign, LLC, 1 N Dearborn St, Suite 500, Chicago, IL 60602, USA. Se transmiten la dirección del destinatario y el contenido del correo (nombre de la tienda y puntos pendientes). Para la transferencia a EE. UU. se aplica la Decisión de adecuación relativa al EU-US Data Privacy Framework, en la medida en que el proveedor esté certificado; en lo demás, las Cláusulas Contractuales Tipo de la Comisión de la UE. El comerciante puede desactivar el correo electrónico en la app en cualquier momento."
+    ]
+  },
+  {
+    "type": "h3",
+    "text": "Visitantes de la tienda"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "Los avisos en la tienda se entregan a través de Shopify. Solo los iconos de la página de eliminación y el PDF del Data Act (al hacer clic) se cargan directamente desde nuestro servidor; véanse los registros del servidor en el apartado 10."
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "13. Sus derechos"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "Usted tiene frente a nosotros los siguientes derechos en relación con sus datos personales:"
+    ]
+  },
+  {
+    "type": "ul",
+    "items": [
+      "Derecho de acceso (art. 15, RGPD)",
+      "Derecho de rectificación (art. 16, RGPD)",
+      "Derecho de supresión (art. 17, RGPD)",
+      "Derecho a la limitación del tratamiento (art. 18, RGPD)",
+      "Derecho a la portabilidad de los datos (art. 20, RGPD)",
+      "Derecho a retirar los consentimientos otorgados con efectos para el futuro (art. 7, apdo. 3, RGPD)"
+    ]
+  },
+  {
+    "type": "h3",
+    "text": "Derecho de oposición (art. 21, RGPD)"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "Cuando tratemos datos sobre la base del art. 6, apdo. 1, letra f), RGPD (interés legítimo), usted tiene derecho a oponerse en cualquier momento a dicho tratamiento por motivos relacionados con su situación particular. En tal caso, dejaremos de tratar los datos, a menos que podamos acreditar motivos legítimos imperiosos para el tratamiento que prevalezcan sobre sus intereses, derechos y libertades, o el tratamiento sea necesario para la formulación, el ejercicio o la defensa de reclamaciones."
     ]
   },
   {
@@ -325,33 +447,33 @@ export const PRIVACY: DE.LegalBlock[] = [
   {
     "type": "p",
     "lines": [
-      "Usted tiene derecho a presentar una reclamación ante una autoridad de control en materia de protección de datos (Art. 77 RGPD). Para nosotros es competente el Bayerische Landesamt für Datenschutzaufsicht (BayLDA), Promenade 18, 91522 Ansbach, www.lda.bayern.de."
+      "Usted tiene derecho a presentar una reclamación ante una autoridad de control en materia de protección de datos (art. 77, RGPD). Para nosotros es competente el Bayerische Landesamt für Datenschutzaufsicht (BayLDA), Promenade 18, 91522 Ansbach, www.lda.bayern.de."
     ]
   },
   {
     "type": "p",
     "lines": [
-      "Para ejercer sus derechos basta con un mensaje informal a support@cronema.com."
-    ]
-  },
-  {
-    "type": "h2",
-    "text": "10. Seguridad de los datos"
-  },
-  {
-    "type": "p",
-    "lines": [
-      "El Sitio web se transmite exclusivamente cifrado por HTTPS (TLS). Adoptamos medidas técnicas y organizativas para proteger sus datos frente a pérdida, manipulación y acceso no autorizado."
+      "Para ejercer sus derechos, basta con un mensaje informal a support@cronema.com."
     ]
   },
   {
     "type": "h2",
-    "text": "11. Modificaciones de esta política de privacidad"
+    "text": "14. Seguridad de los datos"
   },
   {
     "type": "p",
     "lines": [
-      "Adaptaremos esta política de privacidad cuando cambien el Sitio web, nuestros servicios o la situación legal. Rige la versión publicada aquí en cada momento."
+      "El Sitio web y nuestras aplicaciones se transmiten exclusivamente cifrados mediante HTTPS (TLS). Adoptamos medidas técnicas y organizativas para proteger sus datos frente a pérdida, manipulación y accesos no autorizados."
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "15. Modificaciones de esta política de privacidad"
+  },
+  {
+    "type": "p",
+    "lines": [
+      "Adaptamos esta política de privacidad cuando cambien el Sitio web, nuestras aplicaciones, nuestros servicios o la situación jurídica. Rige la versión publicada en este lugar en cada momento."
     ]
   }
 ];

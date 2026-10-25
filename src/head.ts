@@ -8,7 +8,7 @@ import { DEFAULT_LANG, LANG_META, SITE_LANGS, type SiteLang } from "./lang";
 import { absoluteUrl, pathFor, type Page } from "./site";
 
 /** Date of the last content change, for search engines (dateModified, sitemap lastmod). */
-export const LAST_MODIFIED = "2026-10-22";
+export const LAST_MODIFIED = "2026-10-25";
 
 type MetaPage = Exclude<Page, "service" | "product" | "productDocs">;
 

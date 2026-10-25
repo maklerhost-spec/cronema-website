@@ -1,5 +1,6 @@
 // Imprint: taken from work247.app and bookique.app (same company). Privacy policy: based on bookique.app,
-// reduced to this website (no app, no forms; consent banner, Google Analytics only with consent).
+// extended to the website (consent banner, Google Analytics only with consent, contact form) and our apps:
+// work247 and Bookique by reference to their own policies, GARAN-Label and ElektroPflicht in full.
 // Blocks: heading, paragraph (lines), list.
 import { COMPANY_ADDRESS, COMPANY_LEGAL_NAME, CONTACT_EMAIL, PHONE_DISPLAY } from "../../config";
 
@@ -38,10 +39,10 @@ export const IMPRINT: LegalBlock[] = [
 ];
 
 export const PRIVACY: LegalBlock[] = [
-  { type: "p", lines: ["Stand: 22. Oktober 2026"] },
-  { type: "h2", text: "1. Verantwortlicher" },
+  { type: "p", lines: ["Stand: 25. Oktober 2026"] },
+  { type: "h2", text: "1. Verantwortlicher und Geltungsbereich" },
   { type: "p", lines: [COMPANY_LEGAL_NAME, `${ADDRESS.join(", ")}, Deutschland`, "Vertreten durch den Geschäftsführer Manfred Sandner", `Telefon: ${PHONE_DISPLAY}`, `E-Mail: ${CONTACT_EMAIL}`] },
-  { type: "p", lines: ["Diese Datenschutzerklärung gilt für die Website cronema.de (im Folgenden „Website“)."] },
+  { type: "p", lines: ["Diese Datenschutzerklärung gilt für die Website cronema.de (im Folgenden „Website“, Abschnitte 3 bis 8) und für unsere Apps (Abschnitte 9 bis 12)."] },
   { type: "h2", text: "2. Überblick" },
   {
     type: "ul",
@@ -50,6 +51,7 @@ export const PRIVACY: LegalBlock[] = [
       "Ihre Einwilligung können Sie jederzeit über das Schild-Symbol unten links oder den Link „Cookie-Einstellungen“ unten auf jeder Seite ändern oder widerrufen.",
       "Schriftarten werden von unserem eigenen Webserver geladen, nicht von Google.",
       "Anfragen über das Kontaktformular speichern wir in unserem Kundenverwaltungssystem (CRM) HighLevel, um sie zu bearbeiten (Abschnitt 7).",
+      "Unsere Apps laufen auf Servern in Deutschland. Die Shopify-Apps GARAN-Label und ElektroPflicht lesen und speichern keine Daten der Kunden eines Shops (Abschnitte 9 bis 12).",
     ],
   },
   { type: "h2", text: "3. Bereitstellung der Website und Server-Protokolle" },
@@ -74,7 +76,62 @@ export const PRIVACY: LegalBlock[] = [
   { type: "p", lines: ["Wir löschen Ihre Angaben, wenn die Anfrage erledigt ist und keine weitere Geschäftsbeziehung entsteht, spätestens nach zwei Jahren ohne weiteren Kontakt, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Kommt ein Vertrag zustande, gelten die handels- und steuerrechtlichen Aufbewahrungsfristen."] },
   { type: "h2", text: "8. Links zu anderen Websites" },
   { type: "p", lines: ["Die Website verlinkt auf Websites unserer Produkte (z. B. work247.app, bookique.app) und auf Websites Dritter. Erst wenn Sie einen solchen Link anklicken, werden Daten an den jeweiligen Betreiber übermittelt; dort gilt dessen Datenschutzerklärung."] },
-  { type: "h2", text: "9. Ihre Rechte" },
+  { type: "h2", text: "9. Unsere Apps" },
+  { type: "p", lines: ["Wir entwickeln und betreiben eigene Apps. Für die Daten der Händler und Nutzer, die eine App installieren, sind wir Verantwortlicher. Verarbeitet eine App im Auftrag eines Händlers Daten seiner Kunden (z. B. Buchungen in Bookique), handeln wir als Auftragsverarbeiter des Händlers (Art. 28 DSGVO)."] },
+  {
+    type: "ul",
+    items: [
+      "**work247** (App für GoHighLevel, Immobilien): Die ausführlichen Hinweise stehen in der Datenschutzerklärung unter work247.app/datenschutz/ im Abschnitt „Nutzung der Work247-App“.",
+      "**Bookique** (Buchungs-App für Shopify): Die ausführlichen Hinweise stehen in der Datenschutzerklärung unter bookique.app/de/privacy/.",
+      "**GARAN-Label** (Shopify-App für den Gewährleistungshinweis und das EU-Label zur Haltbarkeitsgarantie): Abschnitte 10 und 11.",
+      "**ElektroPflicht: Batterie+WEEE** (Shopify-App für die Pflichtangaben zu Batterien, Elektrogeräten, Ladegeräten und zum Data Act): Abschnitte 10 und 12.",
+    ],
+  },
+  { type: "h2", text: "10. Shopify-Apps GARAN-Label und ElektroPflicht" },
+  { type: "p", lines: ["Für beide Apps gilt:"] },
+  {
+    type: "ul",
+    items: [
+      "Shop-Daten: Bei der Installation erhalten wir von Shopify die Shop-Domain, den Shop-Namen, die E-Mail-Adresse des Shops, die Sprachen des Shops und einen Zugriffsschlüssel für die App. Shop- und Produktdaten liest die App nur im Umfang der Berechtigungen, die der Händler bei der Installation erteilt.",
+      "Keine Kundendaten: Die Apps lesen und speichern keine Daten der Kunden des Shops (z. B. Namen, Adressen, Bestellungen).",
+      "Hosting: Die Apps und ihre Datenbanken werden auf Servern in Deutschland betrieben (Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen). Mit dem Anbieter besteht ein Vertrag zur Auftragsverarbeitung (Art. 28 DSGVO).",
+      "Abrechnung: Die Tarife werden über Shopify abgerechnet; Zahlungsdaten erhalten wir nicht.",
+      "Besucher des Shops: Inhalte, die direkt von unserem Server geladen werden (siehe Abschnitte 11 und 12), verarbeiten technisch notwendig die IP-Adresse, den Zeitpunkt und die aufgerufene Adresse. Diese Protokolle dienen nur dem sicheren Betrieb und werden spätestens nach zehn Tagen gelöscht. Die Apps setzen im Shop keine Cookies und verwenden keine Analyse- oder Werbedienste.",
+      "Speicherdauer: Wir speichern die Daten, solange die App installiert ist. Bei der Deinstallation löschen wir den Zugriffsschlüssel sofort. 48 Stunden später fordert Shopify die Löschung aller Shop-Daten an; daraufhin löschen wir alle Daten des Shops bei uns. Angaben, die die App als Metafelder im Shop gespeichert hat, bleiben im Shop, bis der Händler sie löscht. Anfragen von Shopify zur Auskunft oder Löschung von Kundendaten beantworten wir; die Apps speichern solche Daten nicht.",
+    ],
+  },
+  { type: "p", lines: ["Rechtsgrundlage ist die Erfüllung des Vertrags über die Nutzung der App (Art. 6 Abs. 1 lit. b DSGVO), für die Server-Protokolle und die Nachweise in Abschnitt 12 unser berechtigtes Interesse am sicheren Betrieb und an der Dokumentation (Art. 6 Abs. 1 lit. f DSGVO)."] },
+  { type: "h2", text: "11. GARAN-Label" },
+  { type: "p", lines: ["GARAN-Label zeigt im Shop den Hinweis auf die gesetzliche Gewährleistung und auf Produktseiten, im Checkout und in der Bestellbestätigung das EU-Label zur Haltbarkeitsgarantie. Die App verarbeitet:"] },
+  {
+    type: "ul",
+    items: [
+      "Produktdaten: Titel der Produkte sowie Dauer der Haltbarkeitsgarantie, Garantiegeber und Modellkennung, die die App als Metafelder im Shop speichert. Über Änderungen an Produkten benachrichtigt Shopify die App.",
+      "Einstellungen: Sprache des Hinweises, die angelegten Garantiegeber, ausgeblendete Hinweise und den Stand der Einrichtung.",
+      "Kontakt zum Händler: Bei der Installation und bei Tarifwechseln übernehmen wir die Kontaktdaten des Shopinhabers (E-Mail-Adresse, Name, Shop-Name, Website, Telefonnummer, Land) mit dem gewählten Tarif in unser CRM HighLevel (Anbieter und Übermittlung in die USA wie in Abschnitt 7), um Händler zur App zu betreuen und über wichtige Änderungen zu informieren. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b und f DSGVO. Eine Deinstallation wird beim Kontakt vermerkt. Sie können der Speicherung jederzeit widersprechen.",
+      "Besucher des Shops: Das Label im Checkout und in der Bestellbestätigung wird als Bild von unserem Server (garan-app.work247.app) geladen. Die Adresse des Bildes enthält nur Garantiedauer, Garantiegeber und Modellkennung; zu den Server-Protokollen siehe Abschnitt 10.",
+    ],
+  },
+  { type: "h2", text: "12. ElektroPflicht: Batterie+WEEE" },
+  { type: "p", lines: ["ElektroPflicht zeigt in Shopify-Shops die Pflichtangaben zu Batterien, Elektrogeräten, Ladegeräten und zum Data Act. Die App verarbeitet:"] },
+  {
+    type: "ul",
+    items: [
+      "Shop-Daten zusätzlich zu Abschnitt 10: die Lieferländer des Shops und den gewählten Tarif.",
+      "Produktdaten: Titel, Hersteller, Produkttyp, Tags, Beschreibung, SKU, Barcode und Kollektionen, um Produkte den Pflichtangaben zuzuordnen und auf passende Produkte hinzuweisen. Die Zuordnungen speichert die App als Metafelder im Shop; die Entsorgungsseite legt sie als Seite im Shop an.",
+      "Angaben, die der Händler einträgt: Rücknahmeadresse und Rückgabewege, Kontaktangaben, Registriernummern, eigene Texte und Data-Act-Vorlagen.",
+      "Nachweise: Zeitpunkt der Bestätigung der Eigenverantwortung, übernommene KI-Vorschläge mit Zeitpunkt und die Zahl der KI-Recherchen je Monat.",
+      "Wöchentliche E-Mail (Tarif Business): die vom Händler angegebene Empfängeradresse und den Versandzeitpunkt.",
+    ],
+  },
+  { type: "h3", text: "KI-Recherche (OpenAI)" },
+  { type: "p", lines: ["Klickt der Händler auf „Mit KI vorschlagen“ oder nutzt die KI-Sammelprüfung, übermitteln wir Titel, Hersteller, Beschreibung, SKU und Barcode des jeweiligen Produkts an OpenAI, um Batterieart, Kategorie und Ladegerät-Angaben mit Quellen zu recherchieren. Personenbezogene Daten von Kunden werden nicht übermittelt. Der Händler prüft jeden Vorschlag und entscheidet selbst, ob er ihn übernimmt."] },
+  { type: "p", lines: ["Anbieter ist OpenAI Ireland Limited, 1st Floor, The Liffey Trust Centre, 117–126 Sheriff Street Upper, Dublin 1, D01 YC43, Irland; die Verarbeitung kann auch durch OpenAI, L.L.C. in den USA erfolgen. Für die Übermittlung in die USA gilt der Angemessenheitsbeschluss zum EU-US Data Privacy Framework, soweit der Anbieter zertifiziert ist, im Übrigen die Standardvertragsklauseln der EU-Kommission. Nach den Bedingungen von OpenAI für die Programmierschnittstelle (API) werden die übermittelten Inhalte nicht zum Training der Modelle verwendet; OpenAI kann sie bis zu 30 Tage zur Missbrauchserkennung speichern."] },
+  { type: "h3", text: "E-Mail-Versand (Postmark)" },
+  { type: "p", lines: ["Die wöchentliche E-Mail mit offenen Punkten und Test-E-Mails versenden wir über den Dienst Postmark der ActiveCampaign, LLC, 1 N Dearborn St, Suite 500, Chicago, IL 60602, USA. Übermittelt werden die Empfängeradresse und der Inhalt der E-Mail (Name des Shops und offene Punkte). Für die Übermittlung in die USA gilt der Angemessenheitsbeschluss zum EU-US Data Privacy Framework, soweit der Anbieter zertifiziert ist, im Übrigen die Standardvertragsklauseln der EU-Kommission. Der Händler kann die E-Mail in der App jederzeit abschalten."] },
+  { type: "h3", text: "Besucher des Shops" },
+  { type: "p", lines: ["Die Hinweise im Shop werden über Shopify ausgeliefert. Nur die Symbole auf der Entsorgungsseite und das Data-Act-PDF (auf Klick) laden direkt von unserem Server; zu den Server-Protokollen siehe Abschnitt 10."] },
+  { type: "h2", text: "13. Ihre Rechte" },
   { type: "p", lines: ["Sie haben gegenüber uns folgende Rechte hinsichtlich Ihrer personenbezogenen Daten:"] },
   { type: "ul", items: ["Recht auf Auskunft (Art. 15 DSGVO)", "Recht auf Berichtigung (Art. 16 DSGVO)", "Recht auf Löschung (Art. 17 DSGVO)", "Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)", "Recht auf Datenübertragbarkeit (Art. 20 DSGVO)", "Recht auf Widerruf erteilter Einwilligungen mit Wirkung für die Zukunft (Art. 7 Abs. 3 DSGVO)"] },
   { type: "h3", text: "Widerspruchsrecht (Art. 21 DSGVO)" },
@@ -82,8 +139,8 @@ export const PRIVACY: LegalBlock[] = [
   { type: "h3", text: "Beschwerderecht" },
   { type: "p", lines: ["Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren (Art. 77 DSGVO). Für uns zuständig ist das Bayerische Landesamt für Datenschutzaufsicht (BayLDA), Promenade 18, 91522 Ansbach, www.lda.bayern.de."] },
   { type: "p", lines: [`Zur Ausübung Ihrer Rechte genügt eine formlose Nachricht an ${CONTACT_EMAIL}.`] },
-  { type: "h2", text: "10. Datensicherheit" },
-  { type: "p", lines: ["Die Website wird ausschließlich verschlüsselt über HTTPS (TLS) übertragen. Wir treffen technische und organisatorische Maßnahmen, um Ihre Daten gegen Verlust, Manipulation und unberechtigten Zugriff zu schützen."] },
-  { type: "h2", text: "11. Änderungen dieser Datenschutzerklärung" },
-  { type: "p", lines: ["Wir passen diese Datenschutzerklärung an, wenn sich die Website, unsere Dienste oder die Rechtslage ändern. Es gilt die jeweils hier veröffentlichte Fassung."] },
+  { type: "h2", text: "14. Datensicherheit" },
+  { type: "p", lines: ["Die Website und unsere Apps werden ausschließlich verschlüsselt über HTTPS (TLS) übertragen. Wir treffen technische und organisatorische Maßnahmen, um Ihre Daten gegen Verlust, Manipulation und unberechtigten Zugriff zu schützen."] },
+  { type: "h2", text: "15. Änderungen dieser Datenschutzerklärung" },
+  { type: "p", lines: ["Wir passen diese Datenschutzerklärung an, wenn sich die Website, unsere Apps, unsere Dienste oder die Rechtslage ändern. Es gilt die jeweils hier veröffentlichte Fassung."] },
 ];

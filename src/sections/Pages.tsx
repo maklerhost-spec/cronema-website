@@ -406,7 +406,7 @@ function LegalText({ blocks }: { blocks: LegalBlock[] }) {
         if (b.type === "ul")
           return (
             <ul key={i} className="list-disc space-y-1.5 pl-5">
-              {b.items.map((item) => <li key={item}>{item}</li>)}
+              {b.items.map((item) => <li key={item}><Rich text={item} /></li>)}
             </ul>
           );
         return (
