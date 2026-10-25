@@ -180,6 +180,7 @@ export function ReferencesPage() {
                 </div>
                 <div>
                   <span className="rounded-sm bg-net-50 px-3 py-1 text-xs font-semibold text-net-700">{r.platform}</span>
+                  {r.upcoming && <span className="ml-2 rounded-sm bg-accent-50 px-3 py-1 text-xs font-semibold text-accent-700">{UI.upcoming}</span>}
                   <h2 className="mt-3 text-3xl font-bold text-slate-900">{r.name}</h2>
                   <p className="mt-1 text-lg font-semibold text-slate-700">{r.title}</p>
                   <div className="mt-4 space-y-3 leading-relaxed text-slate-600">
@@ -197,6 +198,11 @@ export function ReferencesPage() {
                     <a href={r.url} rel="noopener" className="btn-outline mt-6">
                       {p.visit}
                       <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                    </a>
+                  )}
+                  {r.upcoming && (
+                    <a href={pathFor("product")} className="btn-outline mt-6">
+                      {UI.toProductPage}
                     </a>
                   )}
                 </div>

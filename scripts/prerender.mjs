@@ -9,7 +9,7 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dist = join(root, "dist");
 const server = await import(pathToFileURL(join(root, "dist-server", "entry-server.js")).href);
-const { render, ROUTES, absoluteUrl, pathFor, setLang, SITE_LANGS, LAST_MODIFIED, SERVICES, SERVICE_IDS, HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE, TEAM, CONTACT_EMAIL, PHONE_DISPLAY, COMPANY_LEGAL_NAME } = server;
+const { render, ROUTES, absoluteUrl, pathFor, setLang, SITE_LANGS, PRODUCT_LANGS, productPath, LAST_MODIFIED, SERVICES, SERVICE_IDS, HOME, REFERENCES, META, APPROACH_PAGE, ABOUT_PAGE, TEAM, CONTACT_EMAIL, PHONE_DISPLAY, COMPANY_LEGAL_NAME } = server;
 
 const template = await readFile(join(dist, "index.html"), "utf8");
 if (!template.includes("<!--app-html-->") || !template.includes("<!--app-head-->")) {
@@ -40,9 +40,15 @@ await writeFile(
 );
 
 // 3. Sitemap with every language version of each page (hreflang)
-const priority = (r) => (r.page === "home" ? "1.0" : r.page === "service" || r.page === "services" ? "0.9" : r.page === "imprint" || r.page === "privacy" ? "0.2" : "0.7");
+const priority = (r) => (r.plang ? "0.8" : r.page === "home" ? "1.0" : r.page === "service" || r.page === "services" ? "0.9" : r.page === "imprint" || r.page === "privacy" ? "0.2" : "0.7");
+// ElektroPflicht pages exist in 26 languages, the rest of the site in four.
 const alternates = (r) =>
-  SITE_LANGS.map((l) => `    <xhtml:link rel="alternate" hreflang="${l}" href="${absoluteUrl(pathFor(r.page, r.id, l))}" />`).join("\n");
+  (r.plang
+    ? PRODUCT_LANGS.map((l) => [l, productPath(l, r.page === "productDocs")])
+    : SITE_LANGS.map((l) => [l, pathFor(r.page, r.id, l)])
+  )
+    .map(([l, path]) => `    <xhtml:link rel="alternate" hreflang="${l}" href="${absoluteUrl(path)}" />`)
+    .join("\n");
 const urls = ROUTES.map(
   (r) => `  <url>\n    <loc>${absoluteUrl(r.path)}</loc>\n${alternates(r)}\n    <lastmod>${LAST_MODIFIED}</lastmod>\n    <priority>${priority(r)}</priority>\n  </url>`,
 );

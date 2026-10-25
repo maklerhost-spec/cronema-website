@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht għal Shopify – avviżi obbligatorji għal batteriji, apparat elettriku u ċarġers",
+ "metaDescription": "App ta’ Shopify għall-avviżi meħtieġa tal-UE dwar batteriji, apparat elettriku u ċarġers: paġna tal-prodott, paġna ta’ ringrazzjament u email tal-ordni, 26 lingwi, riċerka bl-IA. Dalwaqt fil‑Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – dokumentazzjoni u sorsi uffiċjali",
+ "docsMetaDescription": "Kif tissettja ElektroPflicht: dmirijiet, konfigurazzjoni, prodotti, IA, pajjiżi u numri ta’ reġistrazzjoni, b’rabtiet lejn il-liġi tal-UE u l-awtoritajiet f’30 pajjiż.",
+ "badge": "Dalwaqt fil‑Shopify App Store",
+ "title": "Avviżi obbligatorji għal batteriji u apparat elettriku, dirett fil‑ħanut tiegħek",
+ "subtitle": "ElektroPflicht juri l-avviż tal-batterija, is-simbolu tat-teħid lura u l-pittogramma taċ-ċarġer fuq kull prodott rilevanti, ukoll wara x-xiri, f’26 lingwa.",
+ "ctaDocs": "Aqra d-dokumentazzjoni",
+ "ctaContact": "Itlob aċċess bikri",
+ "featuresTitle": "X’tagħmel l-app",
+ "whyTitle": "Għaliex hu importanti",
+ "langsTitle": "F’26 lingwa",
+ "langsText": "L-app, it-testijiet fil-ħanut u din il-paġna huma disponibbli f’kull lingwa uffiċjali tal-UE flimkien man-Norveġiż u l-Iżlandiż.",
+ "upcomingNote": "ElektroPflicht qiegħda fl-aħħar fażi tat-test u dalwaqt tkun disponibbli fil‑Shopify App Store.",
+ "byCronema": "App minn Cronema",
+ "docsLink": "Dokumentazzjoni",
+ "backToApp": "Lura għal ElektroPflicht",
+ "language": "Lingwa",
+ "imageAlt": "Screenshot tal‑app ElektroPflicht",
+ "facts": [
+  "26 lingwi",
+  "30 pajjiżi",
+  "B’xejn sa 20 prodott"
+ ],
+ "why": [
+  {
+   "title": "Meħtieġ mil-liġi",
+   "text": "Jekk tbigħ batteriji jew apparat elettriku fl-UE, trid tinforma dwar it-teħid lura u r-rimi. Nuqqas ta’ avviżi jista’ jwassal għal twissijiet u multi."
+  },
+  {
+   "title": "Kull pajjiż għandu r-regoli tiegħu",
+   "text": "Numri ta’ reġistrazzjoni, lingwi u modi ta’ ritorn ivarjaw minn pajjiż għal ieħor. L-app taf ir-regoli għal 30 pajjiż."
+  },
+  {
+   "title": "L-IA tagħmillek ir-riċerka",
+   "text": "L-IA tirriċerka t-tip ta’ batterija, il-kategorija u d-dettalji taċ-ċarġer bis-sorsi. Inti tiċċekkja u tikkonferma, l-app timliehom."
+  }
+ ],
+ "tagline": "Avviżi obbligatorji għal batteriji, apparat elettriku u ċarġers – f'26 lingwa",
+ "features": [
+  {
+   "title": "Avviżi obbligatorji direttament fil-ħanut",
+   "text": "L-avviż tal-batteriji, is-simbolu tat-teħid lura u l-pittogramma taċ-ċarġer jidhru waħedhom fuq il-paġna tal-prodott.",
+   "image": "/elektropflicht/mt/01-shop.webp"
+  },
+  {
+   "title": "Kollox f'daqqa t'għajn",
+   "text": "Kemm-il prodott għandu l-avviżi – u liema għad għandek tiċċekkja.",
+   "image": "/elektropflicht/mt/02-dashboard.webp"
+  },
+  {
+   "title": "L-IA tagħmel ir-riċerka",
+   "text": "Tip ta' batterija, kimika, kategorija u ċarġer, b'sorsi. Int tiċċekkja u tikkonferma.",
+   "image": "/elektropflicht/mt/03-editor.webp"
+  },
+  {
+   "title": "Lest f'ftit minuti",
+   "text": "Il-konfigurazzjoni ggwidata timmarka kull pass waħedha.",
+   "image": "/elektropflicht/mt/04-setup.webp"
+  },
+  {
+   "title": "Anke wara x-xiri",
+   "text": "Avviż tat-teħid lura fil-paġna tar-ringrazzjament, fl-istatus tal-ordni u fl-email.",
+   "image": "/elektropflicht/mt/05-order.webp"
+  },
+  {
+   "title": "30 pajjiż, 26 lingwa",
+   "text": "Status skont il-qasam – b'twissija meta tkun nieqsa l-lingwa ta' pajjiż tal-kunsinna.",
+   "image": "/elektropflicht/mt/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Għajnuna u sorsi",
+  "intro": "Hawn issir taf liema dmirijiet tkopri l-app, kif tissettjaha u fejn taqra r-regoli uffiċjali.",
+  "disclaimer": "Din il-paġna tispjega l-app u torbot ma’ paġni pubbliċi tal-UE u tal-awtoritajiet kompetenti. Mhix parir legali. Aħna m’aħniex marbuta ma’ dawn l-entitajiet. Dak li jgħodd huma t-testijiet legali u l-informazzjoni tal-awtoritajiet.",
+  "contents": "Kontenut",
+  "faqHeading": "Mistoqsijiet Frekwenti",
+  "sourcesHeading": "Sorsi uffiċjali",
+  "euHeading": "Liġi tal-UE u Kummissjoni Ewropea",
+  "euIntro": "It-testijiet legali jinfetħu fuq EUR-Lex fil-lingwa tiegħek. Il-paġni tal-Kummissjoni Ewropea ħafna drabi huma biss bl-Ingliż.",
+  "inEnglish": "bl-Ingliż",
+  "countriesHeading": "Awtoritajiet u reġistri skont il-pajjiż",
+  "countriesIntro": "Il-paġni uffiċjali tal-awtoritajiet u r-reġistri kompetenti. It-titli huma fil-lingwa ta’ kull paġna.",
+  "englishVersion": "Verżjoni bl-Ingliż",
+  "noOfficial": "Għadna ma sibtux paġna uffiċjali dwar dawn id-dmirijiet. Jekk għandek dubju, staqsi lill-awtorità ambjentali kompetenti.",
+  "liNote": "Għal tagħmir elettriku u elettroniku, Liechtenstein japplika l-biċċa l-kbira tar-regoli Svizzeri permezz tat-trattat doganali. Il-kuntatt hu l-Amt für Umweltschutz (Uffiċċju għall-Protezzjoni tal-Ambjent).",
+  "lvNote": "Fil-Latvja, ir-reġistru għall-manifatturi ta’ tagħmir elettriku u batteriji jinżamm mill-assoċjazzjoni LETERA f’isem il-ministeru.",
+  "contactHeading": "Għandek xi mistoqsijiet?",
+  "contactText": "Iktbilna fuq support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Liema dmirijiet tkopri l-app",
+    "body": [
+     "Batteriji (Regolament dwar il-Batteriji tal-UE, fil-Ġermanja wkoll il-BattDG): jekk tbigħ batteriji jew apparat b’batteriji, trid tinforma dwar it-teħid lura b’xejn, il-kontenitur fuq roti mħassar u l-perikli tal-batterija. Il-manifatturi u l-importaturi jridu wkoll jirreġistraw.",
+     "Apparat elettriku (Direttiva WEEE, fil-Ġermanja l-ElektroG): il-klijenti għandhom jiġu infurmati kif jerġgħu jirritornaw l-apparat qadim. Jekk għandek dmir ta’ teħid lura, turi s-simbolu tat-teħid lura.",
+     "Pittogramma taċ-ċarġer (Direttiva 2022/2380): għal mowbajls, headphones, laptops u apparat ieħor li jiċċarġja bil-kejbil, maġenb il-prezz irid jidher jekk hemmx ċarġer inkluż u liema qawwa ta’ ċċarġjar jeħtieġ l-apparat.",
+     "Data Act (Regolament 2023/2854): qabel jixtru apparat konness, il-klijenti għandhom jiġu infurmati dwar liema dejta jiġġenera l-apparat u kif jistgħu jaċċessawha. Din l-informazzjoni tiġi mill-manifattur."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Konfigurazzjoni pass pass",
+    "body": [
+     "Il-konfigurazzjoni tmexxik minn kull pass u timmarka l-oġġetti lesti waħedha. Issibha fil-menu taħt Konfigurazzjoni.",
+     "L-ewwel twieġeb ftit mistoqsijiet: x’qed tbigħ, jekk inti bejjiegħ bl-imnut jew manifattur u f’liema pajjiżi tibgħat. Mill-answers l-app tixgħel l-oqsma li għandek bżonn.",
+     "Taħt Teħid lura u pajjiżi ddaħħal l-indirizz għat-teħid lura, il-modi ta’ ritorn u, jekk hemm bżonn, in-numri tar-reġistrazzjoni tiegħek.",
+     "Imbagħad iżżid il-blokk tal-app fil-paġna tal-prodott tat-theme tiegħek, toħloq il-Paġna tar-rimi u tattiva n-notifika fuq il-paġna ta’ ringrazzjament u l-paġna tal-istatus tal-ordni."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Attribuzzjoni tal-prodotti",
+    "body": [
+     "Taħt Prodotti tattakka kull prodott mal-oqsma korrispondenti: Batteriji, Apparat elettriku, Pittogramma taċ-ċarġer u Data Act. Notifiki jidhru biss fuq prodotti attribwiti.",
+     "Tista’ teditja prodotti waħedhom jew ħafna f’daqqa, imfittxija skont kollezzjoni, tip ta’ prodott jew tag. L-app tissuġġerixxi prodotti li fit-testijiet tagħhom jissemmew batteriji li jerġgħu jittella’ l-ħlas, batteriji, kejbil ta’ ċċarġjar jew funzjonijiet konnessi.",
+     "Jekk għandek ħafna prodotti, jgħinek l-importazzjoni CSV fil-pjan Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Suġġerimenti tal-IA u iċċekkjar tal-massa tal-IA",
+    "body": [
+     "Fil-editur tal-prodott, l-IA tirriċerka l-web b’buttuna: tip ta’ batterija, kimiċi, kategorija tal-apparat elettriku u dettalji taċ-ċarġer, kull wieħed b’sorsi. Għal dan jintbagħtu t-titlu, il-bejjiegħ, id-deskrizzjoni, l-SKU u l-barcode lil OpenAI, l-ebda data tal-klijent.",
+     "Bil-verifika tal-massa tal-IA (Pro u Business) tibgħat sa 10 prodotti magħżula f’daqqa lill-IA. Is-suġġerimenti jidhru fil-lista tal-prodotti.",
+     "L-IA tista’ żżbalja, speċjalment meta ma ssibx data tal-manifattur. Għalhekk l-app tieħu suġġeriment biss wara li tiċċekkjah u tikkonfermah."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Pajjiżi, numri ta’ reġistrazzjoni u lingwi",
+    "body": [
+     "Kull pajjiż tal-kunsinna għandu r-regoli tiegħu. F’xi pajjiżi n-numri tar-reġistrazzjoni jridu jidhru fil-ħanut jew fuq il-fatturi, pereżempju fi Franza, Spanja, l-Italja jew il-Polonja.",
+     "Il-klijenti barra għandhom bżonn in-notifiki bil-lingwa tagħhom. Status jurik liema lingwa tal-pajjiżi tal-kunsinna tiegħek nieqsa fil-ħanut.",
+     "Il-għaṣṣies tal-pajjiżi (Pro u Business) jqabbel il-pajjiżi tal-kunsinna fis-settings tal-Shipping ta’ Shopify tiegħek mal-konfigurazzjoni tiegħek u jirrapporta pajjiżi ġodda.",
+     "Fil-qiegħ ta’ din il-paġna ssib l-awtoritajiet u r-reġistri kompetenti għal kull pajjiż."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Wara x-xiri: paġna ta’ ringrazzjament u email tal-ordni",
+    "body": [
+     "In-notifika tat-teħid lura tidher ukoll fuq il-paġna ta’ ringrazzjament u l-paġna tal-istatus tal-ordni. Għal dan iżżid il-blokk tal-app hemmhekk.",
+     "Għall-konferma tal-ordni u n-nota tal-kunsinna, l-app tagħtik kodiċi x’ttella’. B’klik waħda tikteb il-kodiċi wkoll f’kull verżjoni tal-lingwa tal-mudell."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Pjanijiet u funzjonijiet żejda",
+    "body": [
+     "Free jinkludi kull qasam għal sa 20 prodott. Basic, Pro u Business m’għandhomx limitu ta’ prodotti u jvarjaw fil-funzjonijiet żejda tagħhom.",
+     "Is-suġġerimenti tal-IA jiġu ma’ Basic u ’l fuq, l-iċċekkjar tal-massa tal-IA u l-għaṣṣies tal-pajjiżi ma’ Pro u ’l fuq. L-email ta’ kull ġimgħa bl-oġġetti miftuħa u l-importazzjoni CSV jappartjenu għal Business.",
+     "Tista’ tipprova kull pjan imħallas b’xejn għal 7 ijiem. Il-fatturazzjoni issir permezz tal-fattura Shopify tiegħek."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Ir-responsabbiltà tiegħek",
+    "body": [
+     "L-app tipprovdi testi ta’ kampjun, notifiki u suġġerimenti. Mhijiex parir legali u ma tissostitwixxihx.",
+     "Jekk u liema dmirijiet japplikaw għalik jiddependi fuq in-negozju tiegħek. Iċċekkja d-dettalji u, jekk għandek dubju, staqsi lill-awtorità kompetenti jew lil konsulent legali."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Jien biss bejjiegħ bl-imnut. Għandi bżonn nirreġistra?",
+    "a": "Normalment le. Il-manifatturi u l-importaturi jridu jirreġistraw. Madankollu, jekk tiddaħħal oġġetti minn barra int stess jew tbigħhom taħt ismek, ħafna drabi tgħodd bħala manifattur. Il-konfigurazzjoni tistaqsik dwar dan u turi x’japplika għalik."
+   },
+   {
+    "q": "Għaliex ma nara l-notifikix fuq il-paġna tal-prodott tiegħi?",
+    "a": "Iċċekkja żewġ affarijiet: il-prodott irid ikun attribwit għal qasam, u l-blokk tal-app irid ikun fuq il-paġna tal-prodott fit-theme tiegħek. Status jurik it-tnejn."
+   },
+   {
+    "q": "X’jiġri bid-dejta tiegħi waqt ir-riċerka tal-IA?",
+    "a": "Biss dejta tal-prodott tintbagħat lil OpenAI: titlu, bejjiegħ, deskrizzjoni, SKU u barcode. L-ebda data tal-klijenti jew tal-ordnijiet ma tintbagħat."
+   },
+   {
+    "q": "Nista’ nbiddel it-testi?",
+    "a": "Iva. Taħt Testi taġġusta kull test li jaraw il-klijenti tiegħek. Oqsma vojta jerġgħu lura għat-test ta’ kampjun."
+   },
+   {
+    "q": "X’japplika fl-Iżvizzera u fir-Renju Unit?",
+    "a": "Għandhom ir-regoli tagħhom barra mil-liġi tal-UE. L-app turi notifika meta tibgħat hemmhekk. It-testi ta’ kampjun huma miktuba għall-UE u l-ŻEE."
+   },
+   {
+    "q": "Kif nħassar pjan?",
+    "a": "Taħt Pjan tista’ taqleb għal Free fi kwalunkwe ħin. Shopify tikkredita l-ħin mhux użat lilek."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Regolament (UE) 2023/1542 dwar il-batteriji u l-iskart tal-batteriji",
+   "weeeDirective": "Direttiva 2012/19/UE (WEEE) dwar rifiuti ta’ tagħmir elettriku u elettroniku",
+   "chargerDirective": "Direttiva (UE) 2022/2380 dwar iċ-ċarġer komuni",
+   "dataAct": "Att dwar id-Dejta, Regolament (UE) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Kummissjoni Ewropea: batteriji",
+   "ecWeee": "Kummissjoni Ewropea: rifiuti ta’ tagħmir elettriku u elettroniku",
+   "ecCharger": "Kummissjoni Ewropea: ċarġer komuni",
+   "ecDataAct": "Kummissjoni Ewropea: Att dwar id-Dejta"
+  },
+  "types": {
+   "battery": "Batteriji",
+   "weee": "Apparat elettriku",
+   "both": "Batteriji u apparat elettriku",
+   "retail": "Għal bejjiegħa bl-imnut"
+  },
+  "yourCountries": "Il-pajjiżi tal-kunsinna tiegħek",
+  "otherCountries": "Pajjiżi oħra",
+  "countryNames": {
+   "AT": "l-Awstrija",
+   "BE": "il-Belġju",
+   "BG": "il-Bulgarija",
+   "CY": "Ċipru",
+   "CZ": "ir-Repubblika Ċeka",
+   "DE": "il-Ġermanja",
+   "DK": "id-Danimarka",
+   "EE": "l-Estonja",
+   "ES": "Spanja",
+   "FI": "il-Finlandja",
+   "FR": "Franza",
+   "GR": "il-Greċja",
+   "HR": "il-Kroazja",
+   "HU": "l-Ungerija",
+   "IE": "l-Irlanda",
+   "IT": "l-Italja",
+   "LT": "il-Litwanja",
+   "LU": "il-Lussemburgu",
+   "LV": "il-Latvja",
+   "MT": "Malta",
+   "NL": "in-Netherlands",
+   "PL": "il-Polonja",
+   "PT": "il-Portugall",
+   "RO": "ir-Rumanija",
+   "SE": "l-Iżvezja",
+   "SI": "is-Slovenja",
+   "SK": "is-Slovakkja",
+   "IS": "l-Iżlanda",
+   "LI": "il-Liechtenstein",
+   "NO": "in-Norveġja"
+  }
+ }
+}

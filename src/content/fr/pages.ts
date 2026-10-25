@@ -319,6 +319,29 @@ export const REFERENCES: DE.Reference[] = [
       "Extensions",
       "Hébergement"
     ]
+  },
+  {
+    "id": "elektropflicht",
+    "name": "ElektroPflicht",
+    "platform": "Application Shopify",
+    "upcoming": true,
+    "title": "Mentions obligatoires pour piles, équipements électriques et chargeurs",
+    "text": "Avis sur les piles, symbole de reprise et pictogramme du chargeur ajoutés automatiquement à la boutique, après l'achat et dans l'e-mail de commande. Pour 30 pays, en 26 langues, avec recherche par IA.",
+    "facts": [
+      "Règlement UE sur les batteries, DEEE, chargeur",
+      "30 pays, 26 langues",
+      "Recherche IA avec sources"
+    ],
+    "story": [
+      "Quiconque vend des piles ou des équipements électriques dans l'UE doit informer sur la reprise et l'élimination, et pour de nombreux appareils aussi sur le chargeur. Chaque pays a ses propres numéros d'enregistrement, langues et modes de retour.",
+      "ElektroPflicht intègre ces mentions dans chaque boutique Shopify : sur la page produit, la page de remerciement, la page de suivi de commande et dans l'e-mail de commande. Une configuration guidée connaît les règles de 30 pays, une IA recherche le type de pile, la catégorie et le chargeur avec leurs sources, et le marchand vérifie et confirme.",
+      "L'application est disponible en 26 langues, avec une documentation et des liens vers les autorités compétentes. Elle est en dernière phase de test et sera bientôt disponible dans le Shopify App Store."
+    ],
+    "services": [
+      "Extensions",
+      "Agents IA",
+      "Hébergement"
+    ]
   }
 ];
 

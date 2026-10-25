@@ -15,11 +15,25 @@ Statische Website, Vite + React + TypeScript + Tailwind CSS, kein Backend. Gleic
 | KI-Agenten & Automatisierung | `/leistungen/ki-agenten/` |
 | API-Schnittstellen | `/leistungen/api-schnittstellen/` |
 | Hosting & Betrieb | `/leistungen/hosting-betrieb/` |
-| Referenzen (work247, Bookique, GARAN-Label) | `/referenzen/` |
+| Referenzen (work247, Bookique, GARAN-Label, ElektroPflicht) | `/referenzen/` |
+| ElektroPflicht: Landingpage und Doku (26 Sprachen) | `/elektropflicht/`, `/elektropflicht/doku/`, `/<sprache>/elektropflicht/(docs/)` |
 | Arbeitsweise mit Claude Code | `/arbeitsweise/` |
 | Über uns | `/ueber-uns/` |
 | Kontakt | `/kontakt/` |
 | Impressum, Datenschutz | `/impressum/`, `/datenschutz/` |
+
+## Sprachen
+
+Die Website gibt es auf Deutsch (an der Wurzel, die bisherigen Adressen), Englisch (`/en/`), Französisch (`/fr/`)
+und Spanisch (`/es/`), jeweils mit übersetzten Adressen (`src/site.ts`). Die deutschen Texte sind das Original
+(`src/content/de/`), die Übersetzungen liegen in `src/content/en|fr|es/` und werden mit `scripts/i18n/` erzeugt
+(`dump-de.ts` → `translate.py` → `write_ts.py`). Die Komponenten lesen die Texte über die bisherigen Namen
+(`HOME`, `NAV`, `SERVICES` …); `src/lang.ts` liefert jeweils die Sprache der Seite.
+
+Die ElektroPflicht-Seiten (`src/products/elektropflicht/`, `src/sections/Product.tsx`) gibt es in allen 26 Sprachen
+der App. Kopf und Fuß erscheinen in der Seitensprache, wo es eine gibt, sonst auf Englisch. Die Texte je Sprache liegen in
+`src/products/elektropflicht/content/<sprache>.json` (der Browser lädt nur die eigene Sprache), die Bilder in
+`public/elektropflicht/<sprache>/`, die geprüften Behördenlinks in `src/products/elektropflicht/sources.ts`.
 
 ## Lokal starten
 

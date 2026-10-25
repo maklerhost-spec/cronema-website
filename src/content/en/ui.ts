@@ -18,6 +18,8 @@ export const UI: typeof DE.UI = {
   "aboutTagline": "Custom software for the mid-market",
   "logoAlt": "Cronema logo: cross in a net with AI core",
   "logoAltShort": "Cronema logo",
+  "upcoming": "Coming soon",
+  "toProductPage": "View product page",
   "backHome": "Back to homepage",
   "imprint": "Imprint",
   "privacyShort": "Privacy",
@@ -73,6 +75,9 @@ export const UI: typeof DE.UI = {
 };
 
 export const ART: Record<string, string> = {
+  "Grafik: ElektroPflicht zeigt Batterie-Hinweis, Rücknahme-Symbol und Ladegerät-Piktogramm auf der Produktseite": "Graphic: ElektroPflicht shows the battery notice, take-back symbol and charger pictogram on the product page",
+  "Hinweise zu Batterien": "Battery notice",
+  "Kostenlose Rücknahme": "Free take-back",
   "Baue ein Kundenportal mit": "Build a customer portal with",
   "  Login, Aufträgen und Rechnungen": "  login, orders and invoices",
   "Datenmodell angelegt": "Data model created",

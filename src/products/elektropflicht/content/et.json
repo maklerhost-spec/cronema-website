@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht Shopify jaoks – nõutud teavitused patareide, elektriseadmete ja laadijate kohta",
+ "metaDescription": "Shopify rakendus ELis nõutud teavituste jaoks patareide, elektriseadmete ja laadijate kohta: tooteleht, tänuleht ja tellimuse e-kiri, 26 keelt, tehisintellekti otsingud. Varsti Shopify App Store'is.",
+ "docsMetaTitle": "ElektroPflicht – dokumentatsioon ja ametlikud allikad",
+ "docsMetaDescription": "Kuidas ElektroPflichti seadistada: kohustused, seadistamine, tooted, tehisintellekt, riigid ja registreerimisnumbrid, linkidega ELi õigusaktidele ja 30 riigi asutustele.",
+ "badge": "Varsti Shopify App Store'is",
+ "title": "Nõutud teavitused patareide ja elektriseadmete kohta, otse sinu poes",
+ "subtitle": "ElektroPflicht kuvab patarei teate, tagasivõtu sümboli ja laadija piktogrammi igal asjakohasel tootel, ka pärast ostu, 26 keeles.",
+ "ctaDocs": "Loe dokumentatsiooni",
+ "ctaContact": "Küsi varajast juurdepääsu",
+ "featuresTitle": "Mida rakendus teeb",
+ "whyTitle": "Miks see on tähtis",
+ "langsTitle": "26 keeles",
+ "langsText": "Rakendus, sinu poe tekstid ja see leht on olemas kõigis ELi ametlikes keeltes ning ka norra ja islandi keeles.",
+ "upcomingNote": "ElektroPflicht on viimases testifaasis ja on peagi saadaval Shopify App Store'is.",
+ "byCronema": "Cronema rakendus",
+ "docsLink": "Dokumentatsioon",
+ "backToApp": "Tagasi ElektroPflichti juurde",
+ "language": "Keel",
+ "imageAlt": "ElektroPflichti rakenduse ekraanipilt",
+ "facts": [
+  "26 keelt",
+  "30 riiki",
+  "Tasuta kuni 20 tooteni"
+ ],
+ "why": [
+  {
+   "title": "Seadusega nõutud",
+   "text": "Kui müüd ELis patareisid või elektriseadmeid, pead teavitama tagasivõtust ja käitlusest. Puuduvad teated võivad tuua hoiatuskirju ja trahve."
+  },
+  {
+   "title": "Igal riigil on omad reeglid",
+   "text": "Registreerimisnumbrid, keeled ja tagastamise viisid erinevad riigiti. Rakendus teab reegleid 30 riigi kohta."
+  },
+  {
+   "title": "Tehisintellekt teeb uurimistöö sinu eest",
+   "text": "Tehisintellekt otsib patarei liigi, kategooria ja laadija üksikasjad koos allikatega. Sina kontrollid ja kinnitad, rakendus täidab need väljad."
+  }
+ ],
+ "tagline": "Kohustuslik teave patareide, elektriseadmete ja laadijate kohta – 26 keeles",
+ "features": [
+  {
+   "title": "Kohustuslik teave otse poes",
+   "text": "Patareiteave, tagasivõtusümbol ja laadija piktogramm ilmuvad tootelehele automaatselt.",
+   "image": "/elektropflicht/et/01-shop.webp"
+  },
+  {
+   "title": "Kõik ühe pilguga",
+   "text": "Mitmel tootel on teave olemas – ja millised peaksid veel üle vaatama.",
+   "image": "/elektropflicht/et/02-dashboard.webp"
+  },
+  {
+   "title": "Tehisintellekt otsib sinu eest",
+   "text": "Patarei tüüp, keemia, kategooria ja laadija koos allikatega. Sina kontrollid ja kinnitad.",
+   "image": "/elektropflicht/et/03-editor.webp"
+  },
+  {
+   "title": "Seadistatud mõne minutiga",
+   "text": "Juhendatud seadistus märgib iga sammu ise tehtuks.",
+   "image": "/elektropflicht/et/04-setup.webp"
+  },
+  {
+   "title": "Ka pärast ostu",
+   "text": "Tagastusteave tänulehel, tellimuse olekus ja tellimuse e-kirjas.",
+   "image": "/elektropflicht/et/05-order.webp"
+  },
+  {
+   "title": "30 riiki, 26 keelt",
+   "text": "Olek valdkonniti – teatega, kui tarneriigi keel puudub.",
+   "image": "/elektropflicht/et/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Abi ja allikad",
+  "intro": "Siit saad teada, milliseid kohustusi rakendus katab, kuidas selle seadistad ja kust leiad ametlikud reeglid.",
+  "disclaimer": "See leht selgitab rakendust ja viitab ELi ning pädevate asutuste avalikele lehtedele. See ei ole õigusnõustamine. Me ei ole nende asutustega seotud. Määrav on õigusaktide tekst ja asutuste info.",
+  "contents": "Sisu",
+  "faqHeading": "Korduma kippuvad küsimused",
+  "sourcesHeading": "Ametlikud allikad",
+  "euHeading": "ELi õigus ja Euroopa Komisjon",
+  "euIntro": "Õigustekstid avanevad EUR-Lexis sinu keeles. Euroopa Komisjoni lehed on enamasti vaid inglise keeles.",
+  "inEnglish": "inglise keeles",
+  "countriesHeading": "Asutused ja registrid riikide kaupa",
+  "countriesIntro": "Pädevate asutuste ja registrite ametlikud lehed. Pealkirjad on vastava lehe keeles.",
+  "englishVersion": "Inglise versioon",
+  "noOfficial": "Me ei ole nende kohustuste kohta veel ametlikku lehte leidnud. Kahtluse korral küsi oma riigi pädevalt keskkonnaasutuselt.",
+  "liNote": "Liechtenstein kohaldab elektri- ja elektroonikaseadmete osas tolliliidu kaudu suures osas Šveitsi reegleid. Kontakt on Amt für Umweltschutz (keskkonnakaitse amet).",
+  "lvNote": "Lätis peab elektriseadmete ja patareide tootjate registrit ministeeriumi ülesandel ühing LETERA.",
+  "contactHeading": "Küsimusi?",
+  "contactText": "Kirjuta meile aadressil support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Milliseid kohustusi rakendus katab",
+    "body": [
+     "Patareid (ELi patareide määrus, Saksamaal ka BattDG): kui müüd patareisid või seadmeid patareidega, pead teavitama tasuta tagasivõtust, läbikriipsutatud ratastel prügikastist ja patarei ohtudest. Tootjad ja importijad peavad end ka registreerima.",
+     "Elektriseadmed (WEEE direktiiv, Saksamaal ElektroG): kliendid peavad teadma, kuidas vana seadet tagastada. Kui sul on tagasivõtmise kohustus, näitad tagasivõtu sümbolit.",
+     "Laadija piktogramm (direktiiv 2022/2380): telefonide, kõrvaklappide, sülearvutite ja muude kaabliga laetavate seadmete puhul peab hinna juures olema kirjas, kas laadija on kaasas ja millist laadimisvõimsust seade vajab.",
+     "Data Act (määrus 2023/2854): enne ühendatud seadme ostu peavad kliendid teadma, milliseid andmeid seade tekitab ja kuidas neile ligi pääseb. Selle info annab tootja."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Seadistamine samm-sammult",
+    "body": [
+     "Käi sammud järjest läbi. Mida rakendus ise kontrollida saab, märgitakse automaatselt tehtuks. Leiad selle menüüst Seadistamine.",
+     "Kõigepealt vastad mõnele küsimusele: mida müüd, kas oled jaemüüja või tootja ning kuhu riikidesse saadad. Vastuste põhjal lülitab rakendus sisse vajalikud alad.",
+     "Jaotises Tagasivõtmine ja riigid sisestad tagastus­aadressi, tagastusviisid ja vajadusel oma registrinumbrid.",
+     "Seejärel lisad oma teema tootelehele rakenduse ploki, lood Äraandmise leht’e ja lülitad teate sisse Aitäh-lehel ja Tellimuse oleku lehel."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Toodete määramine",
+    "body": [
+     "Jaotises Tooted määrad iga toote vastavatesse aladesse: Patareid, Elektriseadmed, Laadija piktogramm ja Data Act. Ainult määratud toodetel kuvatakse teated.",
+     "Saad tooteid muuta ükshaaval või mitu korraga, filtreerides kollektsiooni, tootetüübi või sildi järgi. Rakendus pakub välja tooteid, mille tekstides mainitakse akusid, patareisid, laadimiskaableid või ühenduvusfunktsioone.",
+     "Kui tooteid on palju, aitab CSV-import paketis Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Tehisaru soovitused ja hulgi­kontroll",
+    "body": [
+     "Toote­muuja sees uurib tehisintellekt nupuvajutusega veebist: patarei tüüp, keemia, elektriseadme kategooria ja laadija üksikasjad, igaühe juures allikad. Selleks saadetakse OpenAI-le pealkiri, tootja, kirjeldus, SKU ja triipkood; kliendiandmeid ei saadeta.",
+     "AI hulgi­kontrolliga (Pro ja Business) saadad kuni 10 valitud toodet korraga tehisarule. Soovitused ilmuvad toodete loendisse.",
+     "AI võib eksida, eriti kui tootja andmeid ei leia. Seepärast võtab rakendus soovituse üle alles siis, kui oled selle kontrollinud ja kinnitanud."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Riigid, registrinumbrid ja keeled",
+    "body": [
+     "Igal sihtriigil on oma reeglid. Mõnes riigis peavad registrinumbrid olema poes või arvetel, näiteks Prantsusmaal, Hispaanias, Itaalias või Poolas.",
+     "Välisriikide kliendid vajavad teateid oma keeles. Olek näitab, milline sinu sihtriigi keel poest puudub.",
+     "Riigivaatleja (Pro ja Business) võrdleb sinu Shopify saatmise seadetes olevaid sihtriike sinu seadistusega ja annab uutest riikidest teada.",
+     "Selle lehe allosas leiad iga riigi pädevad asutused ja registrid."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Pärast ostu: Aitäh-leht ja tellimuse e-kiri",
+    "body": [
+     "Tagasivõtu teade kuvatakse ka Aitäh-lehel ja Tellimuse oleku lehel. Selleks lisa sinna rakenduse plokk.",
+     "Tellijakinnituse ja saatelehe jaoks annab rakendus sulle koodi, mille kleebid mallidesse. Ühe klõpsuga kirjutab rakendus koodi ka malli kõigi keeleversioonide sisse."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Paketid ja lisafunktsioonid",
+    "body": [
+     "Free sisaldab kõiki alasid kuni 20 tootele. Basic, Pro ja Business ei piira toodete arvu ning erinevad lisafunktsioonide poolest.",
+     "AI soovitused on paketist Basic alates, AI hulgi­kontroll ja Riigivaatleja paketist Pro alates. Nädalane e-kiri lahtiste punktidega ja CSV-import kuuluvad paketti Business.",
+     "Kõiki tasulisi pakette saad 7 päeva tasuta proovida. Arveldamine toimub sinu Shopify arvel."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Sinu vastutus",
+    "body": [
+     "Rakendus pakub näidistekste, teateid ja soovitusi. See ei ole õigusnõustamine ega asenda seda.",
+     "Kas ja millised kohustused sinu puhul kehtivad, sõltub sinu ärist. Kontrolli üksikasju ja küsi kahtluse korral pädevalt asutuselt või õigusnõustajalt."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Olen vaid jaemüüja. Kas pean registreerima?",
+    "a": "Tavaliselt mitte. Registreerima peavad tootjad ja importijad. Kui aga tood kauba ise välismaalt sisse või müüd seda oma nime all, loetakse sind sageli tootjaks. Seadistamine küsib selle kohta ja näitab, mis sinu puhul kehtib."
+   },
+   {
+    "q": "Miks ma ei näe tootelehel teateid?",
+    "a": "Kontrolli kahte asja: toode peab olema mõnele alale määratud ja rakenduse plokk peab olema sinu teema tootelehel. Olek näitab mõlemat."
+   },
+   {
+    "q": "Mis juhtub mu andmetega AI-uuringu ajal?",
+    "a": "OpenAI-le lähevad ainult tooteandmed: pealkiri, tootja, kirjeldus, SKU ja triipkood. Kliendi- ega tellimusandmeid ei saadeta."
+   },
+   {
+    "q": "Kas saan tekste muuta?",
+    "a": "Jah. Jaotises Tekstid saad kohandada kõik kliendile nähtavad tekstid. Tühi väli taastab näidisteksti."
+   },
+   {
+    "q": "Mis kehtib Šveitsis ja Ühendkuningriigis?",
+    "a": "Seal kehtivad ELi õigusest eraldi reeglid. Kui saadad sinna, näitab rakendus vastava märkuse. Näidistekstid on kirjutatud ELi ja EMP jaoks."
+   },
+   {
+    "q": "Kuidas paketi tühistan?",
+    "a": "Jaotises Pakett saad igal ajal üle minna paketile Free. Shopify krediteerib kasutamata aja."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Määrus (EL) 2023/1542 patareide ja jäätmepatareide kohta",
+   "weeeDirective": "Direktiiv 2012/19/EL elektri- ja elektroonikaseadmetest tekkivate jäätmete kohta (WEEE)",
+   "chargerDirective": "Direktiiv (EL) 2022/2380 ühtse laadija kohta",
+   "dataAct": "Andmeseadus, määrus (EL) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Euroopa Komisjon: patareid",
+   "ecWeee": "Euroopa Komisjon: elektri- ja elektroonikaromud",
+   "ecCharger": "Euroopa Komisjon: ühtne laadija",
+   "ecDataAct": "Euroopa Komisjon: Andmeseadus"
+  },
+  "types": {
+   "battery": "Patareid",
+   "weee": "Elektriseadmed",
+   "both": "Patareid ja elektriseadmed",
+   "retail": "Jaemüüjatele"
+  },
+  "yourCountries": "Sinu tarneriigid",
+  "otherCountries": "Teised riigid",
+  "countryNames": {
+   "AT": "Austria",
+   "BE": "Belgia",
+   "BG": "Bulgaaria",
+   "CY": "Küpros",
+   "CZ": "Tšehhi",
+   "DE": "Saksamaa",
+   "DK": "Taani",
+   "EE": "Eesti",
+   "ES": "Hispaania",
+   "FI": "Soome",
+   "FR": "Prantsusmaa",
+   "GR": "Kreeka",
+   "HR": "Horvaatia",
+   "HU": "Ungari",
+   "IE": "Iirimaa",
+   "IT": "Itaalia",
+   "LT": "Leedu",
+   "LU": "Luksemburg",
+   "LV": "Läti",
+   "MT": "Malta",
+   "NL": "Holland",
+   "PL": "Poola",
+   "PT": "Portugal",
+   "RO": "Rumeenia",
+   "SE": "Rootsi",
+   "SI": "Sloveenia",
+   "SK": "Slovakkia",
+   "IS": "Island",
+   "LI": "Liechtenstein",
+   "NO": "Norra"
+  }
+ }
+}

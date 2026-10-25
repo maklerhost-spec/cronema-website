@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht a Shopifyhoz – kötelező tájékoztatók az elemekről, elektromos készülékekről és töltőkről",
+ "metaDescription": "Shopify‑app az EU kötelező tájékoztatóihoz az elemekről, elektromos készülékekről és töltőkről: termékoldal, köszönőoldal és rendelési e‑mail, 26 nyelven, MI‑kutatással. Hamarosan a Shopify App Store‑ban.",
+ "docsMetaTitle": "ElektroPflicht – dokumentáció és hivatalos források",
+ "docsMetaDescription": "Így állítod be az ElektroPflichtet: kötelezettségek, beállítás, termékek, MI, országok és regisztrációs számok, linkekkel az EU‑joghoz és a hatóságokhoz 30 országban.",
+ "badge": "Hamarosan a Shopify App Store‑ban",
+ "title": "Kötelező tájékoztatók elemekhez és elektromos készülékekhez, közvetlenül a webshopodban",
+ "subtitle": "Az ElektroPflicht megjeleníti az elem‑tájékoztatót, a visszavételi szimbólumot és a töltő piktogramját minden érintett terméknél, a vásárlás után is, 26 nyelven.",
+ "ctaDocs": "Olvasd el a dokumentációt",
+ "ctaContact": "Kérj korai hozzáférést",
+ "featuresTitle": "Mit tud az app",
+ "whyTitle": "Miért fontos",
+ "langsTitle": "26 nyelven",
+ "langsText": "Az app, a webshopod szövegei és ez az oldal elérhetők az EU minden hivatalos nyelvén, plusz norvégul és izlandiul.",
+ "upcomingNote": "Az ElektroPflicht az utolsó tesztfázisban van, és hamarosan elérhető lesz a Shopify App Store‑ban.",
+ "byCronema": "Egy app a Cronemától",
+ "docsLink": "Dokumentáció",
+ "backToApp": "Vissza az ElektroPflichthez",
+ "language": "Nyelv",
+ "imageAlt": "Az ElektroPflicht app képernyőképe",
+ "facts": [
+  "26 nyelv",
+  "30 ország",
+  "Ingyenes 20 termékig"
+ ],
+ "why": [
+  {
+   "title": "Jogszabály írja elő",
+   "text": "Ha az EU‑ban elemet vagy elektromos készüléket adsz el, tájékoztatnod kell a visszavételről és az ártalmatlanításról. A hiányzó tájékoztatás jogi felszólítást és bírságot hozhat."
+  },
+  {
+   "title": "Minden országnak saját szabályai vannak",
+   "text": "A regisztrációs számok, a nyelvek és a visszavétel módja országonként eltér. Az app ismeri 30 ország szabályait."
+  },
+  {
+   "title": "Az MI elvégzi helyetted a kutatást",
+   "text": "Az MI forrásokkal kideríti az elem típusát, a kategóriát és a töltő adatait. Te ellenőrzöd és jóváhagyod, az app kitölti."
+  }
+ ],
+ "tagline": "Kötelező adatok elemekhez, elektromos készülékekhez és töltőkhöz – 26 nyelven",
+ "features": [
+  {
+   "title": "Kötelező adatok közvetlenül a boltban",
+   "text": "Az elemekre vonatkozó tájékoztatás, a visszavételi szimbólum és a töltő piktogram automatikusan megjelenik a termékoldalon.",
+   "image": "/elektropflicht/hu/01-shop.webp"
+  },
+  {
+   "title": "Minden egy pillantással",
+   "text": "Hány termék rendelkezik az adatokkal – és melyeket kell még ellenőrizned.",
+   "image": "/elektropflicht/hu/02-dashboard.webp"
+  },
+  {
+   "title": "Az MI elvégzi a keresést",
+   "text": "Elemtípus, kémia, kategória és töltő forrásokkal. Te ellenőrzöd és jóváhagyod.",
+   "image": "/elektropflicht/hu/03-editor.webp"
+  },
+  {
+   "title": "Percek alatt beállítva",
+   "text": "Az irányított beállítás minden lépést magától kipipál.",
+   "image": "/elektropflicht/hu/04-setup.webp"
+  },
+  {
+   "title": "A vásárlás után is",
+   "text": "Visszavételi tájékoztatás a köszönőoldalon, a rendelés állapotánál és a rendelési e-mailben.",
+   "image": "/elektropflicht/hu/05-order.webp"
+  },
+  {
+   "title": "30 ország, 26 nyelv",
+   "text": "Állapot területenként – figyelmeztetéssel, ha egy szállítási ország nyelve hiányzik.",
+   "image": "/elektropflicht/hu/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Súgó és források",
+  "intro": "Itt megtudod, milyen kötelezettségeket fed le az app, hogyan állítsd be, és hol olvashatod el a hivatalos szabályokat.",
+  "disclaimer": "Ez az oldal az app működését magyarázza, és az EU, illetve az illetékes hatóságok nyilvános oldalaira mutat. Nem jogi tanácsadás. Nem állunk kapcsolatban ezekkel a szervekkel. A jogszabályok szövege és a hatóságok tájékoztatása az irányadó.",
+  "contents": "Tartalom",
+  "faqHeading": "Gyakori kérdések",
+  "sourcesHeading": "Hivatalos források",
+  "euHeading": "EU-jog és Európai Bizottság",
+  "euIntro": "A jogszabályok az EUR-Lexen a te nyelveden nyílnak meg. Az Európai Bizottság oldalai többnyire csak angolul érhetők el.",
+  "inEnglish": "angolul",
+  "countriesHeading": "Hatóságok és nyilvántartások országonként",
+  "countriesIntro": "Az illetékes hatóságok és nyilvántartások hivatalos oldalai. A címek az adott oldal nyelvén szerepelnek.",
+  "englishVersion": "Angol változat",
+  "noOfficial": "Még nem találtunk hivatalos oldalt ezekről a kötelezettségekről. Kétség esetén kérdezd meg az illetékes környezetvédelmi hatóságot.",
+  "liNote": "Liechtenstein az elektromos és elektronikus berendezésekre a vámunió révén nagyrészt a svájci szabályokat alkalmazza. Kapcsolat: Amt für Umweltschutz (Környezetvédelmi Hivatal).",
+  "lvNote": "Lettországban az elektromos berendezések és elemek gyártóinak nyilvántartását a LETERA egyesület vezeti a minisztérium megbízásából.",
+  "contactHeading": "Kérdésed van?",
+  "contactText": "Írj nekünk: support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Milyen kötelezettségeket fed le az app",
+    "body": [
+     "Elemek (EU Akkumulátor-rendelet, Németországban emellett a BattDG): ha elemeket vagy elemmel működő készülékeket árulsz, tájékoztatnod kell az ingyenes visszavételről, az áthúzott kuka jelről és az elem veszélyeiről. A gyártóknak és importőröknek regisztrációra is szükségük van.",
+     "Elektromos készülékek (WEEE-irányelv, Németországban az ElektroG): a vásárlóknak tudniuk kell, hogyan adhatják le a régi készülékeket. Ha visszavételi kötelezettséged van, mutatnod kell a visszavételi szimbólumot.",
+     "Töltő piktogram (2022/2380/EU irányelv): a telefonoknál, fejhallgatóknál, laptopoknál és más, kábellel tölthető készülékeknél az ár mellett fel kell tüntetni, hogy jár-e hozzá töltő, és mekkora töltési teljesítmény kell a készülékhez.",
+     "Data Act (2023/2854/EU rendelet): a hálózatba kapcsolt eszközök megvásárlása előtt a vásárlóknak tudniuk kell, milyen adatokat állít elő az eszköz, és hogyan férhetnek hozzájuk. Ezt az információt a gyártó adja meg."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Beállítás lépésről lépésre",
+    "body": [
+     "A beállítás végigvezet minden lépésen, és az app magától kipipálja, ami kész. A menüben a Beállítás alatt találod.",
+     "Először pár kérdésre válaszolsz: mit árulsz, kiskereskedő vagy-e vagy gyártó, és mely országokba szállítasz. A válaszokból az app bekapcsolja a szükséges területeket.",
+     "A Visszavétel és országok alatt megadod a visszavételi címet, a visszaküldési módokat és – ha kell – a regisztrációs számaidat.",
+     "Ezután hozzáadod az app blokkját a sablonod termékoldalához, létrehozod az Ártalmatlanítási oldalt, és bekapcsolod a figyelmeztetést a köszönő oldalon és a rendelési státusz-oldalon."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Termékek hozzárendelése",
+    "body": [
+     "A Termékek alatt minden terméket hozzárendelsz a megfelelő területeekhez: Elemes, Elektromos készülékek, Töltő piktogram és Data Act. Csak a hozzárendelt termékek mutatják a figyelmeztetéseket.",
+     "Szerkeszthetsz termékeket egyenként vagy sokat egyszerre, kollekció, terméktípus vagy címke szerint szűrve. Az app javasol olyan termékeket, amelyek szövegében szerepel az újratölthető elem, elem, töltőkábel vagy a csatlakoztatott funkciók.",
+     "Sok terméknél segít a CSV-import a Business csomagban."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "MI-javaslatok és MI gyűjtött ellenőrzés",
+    "body": [
+     "A termékszerkesztőben az MI egy gombnyomásra kutat a weben: elem típusa, kémiája, az elektromos készülék kategóriája és a töltő adatai, mindegyikhez forrásokkal. Ehhez a cím, a gyártó, a leírás, az SKU és a vonalkód kerül az OpenAI-hoz, ügyféladat nem.",
+     "Az MI gyűjtött ellenőrzéssel (Pro és Business) egyszerre legfeljebb 10 kijelölt terméket küldhetsz az MI-nek. A javaslatok a terméklistában jelennek meg.",
+     "Az MI tévedhet, főleg ha nem talál gyártói adatot. Ezért az app csak azután veszi át a javaslatot, hogy ellenőrizted és megerősítetted."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Országok, regisztrációs számok és nyelvek",
+    "body": [
+     "Minden célországra saját szabályok vonatkoznak. Egyes országokban a regisztrációs számokat a boltban vagy a számlán is fel kell tüntetni, például Franciaországban, Spanyolországban, Olaszországban vagy Lengyelországban.",
+     "A külföldi vásárlóknak a saját nyelvükön kellenek a figyelmeztetések. Az Állapot megmutatja, melyik szállítási ország nyelve hiányzik a boltodból.",
+     "Az országfigyelő (Pro és Business) összeveti a Shopify szállítási beállításaid célországait a beállításoddal, és jelzi az új országokat.",
+     "Az oldal alján országonként megtalálod az illetékes hatóságokat és nyilvántartásokat."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Vásárlás után: köszönő oldal és rendelési e-mail",
+    "body": [
+     "A visszavételi tájékoztató a köszönő oldalon és a rendelési státusz-oldalon is megjelenik. Ehhez ott is add hozzá az app blokkját.",
+     "A rendelés-visszaigazoláshoz és a csomagkísérőhöz az app beilleszthető kódot ad. Egy kattintással az összes nyelvi változatba is beírja a kódot."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Csomagok és extra funkciók",
+    "body": [
+     "A Free csomag minden területet tartalmaz legfeljebb 20 termékig. A Basic, Pro és Business nem korlátozza a termékek számát, és az extra funkcióikban különböznek.",
+     "MI-javaslatok Basic csomagtól felfelé, az MI gyűjtött ellenőrzés és az országfigyelő Pro csomagtól felfelé érhető el. A heti e-mail a nyitott tételekről és a CSV-import a Businesshez tartozik.",
+     "Minden fizetős csomagot 7 napig ingyen kipróbálhatsz. A számlázás a Shopify számládon keresztül történik."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Saját felelősséged",
+    "body": [
+     "Az app mintaszövegeket, figyelmeztetéseket és javaslatokat ad. Nem jogi tanácsadás, és nem helyettesíti azt.",
+     "Hogy rád mi vonatkozik, a vállalkozásodtól függ. Ellenőrizd a részleteket, és ha bizonytalan vagy, kérdezd meg az illetékes hatóságot vagy egy jogi tanácsadót."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Csak kiskereskedő vagyok. Kell regisztrálnom?",
+    "a": "Többnyire nem. A regisztráció a gyártókra és importőrökre vonatkozik. Ha viszont saját magad hozol be árut külföldről, vagy a saját neved alatt árulsz, gyakran gyártónak számítasz. A beállítás ezt megkérdezi, és megmutatja, mi vonatkozik rád."
+   },
+   {
+    "q": "Miért nem látom a figyelmeztetéseket a termékoldalamon?",
+    "a": "Két dolgot ellenőrizz: a terméket hozzá kell rendelni egy területhez, és az app blokkjának ott kell lennie a sablonod termékoldalán. Az Állapot mindkettőt mutatja."
+   },
+   {
+    "q": "Mi történik az adataimmal az MI-kutatás során?",
+    "a": "Csak termékadatok mennek az OpenAI-hoz: cím, gyártó, leírás, SKU és vonalkód. Vevő- vagy rendelési adat nem kerül továbbításra."
+   },
+   {
+    "q": "Módosíthatom a szövegeket?",
+    "a": "Igen. A Szövegek alatt minden, a vásárlóknak szánt szöveget testre szabhatsz. Az üres mezők visszaállnak a mintaszövegre."
+   },
+   {
+    "q": "Mi érvényes Svájcban és az Egyesült Királyságban?",
+    "a": "Saját, az uniós jogon kívüli szabályaik vannak. Az app figyelmeztet, ha oda szállítasz. A mintaszövegek az EU-ra és az EGT-re készültek."
+   },
+   {
+    "q": "Hogyan mondok le egy csomagot?",
+    "a": "A Csomag alatt bármikor átválthatsz Free-re. A Shopify jóváírja a fel nem használt időt."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Akkumulátor-rendelet (EU) 2023/1542",
+   "weeeDirective": "WEEE-irányelv 2012/19/EU az elektromos és elektronikus berendezések hulladékairól",
+   "chargerDirective": "(EU) 2022/2380 irányelv az egységes töltőről",
+   "dataAct": "Data Act, (EU) 2023/2854 rendelet"
+  },
+  "ec": {
+   "ecBatteries": "Európai Bizottság: akkumulátorok",
+   "ecWeee": "Európai Bizottság: elektromos és elektronikus hulladék",
+   "ecCharger": "Európai Bizottság: egységes töltő",
+   "ecDataAct": "Európai Bizottság: Data Act"
+  },
+  "types": {
+   "battery": "Elemek",
+   "weee": "Elektromos készülékek",
+   "both": "Elemek és elektromos készülékek",
+   "retail": "Kiskereskedőknek"
+  },
+  "yourCountries": "A szállítási országaid",
+  "otherCountries": "További országok",
+  "countryNames": {
+   "AT": "Ausztria",
+   "BE": "Belgium",
+   "BG": "Bulgária",
+   "CY": "Ciprus",
+   "CZ": "Csehország",
+   "DE": "Németország",
+   "DK": "Dánia",
+   "EE": "Észtország",
+   "ES": "Spanyolország",
+   "FI": "Finnország",
+   "FR": "Franciaország",
+   "GR": "Görögország",
+   "HR": "Horvátország",
+   "HU": "Magyarország",
+   "IE": "Írország",
+   "IT": "Olaszország",
+   "LT": "Litvánia",
+   "LU": "Luxemburg",
+   "LV": "Lettország",
+   "MT": "Málta",
+   "NL": "Hollandia",
+   "PL": "Lengyelország",
+   "PT": "Portugália",
+   "RO": "Románia",
+   "SE": "Svédország",
+   "SI": "Szlovénia",
+   "SK": "Szlovákia",
+   "IS": "Izland",
+   "LI": "Liechtenstein",
+   "NO": "Norvégia"
+  }
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht for Shopify – required notices for batteries, electrical devices and chargers",
+ "metaDescription": "Shopify app for the EU's required notices on batteries, electrical devices and chargers: product page, thank-you page and order email, 26 languages, AI research. Coming soon to the Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – documentation and official sources",
+ "docsMetaDescription": "How to set up ElektroPflicht: duties, setup, products, AI, countries and registration numbers, with links to EU law and the authorities in 30 countries.",
+ "badge": "Coming soon to the Shopify App Store",
+ "title": "Required notices for batteries and electrical devices, right in your store",
+ "subtitle": "ElektroPflicht shows the battery notice, the take-back symbol and the charger pictogram on every relevant product, after the purchase too, in 26 languages.",
+ "ctaDocs": "Read the documentation",
+ "ctaContact": "Ask for early access",
+ "facts": [
+  "26 languages",
+  "30 countries",
+  "Free up to 20 products"
+ ],
+ "featuresTitle": "What the app does",
+ "whyTitle": "Why it matters",
+ "why": [
+  {
+   "title": "Required by law",
+   "text": "If you sell batteries or electrical devices in the EU, you have to inform about take-back and disposal. Missing notices can lead to warning letters and fines."
+  },
+  {
+   "title": "Every country has its own rules",
+   "text": "Registration numbers, languages and ways to return differ from country to country. The app knows the rules for 30 countries."
+  },
+  {
+   "title": "AI does the research for you",
+   "text": "The AI researches battery type, category and charger details with sources. You check and confirm, the app fills them in."
+  }
+ ],
+ "langsTitle": "In 26 languages",
+ "langsText": "The app, the texts in your store and this page are available in every official EU language plus Norwegian and Icelandic.",
+ "upcomingNote": "ElektroPflicht is in its final testing phase and will be available in the Shopify App Store soon.",
+ "byCronema": "An app by Cronema",
+ "docsLink": "Documentation",
+ "backToApp": "Back to ElektroPflicht",
+ "language": "Language",
+ "imageAlt": "Screenshot of the ElektroPflicht app",
+ "tagline": "Required notices for batteries, electrical devices and chargers – in 26 languages",
+ "features": [
+  {
+   "title": "Required notices right in your store",
+   "text": "Battery notice, take-back symbol and charger pictogram appear on the product page automatically.",
+   "image": "/elektropflicht/en/01-shop.webp"
+  },
+  {
+   "title": "Everything at a glance",
+   "text": "How many products have their notices – and which ones you should still check.",
+   "image": "/elektropflicht/en/02-dashboard.webp"
+  },
+  {
+   "title": "AI does the research",
+   "text": "Battery type, chemistry, category and charger, with sources. You check and confirm.",
+   "image": "/elektropflicht/en/03-editor.webp"
+  },
+  {
+   "title": "Set up in minutes",
+   "text": "The guided setup ticks off every step by itself.",
+   "image": "/elektropflicht/en/04-setup.webp"
+  },
+  {
+   "title": "After the purchase too",
+   "text": "Return notice on the thank-you page, the order status page and in the order email.",
+   "image": "/elektropflicht/en/05-order.webp"
+  },
+  {
+   "title": "30 countries, 26 languages",
+   "text": "Status per area – with a hint when a delivery country's language is missing.",
+   "image": "/elektropflicht/en/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Help & sources",
+  "intro": "Here you find out which duties the app covers, how to set it up and where to read the official rules.",
+  "disclaimer": "This page explains the app and links to public pages of the EU and the competent authorities. It is not legal advice. We are not affiliated with these bodies. The legal texts and the authorities' information are what counts.",
+  "contents": "Contents",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Which duties the app covers",
+    "body": [
+     "Batteries (EU Battery Regulation, in Germany also the BattDG): if you sell batteries or devices with batteries, you have to inform about free take-back, the crossed-out wheeled bin and the hazards of the battery. Producers and importers also need to register.",
+     "Electrical devices (WEEE Directive, in Germany the ElektroG): customers must learn how to return old devices. If you have a take-back duty, you show the take-back symbol.",
+     "Charger pictogram (Directive 2022/2380): for phones, headphones, laptops and other devices charged by cable, the price must be accompanied by whether a charger is included and which charging power the device needs.",
+     "Data Act (Regulation 2023/2854): before buying connected devices, customers must learn which data the device generates and how they can access it. The manufacturer supplies this information."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Setup step by step",
+    "body": [
+     "The setup guides you through every step and ticks off finished items by itself. You find it in the menu under Setup.",
+     "First you answer a few questions: what you sell, whether you are a retailer or a producer and which countries you ship to. From the answers the app switches on the areas you need.",
+     "Under Returns & countries you enter the return address, the ways to return and, if needed, your registration numbers.",
+     "Then you add the app's block to the product page of your theme, create the disposal page and turn on the notice on the thank-you page and the order status page."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Assigning products",
+    "body": [
+     "Under Products you assign each product to the matching areas: batteries, electrical devices, charger pictogram and Data Act. Only assigned products show the notices.",
+     "You can edit products one by one or many at once, filtered by collection, product type or tag. The app suggests products whose texts mention rechargeable batteries, batteries, charging cables or connected features.",
+     "With many products, the CSV import in the Business plan helps."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "AI suggestions and AI bulk check",
+    "body": [
+     "In the product editor, the AI researches the web at the press of a button: battery type, chemistry, electrical device category and charger details, each with sources. For this the title, vendor, description, SKU and barcode go to OpenAI, no customer data.",
+     "With the AI bulk check (Pro and Business) you send up to 10 selected products to the AI at once. The suggestions show up in the product list.",
+     "The AI can be wrong, especially when it finds no manufacturer data. That's why the app only takes over a suggestion after you have checked and confirmed it."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Countries, registration numbers and languages",
+    "body": [
+     "Every delivery country has rules of its own. In some countries registration numbers must appear in the store or on invoices, for example in France, Spain, Italy or Poland.",
+     "Customers abroad need the notices in their language. Status shows you which language of your delivery countries is missing in your store.",
+     "The country watcher (Pro and Business) compares the delivery countries in your Shopify shipping settings with your setup and reports new countries.",
+     "At the bottom of this page you find the competent authorities and registers for each country."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "After the purchase: thank-you page and order email",
+    "body": [
+     "The return notice also appears on the thank-you page and the order status page. For that you add the app's block there.",
+     "For the order confirmation and the packing slip the app gives you code to paste. With one click it also writes the code into all language versions of the template."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Plans and extra features",
+    "body": [
+     "Free includes every area for up to 20 products. Basic, Pro and Business have no product limit and differ in their extra features.",
+     "AI suggestions come with Basic and up, the AI bulk check and the country watcher with Pro and up. The weekly email with open items and the CSV import belong to Business.",
+     "You can try every paid plan free for 7 days. Billing goes through your Shopify invoice."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Your responsibility",
+    "body": [
+     "The app provides sample texts, notices and suggestions. It is not legal advice and doesn't replace it.",
+     "Whether and which duties apply to you depends on your business. Check the details and, if in doubt, ask the competent authority or a legal adviser."
+    ]
+   }
+  ],
+  "faqHeading": "Frequently asked questions",
+  "faq": [
+   {
+    "q": "I'm only a retailer. Do I need to register?",
+    "a": "Usually not. Producers and importers have to register. However, if you import goods from abroad yourself or sell them under your own name, you often count as a producer. The setup asks about this and shows you what applies to you."
+   },
+   {
+    "q": "Why don't I see the notices on my product page?",
+    "a": "Check two things: the product must be assigned to an area, and the app's block must sit on the product page in your theme. Status shows both."
+   },
+   {
+    "q": "What happens to my data during the AI research?",
+    "a": "Only product data goes to OpenAI: title, vendor, description, SKU and barcode. No customer or order data is sent."
+   },
+   {
+    "q": "Can I change the texts?",
+    "a": "Yes. Under Texts you adjust every text your customers see. Empty fields go back to the sample text."
+   },
+   {
+    "q": "What applies in Switzerland and the United Kingdom?",
+    "a": "They have their own rules outside EU law. The app shows a note when you ship there. The sample texts are written for the EU and the EEA."
+   },
+   {
+    "q": "How do I cancel a plan?",
+    "a": "Under Plan you can switch to Free at any time. Shopify credits you the unused time."
+   }
+  ],
+  "sourcesHeading": "Official sources",
+  "euHeading": "EU law and European Commission",
+  "euIntro": "The legal texts open on EUR-Lex in your language. The European Commission's pages are mostly available in English only.",
+  "law": {
+   "batteryRegulation": "Battery Regulation (EU) 2023/1542",
+   "weeeDirective": "WEEE Directive 2012/19/EU on waste electrical and electronic equipment",
+   "chargerDirective": "Directive (EU) 2022/2380 on the common charger",
+   "dataAct": "Data Act, Regulation (EU) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "European Commission: batteries",
+   "ecWeee": "European Commission: waste electrical and electronic equipment",
+   "ecCharger": "European Commission: common charger",
+   "ecDataAct": "European Commission: Data Act"
+  },
+  "inEnglish": "in English",
+  "countriesHeading": "Authorities and registers per country",
+  "countriesIntro": "The official pages of the competent authorities and registers. Titles are in the language of each page.",
+  "types": {
+   "battery": "Batteries",
+   "weee": "Electrical devices",
+   "both": "Batteries and electrical devices",
+   "retail": "For retailers"
+  },
+  "englishVersion": "English version",
+  "noOfficial": "We haven't found an official page on these duties yet. If in doubt, ask the competent environmental authority.",
+  "liNote": "For electrical and electronic equipment, Liechtenstein largely applies the Swiss rules through the customs treaty. The contact is the Office for Environmental Protection (Amt für Umweltschutz).",
+  "lvNote": "In Latvia, the register for producers of electrical devices and batteries is kept by the association LETERA on behalf of the ministry.",
+  "contactHeading": "Any questions?",
+  "contactText": "Write to us at support@cronema.com.",
+  "yourCountries": "Your delivery countries",
+  "otherCountries": "Other countries",
+  "countryNames": {
+   "AT": "Austria",
+   "BE": "Belgium",
+   "BG": "Bulgaria",
+   "CY": "Cyprus",
+   "CZ": "Czechia",
+   "DE": "Germany",
+   "DK": "Denmark",
+   "EE": "Estonia",
+   "ES": "Spain",
+   "FI": "Finland",
+   "FR": "France",
+   "GR": "Greece",
+   "HR": "Croatia",
+   "HU": "Hungary",
+   "IE": "Ireland",
+   "IT": "Italy",
+   "LT": "Lithuania",
+   "LU": "Luxembourg",
+   "LV": "Latvia",
+   "MT": "Malta",
+   "NL": "Netherlands",
+   "PL": "Poland",
+   "PT": "Portugal",
+   "RO": "Romania",
+   "SE": "Sweden",
+   "SI": "Slovenia",
+   "SK": "Slovakia",
+   "IS": "Iceland",
+   "LI": "Liechtenstein",
+   "NO": "Norway"
+  }
+ }
+}

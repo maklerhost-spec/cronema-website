@@ -10,6 +10,8 @@ export const UI = {
   aboutTagline: "Individuelle Software für den Mittelstand",
   logoAlt: "Cronema Logo: Kreuz im Netz mit KI-Kern",
   logoAltShort: "Cronema Logo",
+  upcoming: "Demnächst",
+  toProductPage: "Zur Produktseite",
   backHome: "Zur Startseite",
   imprint: "Impressum",
   privacyShort: "Datenschutz",
@@ -55,6 +57,9 @@ export const UI = {
 
 /** Texts inside the SVG graphics, keyed by the German text. */
 export const ART: Record<string, string> = {
+  "Grafik: ElektroPflicht zeigt Batterie-Hinweis, Rücknahme-Symbol und Ladegerät-Piktogramm auf der Produktseite": "Grafik: ElektroPflicht zeigt Batterie-Hinweis, Rücknahme-Symbol und Ladegerät-Piktogramm auf der Produktseite",
+  "Hinweise zu Batterien": "Hinweise zu Batterien",
+  "Kostenlose Rücknahme": "Kostenlose Rücknahme",
   "Baue ein Kundenportal mit": "Baue ein Kundenportal mit",
   "  Login, Aufträgen und Rechnungen": "  Login, Aufträgen und Rechnungen",
   "Datenmodell angelegt": "Datenmodell angelegt",

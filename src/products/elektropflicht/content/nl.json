@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht voor Shopify – verplichte vermeldingen voor batterijen, elektrische apparaten en opladers",
+ "metaDescription": "Shopify-app voor de EU-verplichte vermeldingen bij batterijen, elektrische apparaten en opladers: productpagina, bedankpagina en bestel-e-mail, 26 talen, AI-onderzoek. Binnenkort in de Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – documentatie en officiële bronnen",
+ "docsMetaDescription": "Zo stel je ElektroPflicht in: plichten, installatie, producten, AI, landen en registratienummers, met links naar EU-recht en autoriteiten in 30 landen.",
+ "badge": "Binnenkort in de Shopify App Store",
+ "title": "Verplichte vermeldingen voor batterijen en elektrische apparaten, direct in je shop",
+ "subtitle": "ElektroPflicht toont de batterijvermelding, het terugname-symbool en het opladerpictogram bij elk relevant product, ook na de aankoop, in 26 talen.",
+ "ctaDocs": "Lees de documentatie",
+ "ctaContact": "Vraag vroege toegang aan",
+ "featuresTitle": "Wat de app doet",
+ "whyTitle": "Waarom het belangrijk is",
+ "langsTitle": "In 26 talen",
+ "langsText": "De app, de teksten in je shop en deze pagina zijn er in alle officiële EU-talen plus Noors en IJslands.",
+ "upcomingNote": "ElektroPflicht zit in de laatste testfase en is binnenkort beschikbaar in de Shopify App Store.",
+ "byCronema": "Een app van Cronema",
+ "docsLink": "Documentatie",
+ "backToApp": "Terug naar ElektroPflicht",
+ "language": "Taal",
+ "imageAlt": "Screenshot van de app ElektroPflicht",
+ "facts": [
+  "26 talen",
+  "30 landen",
+  "Gratis tot 20 producten"
+ ],
+ "why": [
+  {
+   "title": "Wettelijk verplicht",
+   "text": "Verkoop je batterijen of elektrische apparaten in de EU? Dan moet je informeren over terugname en verwerking. Ontbrekende vermeldingen kunnen leiden tot waarschuwingen en boetes."
+  },
+  {
+   "title": "Elk land heeft eigen regels",
+   "text": "Registratienummers, talen en manieren van retourneren verschillen per land. De app kent de regels voor 30 landen."
+  },
+  {
+   "title": "De AI doet het onderzoek voor je",
+   "text": "De AI zoekt batterijtype, categorie en opladerdetails op met bronnen. Jij controleert en bevestigt. De app vult het in."
+  }
+ ],
+ "tagline": "Verplichte vermeldingen voor batterijen, elektrische apparaten en laders – in 26 talen",
+ "features": [
+  {
+   "title": "Verplichte vermeldingen direct in je winkel",
+   "text": "Batterijvermelding, inzamelsymbool en opladerpictogram verschijnen automatisch op de productpagina.",
+   "image": "/elektropflicht/nl/01-shop.webp"
+  },
+  {
+   "title": "Alles in één oogopslag",
+   "text": "Hoeveel producten hun vermeldingen hebben – en welke je nog moet controleren.",
+   "image": "/elektropflicht/nl/02-dashboard.webp"
+  },
+  {
+   "title": "AI zoekt het voor je uit",
+   "text": "Batterijtype, chemie, categorie en oplader, met bronnen. Jij controleert en bevestigt.",
+   "image": "/elektropflicht/nl/03-editor.webp"
+  },
+  {
+   "title": "In een paar minuten ingesteld",
+   "text": "De begeleide installatie vinkt elke stap zelf af.",
+   "image": "/elektropflicht/nl/04-setup.webp"
+  },
+  {
+   "title": "Ook na de aankoop",
+   "text": "Inzamelmelding op de bedankpagina, in de bestelstatus en in de bestelmail.",
+   "image": "/elektropflicht/nl/05-order.webp"
+  },
+  {
+   "title": "30 landen, 26 talen",
+   "text": "Status per gebied – met een melding als de taal van een leveringsland ontbreekt.",
+   "image": "/elektropflicht/nl/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Help & bronnen",
+  "intro": "Hier lees je welke plichten de app dekt, hoe je alles instelt en waar je de officiële regels vindt.",
+  "disclaimer": "Deze pagina legt de app uit en linkt naar openbare pagina’s van de EU en de bevoegde autoriteiten. Het is geen juridisch advies. We zijn niet verbonden met deze instanties. De wetteksten en de informatie van de autoriteiten zijn leidend.",
+  "contents": "Inhoud",
+  "faqHeading": "Veelgestelde vragen",
+  "sourcesHeading": "Officiële bronnen",
+  "euHeading": "EU-recht en Europese Commissie",
+  "euIntro": "De wetteksten openen op EUR-Lex in jouw taal. De pagina’s van de Europese Commissie zijn vaak alleen in het Engels beschikbaar.",
+  "inEnglish": "in het Engels",
+  "countriesHeading": "Autoriteiten en registers per land",
+  "countriesIntro": "De officiële pagina’s van de bevoegde autoriteiten en registers. Titels staan in de taal van de betreffende pagina.",
+  "englishVersion": "Engelse versie",
+  "noOfficial": "We hebben nog geen officiële pagina over deze plichten gevonden. Vraag bij twijfel de bevoegde milieuautoriteit.",
+  "liNote": "Voor elektrische en elektronische apparatuur past Liechtenstein de Zwitserse regels grotendeels toe via het douaneverdrag. Het contact is het Amt für Umweltschutz (bureau voor milieubescherming).",
+  "lvNote": "In Letland wordt het register voor producenten van elektrische apparaten en batterijen beheerd door de vereniging LETERA namens het ministerie.",
+  "contactHeading": "Nog vragen?",
+  "contactText": "Schrijf ons op support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Welke plichten de app dekt",
+    "body": [
+     "Batterijen (EU-Batterijverordening, in Duitsland ook het BattDG): verkoop je batterijen of apparaten met batterijen, dan moet je informeren over gratis terugname, de doorgestreepte vuilnisbak en de gevaren van de batterij. Producenten en importeurs moeten zich ook registreren.",
+     "Elektrische apparaten (AEEA-richtlijn, in Duitsland het ElektroG): klanten moeten weten hoe ze oude apparaten kunnen inleveren. Heb je een terugnameplicht, dan toon je het symbool voor terugname.",
+     "Opladerpictogram (Richtlijn 2022/2380): bij telefoons, koptelefoons, laptops en andere apparaten die je met kabel oplaadt, moet bij de prijs staan of er een oplader bij zit en welk laadvermogen het apparaat nodig heeft.",
+     "Data Act (Verordening 2023/2854): vóór de koop van verbonden apparaten moeten klanten weten welke data het apparaat genereert en hoe ze die kunnen openen. De fabrikant levert deze informatie."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Instellen stap voor stap",
+    "body": [
+     "De instelling leidt je door alle stappen en vinkt afgeronde punten zelf af. Je vindt dit in het menu onder Instellen.",
+     "Eerst beantwoord je een paar vragen: wat je verkoopt, of je retailer of producent bent en naar welke landen je verzendt. Op basis daarvan zet de app de nodige gebieden aan.",
+     "Onder Terugname & landen vul je het retouradres, de manieren van terugsturen en, indien nodig, je registratienummers in.",
+     "Daarna voeg je het blok van de app toe aan de productpagina van je theme, maak je de Afvoerpagina aan en zet je de melding aan op de bedankpagina en de bestelstatuspagina."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Producten toewijzen",
+    "body": [
+     "Onder Producten wijs je elk product toe aan de juiste gebieden: Batterijen, Elektrische apparaten, Opladerpictogram en Data Act. Alleen toegewezen producten tonen de meldingen.",
+     "Je kunt producten één voor één aanpassen of veel tegelijk, gefilterd op collectie, producttype of tag. De app stelt producten voor waarvan de teksten oplaadbare batterijen, batterijen, oplaadkabels of verbonden functies noemen.",
+     "Bij veel producten helpt de CSV-import in het Business-abonnement."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "AI-voorstellen en AI-bulkcontrole",
+    "body": [
+     "In de producteditor zoekt de AI met één klik op het web: batterijtype, chemie, categorie van het elektrisch apparaat en opladerdetails, telkens met bronnen. Daarvoor gaan titel, leverancier, beschrijving, SKU en streepjescode naar OpenAI, geen klantgegevens.",
+     "Met de AI-bulkcontrole (Pro en Business) stuur je tot 10 geselecteerde producten tegelijk naar de AI. De voorstellen verschijnen in de productlijst.",
+     "De AI kan ernaast zitten, vooral als er geen gegevens van de fabrikant te vinden zijn. Daarom neemt de app een voorstel pas over nadat jij het hebt gecontroleerd en bevestigd."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Landen, registratienummers en talen",
+    "body": [
+     "Elk bezorgland heeft eigen regels. In sommige landen moeten registratienummers in je winkel of op facturen staan, bijvoorbeeld in Frankrijk, Spanje, Italië of Polen.",
+     "Klanten in het buitenland hebben de meldingen in hun eigen taal nodig. Status laat zien welke taal van je bezorglanden in je winkel ontbreekt.",
+     "De landenwachter (Pro en Business) vergelijkt de bezorglanden in je Shopify-verzendinstellingen met je setup en meldt nieuwe landen.",
+     "Onderaan deze pagina vind je per land de bevoegde autoriteiten en registers."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Na de aankoop: bedankpagina en bestelmail",
+    "body": [
+     "De terugnamemelding verschijnt ook op de bedankpagina en de bestelstatuspagina. Daarvoor voeg je het blok van de app daar toe.",
+     "Voor de orderbevestiging en de pakbon geeft de app je code om te plakken. Met één klik schrijft ze de code ook in alle taalversies van het sjabloon."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Abonnementen en extra functies",
+    "body": [
+     "Free bevat alle gebieden voor tot 20 producten. Basic, Pro en Business hebben geen productlimiet en verschillen in hun extra functies.",
+     "AI-voorstellen zijn er vanaf Basic. De AI-bulkcontrole en de landenwachter vanaf Pro. De wekelijkse e-mail met open punten en de CSV-import horen bij Business.",
+     "Elk betaald abonnement kun je 7 dagen gratis proberen. De facturatie loopt via je Shopify-factuur."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Jouw verantwoordelijkheid",
+    "body": [
+     "De app levert voorbeeldteksten, meldingen en voorstellen. Het is geen juridisch advies en vervangt dat niet.",
+     "Of en welke plichten voor jou gelden, hangt af van jouw bedrijf. Controleer de details en vraag bij twijfel de bevoegde autoriteit of een juridisch adviseur."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ik ben alleen retailer. Moet ik me registreren?",
+    "a": "Meestal niet. Producenten en importeurs moeten zich registreren. Als je zelf goederen uit het buitenland invoert of onder je eigen naam verkoopt, tel je vaak als producent. De instelling vraagt dit uit en laat je zien wat voor jou geldt."
+   },
+   {
+    "q": "Waarom zie ik de meldingen niet op mijn productpagina?",
+    "a": "Controleer twee dingen: het product moet aan een gebied zijn toegewezen, en het blok van de app moet in je theme op de productpagina staan. Status toont beide."
+   },
+   {
+    "q": "Wat gebeurt er met mijn gegevens bij het AI-onderzoek?",
+    "a": "Alleen productgegevens gaan naar OpenAI: titel, leverancier, beschrijving, SKU en streepjescode. Er worden geen klant- of bestelgegevens verzonden."
+   },
+   {
+    "q": "Kan ik de teksten aanpassen?",
+    "a": "Ja. Onder Teksten pas je elke tekst aan die je klanten zien. Lege velden vallen terug op de voorbeeldtekst."
+   },
+   {
+    "q": "Wat geldt in Zwitserland en het Verenigd Koninkrijk?",
+    "a": "Daar gelden eigen regels buiten het EU-recht. De app toont een melding als je daarheen verzendt. De voorbeeldteksten zijn geschreven voor de EU en de EER."
+   },
+   {
+    "q": "Hoe zeg ik een abonnement op?",
+    "a": "Onder Abonnement kun je altijd terugschakelen naar Free. Shopify verrekent de ongebruikte tijd."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Verordening (EU) 2023/1542 betreffende batterijen en afvalbatterijen",
+   "weeeDirective": "Richtlijn 2012/19/EU betreffende afgedankte elektrische en elektronische apparatuur (AEEA)",
+   "chargerDirective": "Richtlijn (EU) 2022/2380 over de gemeenschappelijke oplader",
+   "dataAct": "Data Act, Verordening (EU) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Europese Commissie: batterijen",
+   "ecWeee": "Europese Commissie: afgedankte elektrische en elektronische apparatuur",
+   "ecCharger": "Europese Commissie: gemeenschappelijke oplader",
+   "ecDataAct": "Europese Commissie: Data Act"
+  },
+  "types": {
+   "battery": "Batterijen",
+   "weee": "Elektrische apparaten",
+   "both": "Batterijen en elektrische apparaten",
+   "retail": "Voor retailers"
+  },
+  "yourCountries": "Je leverlanden",
+  "otherCountries": "Andere landen",
+  "countryNames": {
+   "AT": "Oostenrijk",
+   "BE": "België",
+   "BG": "Bulgarije",
+   "CY": "Cyprus",
+   "CZ": "Tsjechië",
+   "DE": "Duitsland",
+   "DK": "Denemarken",
+   "EE": "Estland",
+   "ES": "Spanje",
+   "FI": "Finland",
+   "FR": "Frankrijk",
+   "GR": "Griekenland",
+   "HR": "Kroatië",
+   "HU": "Hongarije",
+   "IE": "Ierland",
+   "IT": "Italië",
+   "LT": "Litouwen",
+   "LU": "Luxemburg",
+   "LV": "Letland",
+   "MT": "Malta",
+   "NL": "Nederland",
+   "PL": "Polen",
+   "PT": "Portugal",
+   "RO": "Roemenië",
+   "SE": "Zweden",
+   "SI": "Slovenië",
+   "SK": "Slowakije",
+   "IS": "IJsland",
+   "LI": "Liechtenstein",
+   "NO": "Noorwegen"
+  }
+ }
+}

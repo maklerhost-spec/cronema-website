@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht for Shopify – fógraí riachtanacha do chadhnraí, gléasanna leictreacha agus luchtairí",
+ "metaDescription": "Aip Shopify do fhógraí riachtanacha an AE faoi chadhnraí, gléasanna leictreacha agus luchtairí: leathanach táirge, leathanach buíochais agus ríomhphost ordaithe, 26 teanga, taighde IS. Ag teacht go luath sa Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – doiciméadú agus foinsí oifigiúla",
+ "docsMetaDescription": "Conas ElektroPflicht a chur ar bun: dualgais, socrú, táirgí, IS, tíortha agus uimhreacha clárúcháin, le naisc chuig dlí an AE agus na húdaráis i 30 tír.",
+ "badge": "Ag teacht go luath chuig an Shopify App Store",
+ "title": "Fógraí riachtanacha do chadhnraí agus do ghléasanna leictreacha, díreach i do shiopa",
+ "subtitle": "Taispeánann ElektroPflicht an fógra cadhnraí, an siombail ghlactha ar ais agus picteagram an luchtaire ar gach táirge cuí, tar éis an cheannach freisin, i 26 teanga.",
+ "ctaDocs": "Léigh an doiciméadú",
+ "ctaContact": "Iarr rochtain luath",
+ "featuresTitle": "Cad a dhéanann an aip",
+ "whyTitle": "Cén fáth a bhfuil sé tábhachtach",
+ "langsTitle": "I 26 teanga",
+ "langsText": "Tá an aip, na téacsanna i do shiopa agus an leathanach seo ar fáil i ngach teanga oifigiúil den AE móide Ioruais agus Íoslainnis.",
+ "upcomingNote": "Tá ElektroPflicht sa chéim tástála deiridh agus beidh sé ar fáil go luath sa Shopify App Store.",
+ "byCronema": "Aip ó Cronema",
+ "docsLink": "Doiciméadú",
+ "backToApp": "Ar ais go ElektroPflicht",
+ "language": "Teanga",
+ "imageAlt": "Gabháil scáileáin den aip ElektroPflicht",
+ "facts": [
+  "26 teanga",
+  "30 tír",
+  "Saor in aisce suas le 20 táirge"
+ ],
+ "why": [
+  {
+   "title": "Éigeantach de réir dlí",
+   "text": "Má dhíolann tú cadhnraí nó gléasanna leictreacha san AE, caithfidh tú eolas a thabhairt faoi ghlacadh ar ais agus diúscairt. D’fhéadfadh litir rabhaidh agus fíneálacha a bheith mar thoradh ar fhaisnéis a bheith ar iarraidh."
+  },
+  {
+   "title": "Rialacha éagsúla i ngach tír",
+   "text": "Athraíonn uimhreacha clárúcháin, teangacha agus bealaí tuairisceáin ó thír go tír. Tá a fhios ag an aip na rialacha do 30 tír."
+  },
+  {
+   "title": "Déanann an IS an taighde duit",
+   "text": "Déanann an IS taighde ar chineál na cadhnraí, an chatagóir agus sonraí an luchtaire le foinsí. Seiceálann tú agus dearbhaíonn tú, líonann an aip iad."
+  }
+ ],
+ "tagline": "Fógraí éigeantacha do chadhnraí, do ghléasanna leictreacha agus do luchtairí – i 26 teanga",
+ "features": [
+  {
+   "title": "Fógraí éigeantacha go díreach sa siopa",
+   "text": "Taispeántar fógra na gcadhnraí, siombail an ghlactha ar ais agus picteagram an luchtaire ar leathanach an táirge go huathoibríoch.",
+   "image": "/elektropflicht/ga/01-shop.webp"
+  },
+  {
+   "title": "Gach rud in aon amharc amháin",
+   "text": "Cé mhéad táirge a bhfuil na fógraí acu – agus cé acu ba cheart duit a sheiceáil fós.",
+   "image": "/elektropflicht/ga/02-dashboard.webp"
+  },
+  {
+   "title": "Déanann IS an taighde",
+   "text": "Cineál cadhnra, ceimic, catagóir agus luchtaire, le foinsí. Seiceálann tusa agus deimhníonn tú.",
+   "image": "/elektropflicht/ga/03-editor.webp"
+  },
+  {
+   "title": "Socraithe i gceann cúpla nóiméad",
+   "text": "Marcálann an socrú treoraithe gach céim leis féin.",
+   "image": "/elektropflicht/ga/04-setup.webp"
+  },
+  {
+   "title": "Tar éis an cheannaigh freisin",
+   "text": "Fógra aischuir ar an leathanach buíochais, i stádas an ordaithe agus sa ríomhphost.",
+   "image": "/elektropflicht/ga/05-order.webp"
+  },
+  {
+   "title": "30 tír, 26 teanga",
+   "text": "Stádas de réir réimse – le rabhadh má tá teanga tíre seachadta ar iarraidh.",
+   "image": "/elektropflicht/ga/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Cabhair & foinsí",
+  "intro": "Anseo feicfidh tú cé na dualgais a chlúdaíonn an aip, conas í a shocrú agus cá bhfaighidh tú na rialacha oifigiúla.",
+  "disclaimer": "Míníonn an leathanach seo an aip agus nascann sé le leathanaigh phoiblí de chuid an AE agus de na húdaráis inniúla. Ní comhairle dlí é. Níl aon bhaint againn leis na comhlachtaí sin. Is iad na téacsanna dlí agus eolas na n-údarás is tábhachtaí.",
+  "contents": "Clár ábhair",
+  "faqHeading": "Ceisteanna coitianta",
+  "sourcesHeading": "Foinsí oifigiúla",
+  "euHeading": "Dlí an AE agus an Coimisiún Eorpach",
+  "euIntro": "Osclaíonn na téacsanna dlí ar EUR-Lex i do theanga. Is minic nach bhfuil leathanaigh an Choimisiúin Eorpaigh ar fáil ach i mBéarla.",
+  "inEnglish": "i mBéarla",
+  "countriesHeading": "Údaráis agus cláir de réir tíre",
+  "countriesIntro": "Leathanaigh oifigiúla na n-údarás inniúil agus na gclár. Tá na teidil i dteanga gach leathanaigh.",
+  "englishVersion": "Leagan Béarla",
+  "noOfficial": "Ní bhfuair muid leathanach oifigiúil faoi na dualgais seo fós. Más amhras ort, iarr ar an údarás comhshaoil inniúil.",
+  "liNote": "Maidir le trealamh leictreach agus leictreonach, cuireann Lichtinstéin rialacha na hEilvéise i bhfeidhm den chuid is mó trí chonradh custam. Is é an teagmháil an Amt für Umweltschutz (Oifig um Chosaint Comhshaoil).",
+  "lvNote": "I Laitvia, coinníonn an cumann LETERA an clár do tháirgeoirí trealaimh leictreacha agus cadhnraí thar ceann na hAireachta.",
+  "contactHeading": "Aon cheist agat?",
+  "contactText": "Scríobh chugainn ag support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Na dualgais a chlúdaíonn an aip",
+    "body": [
+     "Cadhnraí (Rialachán (AE) 2023/1542 maidir le cadhnraí; sa Ghearmáin freisin an BattDG): má dhíolann tú cadhnraí nó gléasanna le cadhnraí, caithfidh tú eolas a thabhairt faoi ghlacadh saor in aisce ar ais, an bhosca bruscair le rothaí trasnaithe agus na contúirtí a bhaineann leis an gcadhnra. Teastaíonn clárú ó tháirgeoirí agus ó allmhaireoirí freisin.",
+     "Gléasanna leictreacha (Treoir WEEE 2012/19/AE; sa Ghearmáin an ElektroG): caithfidh custaiméirí a fháil amach conas sean-ghléasanna a thabhairt ar ais. Má tá dualgas glactha ar ais ort, taispeáin an siombail ghlactha ar ais.",
+     "Picteagram luchtaire (Treoir (AE) 2022/2380): i gcás fóin, cluasán, ríomhairí glúine agus gléasanna eile a ghearrtar le cábla, ní mór a léiriú in aice leis an bpraghas an bhfuil luchtaire san áireamh agus cén chumhacht luchtaithe a theastaíonn ón ngléas.",
+     "Data Act (Rialachán (AE) 2023/2854): sula gceannaítear gléasanna nasctha, caithfidh custaiméirí a fháil amach cén cineál sonraí a ghineann an gléas agus conas is féidir leo rochtain a fháil orthu. Soláthraíonn an monaróir an t-eolas sin."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Socrú céim ar chéim",
+    "body": [
+     "Treoraíonn an socrú tú trí gach céim agus cuireann sé tic go huathoibríoch le rudaí críochnaithe. Gheobhaidh tú é sa roghchlár faoi Socrú.",
+     "Ar dtús freagraíonn tú cúpla ceist: cad a dhíolann tú, an miondíoltóir nó monaróir thú, agus cén tíortha chuig a seolann tú. Ó do chuid freagraí, casann an aip ar na réimsí a theastaíonn uait.",
+     "Faoi Glacadh ar ais & tíortha, cuir isteach an seoladh glactha ar ais, na bealaí chun rudaí a thabhairt ar ais agus, más gá, do chuid uimhreacha clárúcháin.",
+     "Ansin cuireann tú bloc na haipe le leathanach táirge do théama, cruthaíonn tú an Leathanach diúscartha agus casann tú ar an bhfógra ar an leathanach buíochais agus ar an leathanach stádais ordaithe."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Táirgí a shannadh",
+    "body": [
+     "Faoi Táirgí sannann tú gach táirge do na réimsí cuí: cadhnraí, gléasanna leictreacha, Picteagram luchtaire agus Data Act. Ní thaispeánann ach táirgí sannaithe na fógraí.",
+     "Is féidir leat táirgí a chur in eagar ceann ar cheann nó go leor le chéile, scagtha de réir bailiúcháin, cineáil táirge nó clibe. Molann an aip táirgí a luann i dtéacsanna acu cadhnraí in-athluchtaithe, cadhnraí, cáblaí luchtaithe nó gnéithe nasctha.",
+     "Má tá a lán táirgí agat, cuidíonn an t-iompórtáil CSV sa phlean Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Moltaí IS agus seiceáil bhaisc IS",
+    "body": [
+     "Sa eagarthóir táirge, déanann an IS taighde ar an nGréasán le brú cnaipe: cineál cadhnra, ceimic, catagóirí gléas leictreach agus sonraí luchtaire, gach ceann acu le foinsí. Chuige sin seoltar an teideal, an díoltóir, an cur síos, an SKU agus an barrachód chuig OpenAI, gan sonraí custaiméara ar bith.",
+     "Le seiceáil bhaisc an IS (Pro agus Business) seolann tú suas le 10 dtáirge roghnaithe chuig an IS ag an am céanna. Taispeántar na moltaí sa liosta táirgí.",
+     "D’fhéadfadh an IS dul amú, go háirithe nuair nach bhfaigheann sé sonraí ón monaróir. Sin é an fáth nach nglacann an aip le moladh ach amháin tar éis duit é a sheiceáil agus a dhearbhú."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Tíortha, uimhreacha clárúcháin agus teangacha",
+    "body": [
+     "Tá rialacha féin ag gach tír seachadta. I roinnt tíortha ní mór uimhreacha clárúcháin a léiriú sa siopa nó ar fháltais, mar shampla sa Fhrainc, sa Spáinn, san Iodáil nó sa Pholainn.",
+     "Teastaíonn na fógraí i dteanga na gcustaiméirí thar lear. Taispeánann Stádas cé na teangacha de do thíortha seachadta atá ar iarraidh i do shiopa.",
+     "Déanann an faireachán tíortha (Pro agus Business) comparáid idir na tíortha seachadta i do shocruithe seolta Shopify agus do shocrú agus tuairiscíonn sé tíortha nua.",
+     "Ag bun an leathanaigh seo gheobhaidh tú na húdaráis inniúla agus na cláir do gach tír."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Tar éis an cheannaigh: leathanach buíochais agus ríomhphost ordaithe",
+    "body": [
+     "Taispeántar an fógra glactha ar ais freisin ar an leathanach buíochais agus ar an leathanach stádais ordaithe. Chuige sin cuireann tú bloc na haipe ann.",
+     "Maidir leis an deimhniú ordaithe agus an bileog phacáistithe tugann an aip cód duit le greamú. Le cliceáil amháin scríobhann sí an cód i ngach leagan teanga den teimpléad freisin."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Pleananna agus gnéithe breise",
+    "body": [
+     "Clúdaíonn Free gach réimse do suas le 20 táirge. Níl teorainn táirgí ag Basic, Pro agus Business agus tá siad éagsúil sna gnéithe breise.",
+     "Tagann moltaí IS le Basic agus suas, agus tagann seiceáil bhaisc an IS agus an faireachán tíortha le Pro agus suas. Baineann an ríomhphost seachtainiúil le rudaí oscailte agus an t-iompórtáil CSV le Business.",
+     "Is féidir leat gach plean íoctha a thriail saor in aisce ar feadh 7 lá. Téann an billeáil trí do fhálta Shopify."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Do fhreagracht féin",
+    "body": [
+     "Soláthraíonn an aip téacsanna samplacha, fógraí agus moltaí. Ní comhairle dlí í agus ní dhéanann sí comhairle dlí a chur ina háit.",
+     "Braitheann sé ar do ghnó an mbaineann dualgais leat agus cé na dualgais sin. Seiceáil na sonraí agus, más amhras ort, iarr ar an údarás inniúil nó ar chomhairleoir dlí."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is miondíoltóir amháin mé. An gá dom clárú?",
+    "a": "De ghnáth ní gá. Caithfidh táirgeoirí agus allmhaireoirí clárú. Mar sin féin, má allmhairíonn tú earraí ó thar lear tú féin nó má dhíolann tú faoi d’ainm féin, is minic a mheastar gur táirgeoir thú. Iarrann an Socrú faoi seo agus taispeánann sé duit cad a bhaineann leat."
+   },
+   {
+    "q": "Cén fáth nach bhfeicim na fógraí ar mo leathanach táirge?",
+    "a": "Seiceáil dhá rud: caithfear an táirge a shannadh do réimse, agus caithfidh bloc na haipe a bheith ar leathanach an táirge i do théama. Taispeánann Stádas an bheirt."
+   },
+   {
+    "q": "Cad a tharlaíonn do mo shonraí le linn taighde an IS?",
+    "a": "Ní sheoltar ach sonraí táirge chuig OpenAI: teideal, díoltóir, cur síos, SKU agus barrachód. Ní sheoltar sonraí custaiméara ná ordaithe."
+   },
+   {
+    "q": "An féidir liom na téacsanna a athrú?",
+    "a": "Is féidir. Faoi Téacsanna is féidir leat gach téacs a fheiceann do chustaiméirí a choigeartú. Fillfidh réimsí folmha ar an téacs samplach."
+   },
+   {
+    "q": "Cad is infheidhme sa Eilvéis agus sa Ríocht Aontaithe?",
+    "a": "Tá rialacha dá gcuid féin acu lasmuigh de dhlí an AE. Taispeánann an aip nóta nuair a sheolann tú ann. Tá na téacsanna samplacha scríofa don AE agus don LEE."
+   },
+   {
+    "q": "Conas a chealaím plean?",
+    "a": "Faoi Plean is féidir leat aistriú go Free am ar bith. Creideann Shopify an t-am neamhspléach duit."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Rialachán (AE) 2023/1542 maidir le cadhnraí",
+   "weeeDirective": "Treoir WEEE 2012/19/AE maidir le trealamh leictreach agus leictreonach dramhaíola",
+   "chargerDirective": "Treoir (AE) 2022/2380 maidir leis an luchtaire coiteann",
+   "dataAct": "An tAcht Sonraí, Rialachán (AE) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "An Coimisiún Eorpach: cadhnraí",
+   "ecWeee": "An Coimisiún Eorpach: trealamh leictreach agus leictreonach dramhaíola",
+   "ecCharger": "An Coimisiún Eorpach: luchtaire coiteann",
+   "ecDataAct": "An Coimisiún Eorpach: An tAcht Sonraí"
+  },
+  "types": {
+   "battery": "Cadhnraí",
+   "weee": "Gléasanna leictreacha",
+   "both": "Cadhnraí agus gléasanna leictreacha",
+   "retail": "Do mhiondíoltóirí"
+  },
+  "yourCountries": "Do thíortha seachadta",
+  "otherCountries": "Tíortha eile",
+  "countryNames": {
+   "AT": "an Ostair",
+   "BE": "an Bheilg",
+   "BG": "an Bhulgáir",
+   "CY": "an Chipir",
+   "CZ": "an tSeicia",
+   "DE": "an Ghearmáin",
+   "DK": "an Danmhairg",
+   "EE": "an Eastóin",
+   "ES": "an Spáinn",
+   "FI": "an Fhionlainn",
+   "FR": "an Fhrainc",
+   "GR": "an Ghréig",
+   "HR": "an Chróit",
+   "HU": "an Ungáir",
+   "IE": "Éire",
+   "IT": "an Iodáil",
+   "LT": "an Liotuáin",
+   "LU": "Lucsamburg",
+   "LV": "an Laitvia",
+   "MT": "Málta",
+   "NL": "an Ísiltír",
+   "PL": "an Pholainn",
+   "PT": "an Phortaingéil",
+   "RO": "an Rómáin",
+   "SE": "an tSualainn",
+   "SI": "an tSlóivéin",
+   "SK": "an tSlóvaic",
+   "IS": "an Íoslainn",
+   "LI": "Lichtinstéin",
+   "NO": "an Iorua"
+  }
+ }
+}

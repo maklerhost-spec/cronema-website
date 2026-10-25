@@ -319,6 +319,29 @@ export const REFERENCES: DE.Reference[] = [
       "Extensions",
       "Hosting"
     ]
+  },
+  {
+    "id": "elektropflicht",
+    "name": "ElektroPflicht",
+    "platform": "Shopify app",
+    "upcoming": true,
+    "title": "Required notices for batteries, electrical devices and chargers",
+    "text": "Battery notice, take-back symbol and charger pictogram added to the store automatically, after the purchase and in the order email too. For 30 countries, in 26 languages, with AI research.",
+    "facts": [
+      "EU Battery Regulation, WEEE, charger",
+      "30 countries, 26 languages",
+      "AI research with sources"
+    ],
+    "story": [
+      "Anyone selling batteries or electrical devices in the EU has to inform about take-back and disposal, and for many devices about the charger as well. Every country has its own registration numbers, languages and ways to return.",
+      "ElektroPflicht brings these notices into every Shopify store: on the product page, the thank-you page, the order status page and in the order email. A guided setup knows the rules for 30 countries, an AI researches battery type, category and charger with sources, and the merchant checks and confirms.",
+      "The app is available in 26 languages, with documentation and links to the competent authorities. It is in its final testing phase and will be available in the Shopify App Store soon."
+    ],
+    "services": [
+      "Extensions",
+      "AI agents",
+      "Hosting"
+    ]
   }
 ];
 

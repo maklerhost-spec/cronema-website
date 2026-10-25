@@ -18,6 +18,8 @@ export const UI: typeof DE.UI = {
   "aboutTagline": "Software a medida para medianas empresas",
   "logoAlt": "Logo de Cronema: cruz en red con núcleo de IA",
   "logoAltShort": "Logo de Cronema",
+  "upcoming": "Próximamente",
+  "toProductPage": "Ver página del producto",
   "backHome": "Volver al inicio",
   "imprint": "Aviso legal",
   "privacyShort": "Privacidad",
@@ -73,6 +75,9 @@ export const UI: typeof DE.UI = {
 };
 
 export const ART: Record<string, string> = {
+  "Grafik: ElektroPflicht zeigt Batterie-Hinweis, Rücknahme-Symbol und Ladegerät-Piktogramm auf der Produktseite": "Gráfico: ElektroPflicht muestra el aviso sobre pilas, el símbolo de recogida y el pictograma del cargador en la página de producto",
+  "Hinweise zu Batterien": "Aviso sobre pilas",
+  "Kostenlose Rücknahme": "Recogida gratuita",
   "Baue ein Kundenportal mit": "Cree un portal de clientes con",
   "  Login, Aufträgen und Rechnungen": "  login, pedidos y facturas",
   "Datenmodell angelegt": "Modelo de datos creado",

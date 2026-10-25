@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht dla Shopify – wymagane informacje dla baterii, urządzeń elektrycznych i ładowarek",
+ "metaDescription": "Aplikacja Shopify do wymaganych w UE informacji o bateriach, urządzeniach elektrycznych i ładowarkach: strona produktu, strona podziękowania i e‑mail zamówienia, 26 języków, badania AI. Wkrótce w Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – dokumentacja i oficjalne źródła",
+ "docsMetaDescription": "Jak skonfigurować ElektroPflicht: obowiązki, konfiguracja, produkty, AI, kraje i numery rejestracyjne, z linkami do prawa UE i urzędów w 30 krajach.",
+ "badge": "Wkrótce w Shopify App Store",
+ "title": "Wymagane informacje o bateriach i urządzeniach elektrycznych, prosto w twoim sklepie",
+ "subtitle": "ElektroPflicht pokazuje informację o bateriach, symbol zwrotu i piktogram ładowarki przy każdym odpowiednim produkcie, także po zakupie, w 26 językach.",
+ "ctaDocs": "Przeczytaj dokumentację",
+ "ctaContact": "Poproś o wczesny dostęp",
+ "featuresTitle": "Co robi aplikacja",
+ "whyTitle": "Dlaczego to ważne",
+ "langsTitle": "W 26 językach",
+ "langsText": "Aplikacja, teksty w twoim sklepie i ta strona są dostępne we wszystkich językach urzędowych UE oraz po norwesku i islandzku.",
+ "upcomingNote": "ElektroPflicht jest w końcowej fazie testów i wkrótce pojawi się w Shopify App Store.",
+ "byCronema": "Aplikacja od Cronema",
+ "docsLink": "Dokumentacja",
+ "backToApp": "Wróć do ElektroPflicht",
+ "language": "Język",
+ "imageAlt": "Zrzut ekranu aplikacji ElektroPflicht",
+ "facts": [
+  "26 języków",
+  "30 krajów",
+  "Za darmo do 20 produktów"
+ ],
+ "why": [
+  {
+   "title": "Wymagane przez prawo",
+   "text": "Jeśli sprzedajesz baterie lub urządzenia elektryczne w UE, musisz informować o zwrocie i utylizacji. Brak informacji może prowadzić do wezwań i grzywien."
+  },
+  {
+   "title": "Każdy kraj ma własne zasady",
+   "text": "Numery rejestracyjne, języki i sposoby zwrotu różnią się w zależności od kraju. Aplikacja zna zasady dla 30 krajów."
+  },
+  {
+   "title": "AI zrobi badania za ciebie",
+   "text": "AI wyszukuje typ baterii, kategorię i szczegóły ładowarki wraz ze źródłami. Ty sprawdzasz i potwierdzasz, a aplikacja wszystko uzupełnia."
+  }
+ ],
+ "tagline": "Wymagane informacje o bateriach, sprzęcie elektrycznym i ładowarkach – w 26 językach",
+ "features": [
+  {
+   "title": "Wymagane informacje prosto w sklepie",
+   "text": "Informacja o bateriach, symbol odbioru i piktogram ładowarki pojawiają się automatycznie na stronie produktu.",
+   "image": "/elektropflicht/pl/01-shop.webp"
+  },
+  {
+   "title": "Wszystko na jednym ekranie",
+   "text": "Ile produktów ma informacje – i które warto jeszcze sprawdzić.",
+   "image": "/elektropflicht/pl/02-dashboard.webp"
+  },
+  {
+   "title": "AI szuka za Ciebie",
+   "text": "Typ baterii, skład chemiczny, kategoria i ładowarka ze źródłami. Ty sprawdzasz i potwierdzasz.",
+   "image": "/elektropflicht/pl/03-editor.webp"
+  },
+  {
+   "title": "Gotowe w kilka minut",
+   "text": "Konfiguracja z przewodnikiem sama odhacza każdy krok.",
+   "image": "/elektropflicht/pl/04-setup.webp"
+  },
+  {
+   "title": "Także po zakupie",
+   "text": "Informacja o zwrocie na stronie z podziękowaniem, w statusie zamówienia i w e-mailu.",
+   "image": "/elektropflicht/pl/05-order.webp"
+  },
+  {
+   "title": "30 krajów, 26 języków",
+   "text": "Status według obszaru – z ostrzeżeniem, gdy brakuje języka kraju dostawy.",
+   "image": "/elektropflicht/pl/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Pomoc i źródła",
+  "intro": "Tutaj dowiesz się, jakie obowiązki pokrywa aplikacja, jak ją ustawić i gdzie przeczytać oficjalne zasady.",
+  "disclaimer": "Ta strona wyjaśnia działanie aplikacji i linkuje do publicznych stron UE oraz właściwych organów. To nie jest porada prawna. Nie jesteśmy powiązani z tymi instytucjami. Decydujące są teksty prawne i informacje organów.",
+  "contents": "Spis treści",
+  "faqHeading": "Częste pytania",
+  "sourcesHeading": "Oficjalne źródła",
+  "euHeading": "Prawo UE i Komisja Europejska",
+  "euIntro": "Teksty prawne otworzą się na EUR-Lex w twoim języku. Strony Komisji Europejskiej są najczęściej tylko po angielsku.",
+  "inEnglish": "po angielsku",
+  "countriesHeading": "Organy i rejestry w krajach",
+  "countriesIntro": "Oficjalne strony właściwych organów i rejestrów. Tytuły podajemy w języku danej strony.",
+  "englishVersion": "Wersja angielska",
+  "noOfficial": "Nie znaleźliśmy jeszcze oficjalnej strony dotyczącej tych obowiązków. W razie wątpliwości zapytaj właściwy organ ochrony środowiska.",
+  "liNote": "W Liechtensteinie w sprawie sprzętu elektrycznego i elektronicznego w dużej mierze stosuje się, na mocy unii celnej, przepisy Szwajcarii. Punktem kontaktowym jest Amt für Umweltschutz (Urząd Ochrony Środowiska).",
+  "lvNote": "Na Łotwie rejestr producentów sprzętu elektrycznego i baterii prowadzi związek LETERA w imieniu ministerstwa.",
+  "contactHeading": "Masz pytania?",
+  "contactText": "Napisz do nas na support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Jakie obowiązki pokrywa aplikacja",
+    "body": [
+     "Baterie (Rozporządzenie w sprawie baterii (UE) 2023/1542, w Niemczech także BattDG): jeśli sprzedajesz baterie lub urządzenia z bateriami, musisz poinformować o bezpłatnym przyjęciu zwrotu, o przekreślonym koszu na kółkach i o zagrożeniach związanych z baterią. Producenci i importerzy muszą się też zarejestrować.",
+     "Sprzęt elektryczny (Dyrektywa 2012/19/UE w sprawie zużytego sprzętu elektrycznego i elektronicznego – WEEE, w Niemczech ElektroG): klienci muszą wiedzieć, jak oddać zużyte urządzenia. Jeśli masz obowiązek przyjmowania zwrotów, pokazujesz symbol zwrotu.",
+     "Piktogram ładowarki (Dyrektywa (UE) 2022/2380): przy telefonach, słuchawkach, laptopach i innych urządzeniach ładowanych kablem obok ceny musi być informacja, czy ładowarka jest w zestawie i jakiej mocy ładowania potrzebuje urządzenie.",
+     "Data Act (rozporządzenie (UE) 2023/2854): przed zakupem urządzeń podłączonych do sieci klienci muszą wiedzieć, jakie dane generuje urządzenie i jak mogą do nich uzyskać dostęp. Te informacje dostarcza producent."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Konfiguracja krok po kroku",
+    "body": [
+     "Konfiguracja prowadzi cię przez wszystkie kroki i sama odhacza wykonane punkty. Znajdziesz ją w menu pod Konfiguracja.",
+     "Najpierw odpowiadasz na kilka pytań: co sprzedajesz, czy jesteś sprzedawcą detalicznym czy producentem i do jakich krajów wysyłasz. Z odpowiedzi aplikacja włącza potrzebne obszary.",
+     "W sekcji Zwroty i kraje wpisujesz adres zwrotów, sposoby zwrotu i – jeśli trzeba – swoje numery rejestracyjne.",
+     "Następnie dodajesz blok aplikacji do strony produktu w twoim szablonie, tworzysz Strona o utylizacji i włączasz informację na stronie z podziękowaniem i na stronie statusu zamówienia."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Przypisywanie produktów",
+    "body": [
+     "W sekcji Produkty przypisujesz każdy produkt do właściwych obszarów: Baterie, Sprzęt elektryczny, Piktogram ładowarki i Data Act. Tylko przypisane produkty pokazują informacje.",
+     "Możesz edytować produkty pojedynczo albo wiele naraz, filtrowane po kolekcji, typie produktu lub tagu. Aplikacja podpowiada produkty, w których opisach pojawiają się akumulatory, baterie, kable do ładowania lub funkcje połączone.",
+     "Przy dużej liczbie produktów pomaga import CSV w planie Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Podpowiedzi AI i zbiorcza kontrola AI",
+    "body": [
+     "W edytorze produktu AI wyszukuje w sieci po kliknięciu: typ baterii, chemię, kategorię sprzętu elektrycznego i szczegóły ładowarki – wraz ze źródłami. W tym celu do OpenAI trafiają tytuł, producent, opis, SKU i kod kreskowy, bez danych klientów.",
+     "Dzięki zbiorczej kontroli AI (Pro i Business) wyślesz jednocześnie do 10 zaznaczonych produktów do AI. Podpowiedzi pojawią się na liście produktów.",
+     "AI może się mylić, zwłaszcza gdy nie znajdzie danych producenta. Dlatego aplikacja przejmie podpowiedź dopiero po twojej weryfikacji i potwierdzeniu."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Kraje, numery rejestracyjne i języki",
+    "body": [
+     "Każdy kraj dostawy ma własne zasady. W niektórych krajach numery rejestracyjne muszą być pokazane w sklepie lub na fakturach, np. we Francji, Hiszpanii, Włoszech lub w Polsce.",
+     "Klienci za granicą potrzebują informacji w swoim języku. Status pokazuje, którego języka twoich krajów dostawy brakuje w sklepie.",
+     "Monitor krajów (Pro i Business) porównuje kraje dostawy z ustawień wysyłki Shopify z twoją konfiguracją i zgłasza nowe kraje.",
+     "Na dole tej strony znajdziesz dla każdego kraju właściwe organy i rejestry."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Po zakupie: strona z podziękowaniem i e-mail zamówienia",
+    "body": [
+     "Informacja o zwrocie pojawia się także na stronie z podziękowaniem i na stronie statusu zamówienia. W tym celu dodaj tam blok aplikacji.",
+     "Do potwierdzenia zamówienia i listu przewozowego aplikacja daje ci kod do wklejenia. Jednym kliknięciem wpisze go też do wszystkich wersji językowych szablonu."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Plany i funkcje dodatkowe",
+    "body": [
+     "Free obejmuje wszystkie obszary dla maks. 20 produktów. Basic, Pro i Business nie mają limitu produktów i różnią się funkcjami dodatkowymi.",
+     "Podpowiedzi AI są od planu Basic wzwyż, zbiorcza kontrola AI i monitor krajów – od Pro wzwyż. Cotygodniowy e-mail z otwartymi sprawami i import CSV należą do Business.",
+     "Każdy płatny plan możesz testować przez 7 dni za darmo. Rozliczenie idzie przez twoją fakturę Shopify."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Twoja odpowiedzialność",
+    "body": [
+     "Aplikacja daje przykładowe teksty, informacje i podpowiedzi. To nie jest porada prawna i jej nie zastępuje.",
+     "To, czy i jakie obowiązki cię dotyczą, zależy od twojej działalności. Sprawdź szczegóły, a w razie wątpliwości zapytaj właściwy organ albo doradcę prawnego."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Jestem tylko sprzedawcą detalicznym. Czy muszę się rejestrować?",
+    "a": "Zwykle nie. Rejestrować muszą się producenci i importerzy. Jeśli jednak sam sprowadzasz towar z zagranicy albo sprzedajesz go pod własną marką, często liczysz się jako producent. Konfiguracja o to zapyta i pokaże ci, co cię dotyczy."
+   },
+   {
+    "q": "Dlaczego nie widzę informacji na mojej stronie produktu?",
+    "a": "Sprawdź dwie rzeczy: produkt musi być przypisany do obszaru, a blok aplikacji musi być umieszczony na stronie produktu w twoim szablonie. Status pokazuje oba punkty."
+   },
+   {
+    "q": "Co dzieje się z moimi danymi podczas wyszukiwania AI?",
+    "a": "Do OpenAI trafiają tylko dane produktu: tytuł, producent, opis, SKU i kod kreskowy. Nie wysyłamy danych klientów ani zamówień."
+   },
+   {
+    "q": "Czy mogę zmienić teksty?",
+    "a": "Tak. W sekcji Teksty dopasujesz każdy tekst widoczny dla klientów. Puste pola wrócą do tekstu przykładowego."
+   },
+   {
+    "q": "Co obowiązuje w Szwajcarii i w Zjednoczonym Królestwie?",
+    "a": "Obowiązują tam własne przepisy poza prawem UE. Aplikacja pokaże notatkę, jeśli tam wysyłasz. Teksty przykładowe są napisane dla UE i EOG."
+   },
+   {
+    "q": "Jak anulować plan?",
+    "a": "W sekcji Plan możesz w każdej chwili przełączyć się na Free. Shopify zwróci niewykorzystany czas."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Rozporządzenie w sprawie baterii (UE) 2023/1542",
+   "weeeDirective": "Dyrektywa 2012/19/UE w sprawie zużytego sprzętu elektrycznego i elektronicznego (WEEE)",
+   "chargerDirective": "Dyrektywa (UE) 2022/2380 w sprawie wspólnej ładowarki",
+   "dataAct": "Data Act, rozporządzenie (UE) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Komisja Europejska: baterie",
+   "ecWeee": "Komisja Europejska: zużyty sprzęt elektryczny i elektroniczny",
+   "ecCharger": "Komisja Europejska: wspólna ładowarka",
+   "ecDataAct": "Komisja Europejska: Data Act"
+  },
+  "types": {
+   "battery": "Baterie",
+   "weee": "Sprzęt elektryczny",
+   "both": "Baterie i sprzęt elektryczny",
+   "retail": "Dla sprzedawców"
+  },
+  "yourCountries": "Twoje kraje dostawy",
+  "otherCountries": "Pozostałe kraje",
+  "countryNames": {
+   "AT": "Austria",
+   "BE": "Belgia",
+   "BG": "Bułgaria",
+   "CY": "Cypr",
+   "CZ": "Czechy",
+   "DE": "Niemcy",
+   "DK": "Dania",
+   "EE": "Estonia",
+   "ES": "Hiszpania",
+   "FI": "Finlandia",
+   "FR": "Francja",
+   "GR": "Grecja",
+   "HR": "Chorwacja",
+   "HU": "Węgry",
+   "IE": "Irlandia",
+   "IT": "Włochy",
+   "LT": "Litwa",
+   "LU": "Luksemburg",
+   "LV": "Łotwa",
+   "MT": "Malta",
+   "NL": "Holandia",
+   "PL": "Polska",
+   "PT": "Portugalia",
+   "RO": "Rumunia",
+   "SE": "Szwecja",
+   "SI": "Słowenia",
+   "SK": "Słowacja",
+   "IS": "Islandia",
+   "LI": "Liechtenstein",
+   "NO": "Norwegia"
+  }
+ }
+}

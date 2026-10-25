@@ -1,4 +1,4 @@
-import { ArrowUpRight, Check, ExternalLink, Layers, Lock, MapPin, Puzzle } from "lucide-react";
+import { ArrowRight, ArrowUpRight, Check, ExternalLink, Layers, Lock, MapPin, Puzzle } from "lucide-react";
 import { HOME, REFERENCES } from "../content/pages";
 import { SERVICE_IDS } from "../content/ids";
 import { SERVICES } from "../content/services";
@@ -157,7 +157,7 @@ function Services() {
 
 export function ReferenceCards() {
   return (
-    <div className="grid gap-px overflow-hidden border border-slate-200 bg-slate-200 lg:grid-cols-3">
+    <div className="grid gap-px overflow-hidden border border-slate-200 bg-slate-200 md:grid-cols-2">
       {REFERENCES.map((r) => {
         const ArtC = REFERENCE_ART[r.id];
         return (
@@ -166,7 +166,10 @@ export function ReferenceCards() {
               <ArtC />
             </div>
             <div className="flex flex-1 flex-col p-8">
-              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-accent-600">{r.platform}</p>
+              <p className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] text-accent-600">
+                {r.platform}
+                {r.upcoming && <span className="rounded-full bg-accent-50 px-2 py-0.5 tracking-[0.12em] text-accent-700 ring-1 ring-accent-200">{UI.upcoming}</span>}
+              </p>
               <h3 className="mt-2 font-display text-3xl font-bold tracking-tight text-ink">{r.name}</h3>
               <p className="mt-1 font-semibold text-slate-700">{r.title}</p>
               <p className="mt-3 text-sm leading-relaxed text-slate-600">{r.text}</p>
@@ -182,6 +185,12 @@ export function ReferenceCards() {
                 <a href={r.url} rel="noopener" className="mt-auto inline-flex items-center gap-1.5 pt-6 text-sm font-semibold text-ink hover:text-accent-600">
                   {r.url.replace("https://", "")}
                   <ExternalLink className="h-3.5 w-3.5" aria-hidden="true" />
+                </a>
+              )}
+              {r.upcoming && (
+                <a href={pathFor("product")} className="mt-auto inline-flex items-center gap-1.5 pt-6 text-sm font-semibold text-ink hover:text-accent-600">
+                  {UI.toProductPage}
+                  <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
                 </a>
               )}
             </div>

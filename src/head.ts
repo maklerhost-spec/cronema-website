@@ -10,14 +10,16 @@ import { absoluteUrl, pathFor, type Page } from "./site";
 /** Date of the last content change, for search engines (dateModified, sitemap lastmod). */
 export const LAST_MODIFIED = "2026-10-22";
 
+type MetaPage = Exclude<Page, "service" | "product" | "productDocs">;
+
 export function pageTitle(page: Page, id?: ServiceId): string {
   if (page === "service") return SERVICES[id!].metaTitle;
-  return META[page].title;
+  return META[page as MetaPage].title;
 }
 
 export function pageDescription(page: Page, id?: ServiceId): string {
   if (page === "service") return SERVICES[id!].metaDescription;
-  return META[page].description;
+  return META[page as MetaPage].description;
 }
 
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");

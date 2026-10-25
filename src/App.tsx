@@ -10,16 +10,22 @@ import type { ServiceId } from "./content/ids";
 import { HomePage } from "./sections/Home";
 import { AboutPage, ApproachPage, ContactPage, LegalPage, ReferencesPage, ServicePage, ServicesPage } from "./sections/Pages";
 import { pathFor, type Page } from "./site";
+import { ProductDocs, ProductLanding } from "./sections/Product";
+import { productPath, type ProductLang } from "./products/elektropflicht/langs";
 
-export function App({ page, id, lang }: { page: Page; id?: ServiceId; lang: SiteLang }) {
+export function App({ page, id, lang, plang }: { page: Page; id?: ServiceId; lang: SiteLang; plang?: ProductLang }) {
   // Texts read the current language while rendering (src/lang.ts).
   setLang(lang);
-  const alternates = Object.fromEntries(SITE_LANGS.map((l) => [l, pathFor(page, id, l)]));
+  const product = page === "product" || page === "productDocs";
+  const alternates = Object.fromEntries(
+    SITE_LANGS.map((l) => [l, product ? productPath(l, page === "productDocs") : pathFor(page, id, l)]),
+  );
   // The prerendered HTML already has the title; this keeps `npm run dev` right too.
   useEffect(() => {
     if (!import.meta.env.DEV) return;
+    if (product) return;
     void import("./head").then((h) => (document.title = h.pageTitle(page, id)));
-  }, [page, id]);
+  }, [page, id, product]);
 
   return (
     <SiteContext.Provider value={{ page, id, lang, alternates }}>
@@ -36,6 +42,8 @@ export function App({ page, id, lang }: { page: Page; id?: ServiceId; lang: Site
         {page === "about" && <AboutPage />}
         {page === "contact" && <ContactPage />}
         {(page === "imprint" || page === "privacy") && <LegalPage page={page} />}
+        {page === "product" && plang && <ProductLanding plang={plang} />}
+        {page === "productDocs" && plang && <ProductDocs plang={plang} />}
       </main>
       <Footer />
       <ConsentBanner />

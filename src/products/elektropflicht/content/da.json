@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht til Shopify – påkrævede oplysninger om batterier, elektrisk udstyr og opladere",
+ "metaDescription": "Shopify-app til EU's påkrævede oplysninger om batterier, elektrisk udstyr og opladere: produktside, takkeside og ordremail, 26 sprog, AI-research. Kommer snart i Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – dokumentation og officielle kilder",
+ "docsMetaDescription": "Sådan sætter du ElektroPflicht op: pligter, opsætning, produkter, AI, lande og registreringsnumre – med links til EU-retten og myndigheder i 30 lande.",
+ "badge": "Kommer snart i Shopify App Store",
+ "title": "Påkrævede oplysninger om batterier og elektrisk udstyr – direkte i din shop",
+ "subtitle": "ElektroPflicht viser batterimeddelelsen, tilbagetagelsessymbolet og opladerpiktogrammet på hvert relevant produkt – også efter købet – på 26 sprog.",
+ "ctaDocs": "Læs dokumentationen",
+ "ctaContact": "Bed om tidlig adgang",
+ "featuresTitle": "Hvad appen gør",
+ "whyTitle": "Hvorfor det er vigtigt",
+ "langsTitle": "På 26 sprog",
+ "langsText": "Appen, teksterne i din shop og denne side findes på alle EU's officielle sprog plus norsk og islandsk.",
+ "upcomingNote": "ElektroPflicht er i den sidste testfase og bliver snart tilgængelig i Shopify App Store.",
+ "byCronema": "En app fra Cronema",
+ "docsLink": "Dokumentation",
+ "backToApp": "Tilbage til ElektroPflicht",
+ "language": "Sprog",
+ "imageAlt": "Skærmbillede af appen ElektroPflicht",
+ "facts": [
+  "26 sprog",
+  "30 lande",
+  "Gratis op til 20 produkter"
+ ],
+ "why": [
+  {
+   "title": "Lovpligtigt",
+   "text": "Sælger du batterier eller elektrisk udstyr i EU, skal du informere om tilbagetagning og bortskaffelse. Manglende oplysninger kan give påbud og bøder."
+  },
+  {
+   "title": "Hvert land har egne regler",
+   "text": "Registreringsnumre, sprog og måder at returnere på varierer fra land til land. Appen kender reglerne for 30 lande."
+  },
+  {
+   "title": "AI laver researchen for dig",
+   "text": "AI'en finder batteritype, kategori og opladerdetaljer med kilder. Du tjekker og bekræfter, appen udfylder."
+  }
+ ],
+ "tagline": "Lovpligtige oplysninger for batterier, elektrisk udstyr og opladere – på 26 sprog",
+ "features": [
+  {
+   "title": "Lovpligtige oplysninger direkte i butikken",
+   "text": "Batterioplysning, tilbagetagningssymbol og opladerpiktogram vises automatisk på produktsiden.",
+   "image": "/elektropflicht/da/01-shop.webp"
+  },
+  {
+   "title": "Alt på ét blik",
+   "text": "Hvor mange produkter har oplysninger – og hvilke du bør kontrollere.",
+   "image": "/elektropflicht/da/02-dashboard.webp"
+  },
+  {
+   "title": "AI researcher for dig",
+   "text": "Batteritype, kemi, kategori og oplader med kilder. Du kontrollerer og bekræfter.",
+   "image": "/elektropflicht/da/03-editor.webp"
+  },
+  {
+   "title": "Sat op på få minutter",
+   "text": "Den guidede opsætning markerer selv hvert trin.",
+   "image": "/elektropflicht/da/04-setup.webp"
+  },
+  {
+   "title": "Også efter købet",
+   "text": "Tilbagetagningsoplysning på takkesiden, i ordrestatus og i ordremailen.",
+   "image": "/elektropflicht/da/05-order.webp"
+  },
+  {
+   "title": "30 lande, 26 sprog",
+   "text": "Status pr. område – med besked, hvis et leveringslands sprog mangler.",
+   "image": "/elektropflicht/da/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Hjælp & kilder",
+  "intro": "Her kan du se, hvilke pligter appen dækker, hvordan du sætter den op, og hvor du kan læse de officielle regler.",
+  "disclaimer": "Denne side forklarer appen og linker til offentlige sider fra EU og de kompetente myndigheder. Det er ikke juridisk rådgivning. Vi er ikke forbundet med disse organer. Gældende er lovteksterne og myndighedernes oplysninger.",
+  "contents": "Indhold",
+  "faqHeading": "Ofte stillede spørgsmål",
+  "sourcesHeading": "Officielle kilder",
+  "euHeading": "EU-ret og Europa-Kommissionen",
+  "euIntro": "Lovteksterne åbner på EUR-Lex på dit sprog. Europa-Kommissionens sider findes oftest kun på engelsk.",
+  "inEnglish": "på engelsk",
+  "countriesHeading": "Myndigheder og registre pr. land",
+  "countriesIntro": "De officielle sider for de kompetente myndigheder og registre. Titlerne står på sidens eget sprog.",
+  "englishVersion": "Engelsk version",
+  "noOfficial": "Vi har endnu ikke fundet en officiel side om disse pligter. I tvivlstilfælde kan du spørge den kompetente miljømyndighed.",
+  "liNote": "For elektrisk og elektronisk udstyr gælder Liechtenstein i vidt omfang de schweiziske regler via toldtraktaten. Kontakt er Amt für Umweltschutz.",
+  "lvNote": "I Letland føres registret for producenter af elektrisk udstyr og batterier af foreningen LETERA på ministeriets vegne.",
+  "contactHeading": "Har du spørgsmål?",
+  "contactText": "Skriv til os på support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Hvilke pligter appen dækker",
+    "body": [
+     "Batterier (EU's batteriforordning, i Tyskland også BattDG): Sælger du batterier eller udstyr med batterier, skal du oplyse om gratis tilbagetagning, den overstregede skraldespand og batteriets farer. Producenter og importører skal også registreres.",
+     "Elektrisk udstyr (WEEE-direktivet, i Tyskland ElektroG): Kunder skal kunne se, hvordan de afleverer udtjent udstyr. Har du pligt til tilbagetagning, viser du symbolet for tilbagetagning.",
+     "Opladerpiktogram (direktiv 2022/2380): For telefoner, hovedtelefoner, laptops og andet udstyr, der oplades med kabel, skal prisen ledsages af, om en oplader følger med, og hvilken ladeeffekt enheden kræver.",
+     "Data Act (forordning 2023/2854): Før køb af forbundne enheder skal kunder vide, hvilke data enheden genererer, og hvordan de kan få adgang. Oplysningerne kommer fra producenten."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Opsætning trin for trin",
+    "body": [
+     "Opsætningen guider dig gennem alle trin og markerer selv det, der er færdigt. Du finder den i menuen under Opsætning.",
+     "Først svarer du på et par spørgsmål: hvad du sælger, om du er forhandler eller producent, og hvilke lande du sender til. Ud fra svarene tænder appen de områder, du har brug for.",
+     "Under Tilbagetagning & lande skriver du returadresse, måder at returnere på og, hvis nødvendigt, dine registreringsnumre.",
+     "Derefter tilføjer du appens blok på produktsiden i dit tema, opretter Bortskaffelsesside og slår beskeden til på tak-siden og ordrestatussiden."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Tilknyt produkter",
+    "body": [
+     "Under Produkter knytter du hvert produkt til de rigtige områder: Batterier, Elektrisk udstyr, Opladerpiktogram og Data Act. Kun tilknyttede produkter viser beskederne.",
+     "Du kan redigere enkeltprodukter eller mange på én gang, filtreret efter kollektion, produkttype eller tag. Appen foreslår produkter, hvis tekster nævner genopladelige batterier, batterier, ladekabler eller forbundne funktioner.",
+     "Har du mange produkter, hjælper CSV-importen i Business-abonnementet."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "AI-forslag og AI-samletjek",
+    "body": [
+     "I produkteditoren researcher AI'en nettet med et klik: batteritype, kemi, kategori for elektrisk udstyr og opladerdata – hver med kilder. Til det sendes titel, leverandør, beskrivelse, SKU og stregkode til OpenAI, ingen kundedata.",
+     "Med AI-samletjekket (Pro og Business) sender du op til 10 valgte produkter til AI'en på én gang. Forslagene vises i produktlisten.",
+     "AI'en kan tage fejl, især når der ikke findes producentdata. Derfor overtager appen først et forslag, når du har tjekket og bekræftet det."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Lande, registreringsnumre og sprog",
+    "body": [
+     "Hvert leveringsland har egne regler. I nogle lande skal registreringsnumre stå i shoppen eller på fakturaer, f.eks. i Frankrig, Spanien, Italien eller Polen.",
+     "Kunder i udlandet skal se beskederne på deres sprog. Status viser, hvilket sprog i dine leveringslande der mangler i din shop.",
+     "Landeovervågningen (Pro og Business) sammenligner leveringslandene i dine Shopify-forsendelsesindstillinger med din opsætning og melder nye lande.",
+     "Nederst på denne side finder du for hvert land de kompetente myndigheder og registre."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Efter købet: tak-side og ordre-e-mail",
+    "body": [
+     "Tilbagetagning vises også på tak-siden og ordrestatussiden. Til det tilføjer du appens blok dér.",
+     "Til ordrebekræftelsen og følgesedlen giver appen dig en kode, du kan indsætte. Med ét klik skriver den også koden ind i alle sprogversioner af skabelonen."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Abonnementer og ekstra funktioner",
+    "body": [
+     "Free indeholder alle områder for op til 20 produkter. Basic, Pro og Business har ingen produktgrænse og adskiller sig i deres ekstra funktioner.",
+     "AI-forslag følger med fra Basic og op. AI-samletjek og landeovervågning fra Pro og op. Den ugentlige e-mail med åbne punkter og CSV-importen hører til Business.",
+     "Du kan prøve alle betalte abonnementer gratis i 7 dage. Faktureringen sker via din Shopify-faktura."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Dit ansvar",
+    "body": [
+     "Appen leverer eksempeltekster, beskeder og forslag. Den er ikke juridisk rådgivning og erstatter den ikke.",
+     "Om og hvilke pligter der gælder for dig, afhænger af din forretning. Tjek oplysningerne, og spørg ved tvivl den kompetente myndighed eller en juridisk rådgiver."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Jeg er kun forhandler. Skal jeg registrere mig?",
+    "a": "Som regel ikke. Producenter og importører skal registrere sig. Men hvis du selv importerer varer fra udlandet eller sælger under eget navn, regnes du ofte som producent. Opsætningen spørger ind til det og viser, hvad der gælder for dig."
+   },
+   {
+    "q": "Hvorfor ser jeg ikke beskederne på min produktside?",
+    "a": "Tjek to ting: Produktet skal være knyttet til et område, og appens blok skal ligge på produktsiden i dit tema. Status viser begge dele."
+   },
+   {
+    "q": "Hvad sker der med mine data under AI-researchen?",
+    "a": "Kun produktdata sendes til OpenAI: titel, leverandør, beskrivelse, SKU og stregkode. Der sendes ingen kunde- eller ordredata."
+   },
+   {
+    "q": "Kan jeg ændre teksterne?",
+    "a": "Ja. Under Tekster tilpasser du alle tekster, dine kunder ser. Tomme felter går tilbage til eksempelteksten."
+   },
+   {
+    "q": "Hvad gælder i Schweiz og Det Forenede Kongerige?",
+    "a": "Der gælder egne regler uden for EU-retten. Appen viser en note, når du sender dertil. Eksempelteksterne er skrevet til EU og EØS."
+   },
+   {
+    "q": "Hvordan opsiger jeg et abonnement?",
+    "a": "Under Abonnement kan du altid skifte til Free. Shopify godskriver dig den ubrugte tid."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Batteriforordningen (EU) 2023/1542",
+   "weeeDirective": "WEEE-direktivet 2012/19/EU om affald af elektrisk og elektronisk udstyr",
+   "chargerDirective": "Direktiv (EU) 2022/2380 om fælles oplader",
+   "dataAct": "Dataforordningen, forordning (EU) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Europa-Kommissionen: batterier",
+   "ecWeee": "Europa-Kommissionen: affald af elektrisk og elektronisk udstyr",
+   "ecCharger": "Europa-Kommissionen: fælles oplader",
+   "ecDataAct": "Europa-Kommissionen: Dataforordningen"
+  },
+  "types": {
+   "battery": "Batterier",
+   "weee": "Elektrisk udstyr",
+   "both": "Batterier og elektrisk udstyr",
+   "retail": "Til forhandlere"
+  },
+  "yourCountries": "Dine leveringslande",
+  "otherCountries": "Andre lande",
+  "countryNames": {
+   "AT": "Østrig",
+   "BE": "Belgien",
+   "BG": "Bulgarien",
+   "CY": "Cypern",
+   "CZ": "Tjekkiet",
+   "DE": "Tyskland",
+   "DK": "Danmark",
+   "EE": "Estland",
+   "ES": "Spanien",
+   "FI": "Finland",
+   "FR": "Frankrig",
+   "GR": "Grækenland",
+   "HR": "Kroatien",
+   "HU": "Ungarn",
+   "IE": "Irland",
+   "IT": "Italien",
+   "LT": "Litauen",
+   "LU": "Luxembourg",
+   "LV": "Letland",
+   "MT": "Malta",
+   "NL": "Nederlandene",
+   "PL": "Polen",
+   "PT": "Portugal",
+   "RO": "Rumænien",
+   "SE": "Sverige",
+   "SI": "Slovenien",
+   "SK": "Slovakiet",
+   "IS": "Island",
+   "LI": "Liechtenstein",
+   "NO": "Norge"
+  }
+ }
+}

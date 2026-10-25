@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht skirta Shopify – privalomi pranešimai apie baterijas, elektros prietaisus ir įkroviklius",
+ "metaDescription": "Shopify programa, skirta ES privalomiems pranešimams apie baterijas, elektros prietaisus ir įkroviklius: produkto puslapis, padėkos puslapis ir užsakymo el. laiškas, 26 kalbos, DI paieška. Netrukus Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – dokumentacija ir oficialūs šaltiniai",
+ "docsMetaDescription": "Kaip nustatyti ElektroPflicht: pareigos, sąranka, produktai, DI, šalys ir registracijos numeriai, su nuorodomis į ES teisę ir institucijas 30 šalių.",
+ "badge": "Netrukus Shopify App Store",
+ "title": "Privalomi pranešimai apie baterijas ir elektros prietaisus – tiesiai Jūsų parduotuvėje",
+ "subtitle": "ElektroPflicht rodo baterijų pranešimą, grąžinimo simbolį ir įkroviklio piktogramą prie kiekvieno atitinkamo produkto, taip pat po pirkimo, 26 kalbomis.",
+ "ctaDocs": "Skaityti dokumentaciją",
+ "ctaContact": "Prašyti ankstyvos prieigos",
+ "featuresTitle": "Ką daro programa",
+ "whyTitle": "Kodėl tai svarbu",
+ "langsTitle": "26 kalbomis",
+ "langsText": "Programa, tekstai Jūsų parduotuvėje ir šis puslapis pasiekiami visomis oficialiomis ES kalbomis bei norvegų ir islandų kalbomis.",
+ "upcomingNote": "ElektroPflicht yra paskutiniame testavimo etape ir netrukus bus pasiekiama Shopify App Store.",
+ "byCronema": "Cronema programa",
+ "docsLink": "Dokumentacija",
+ "backToApp": "Atgal į ElektroPflicht",
+ "language": "Kalba",
+ "imageAlt": "ElektroPflicht programos ekrano nuotrauka",
+ "facts": [
+  "26 kalbų",
+  "30 šalių",
+  "Nemokama iki 20 produktų"
+ ],
+ "why": [
+  {
+   "title": "Numatyta įstatymuose",
+   "text": "Jei parduodate baterijas ar elektros prietaisus ES, turite informuoti apie grąžinimą ir šalinimą. Trūkstami pranešimai gali baigtis įspėjimais ir baudomis."
+  },
+  {
+   "title": "Kiekviena šalis turi savo taisykles",
+   "text": "Registracijos numeriai, kalbos ir grąžinimo būdai skiriasi priklausomai nuo šalies. Programa žino 30 šalių taisykles."
+  },
+  {
+   "title": "DI atliks paiešką už Jus",
+   "text": "DI išnagrinėja baterijos tipą, kategoriją ir įkroviklio detales, nurodydama šaltinius. Jūs patikrinate ir patvirtinate, o programa juos įrašo."
+  }
+ ],
+ "tagline": "Privaloma informacija apie baterijas, elektros prietaisus ir įkroviklius – 26 kalbomis",
+ "features": [
+  {
+   "title": "Privaloma informacija tiesiai parduotuvėje",
+   "text": "Pranešimas apie baterijas, priėmimo simbolis ir įkroviklio piktograma produkto puslapyje rodomi automatiškai.",
+   "image": "/elektropflicht/lt/01-shop.webp"
+  },
+  {
+   "title": "Viskas vienu žvilgsniu",
+   "text": "Kiek produktų turi informaciją – ir kuriuos dar reikėtų patikrinti.",
+   "image": "/elektropflicht/lt/02-dashboard.webp"
+  },
+  {
+   "title": "DI ieško už jus",
+   "text": "Baterijos tipas, cheminė sudėtis, kategorija ir įkroviklis su šaltiniais. Jūs patikrinate ir patvirtinate.",
+   "image": "/elektropflicht/lt/03-editor.webp"
+  },
+  {
+   "title": "Nustatyta per kelias minutes",
+   "text": "Vedlys pats pažymi kiekvieną žingsnį.",
+   "image": "/elektropflicht/lt/04-setup.webp"
+  },
+  {
+   "title": "Ir po pirkimo",
+   "text": "Grąžinimo informacija padėkos puslapyje, užsakymo būsenoje ir el. laiške.",
+   "image": "/elektropflicht/lt/05-order.webp"
+  },
+  {
+   "title": "30 šalių, 26 kalbos",
+   "text": "Būsena pagal sritį – su įspėjimu, jei trūksta pristatymo šalies kalbos.",
+   "image": "/elektropflicht/lt/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Pagalba ir šaltiniai",
+  "intro": "Čia sužinosite, kokias pareigas programa apima, kaip ją nustatyti ir kur rasti oficialias taisykles.",
+  "disclaimer": "Šis puslapis paaiškina programą ir pateikia nuorodas į viešus ES ir kompetentingų institucijų puslapius. Tai nėra teisinė konsultacija. Mes nesame susiję su šiomis institucijomis. Lemiamą reikšmę turi teisės aktai ir institucijų pateikta informacija.",
+  "contents": "Turinys",
+  "faqHeading": "Dažniausi klausimai",
+  "sourcesHeading": "Oficialūs šaltiniai",
+  "euHeading": "ES teisė ir Europos Komisija",
+  "euIntro": "Teisės aktai atsidaro EUR-Lex svetainėje Jūsų kalba. Europos Komisijos puslapiai dažniausiai prieinami tik anglų kalba.",
+  "inEnglish": "anglų kalba",
+  "countriesHeading": "Institucijos ir registrai pagal šalį",
+  "countriesIntro": "Oficialūs kompetentingų institucijų ir registrų puslapiai. Pavadinimai pateikiami tos svetainės kalba.",
+  "englishVersion": "Angliška versija",
+  "noOfficial": "Dar neradome oficialaus puslapio apie šias pareigas. Esant abejonių, kreipkitės į kompetentingą aplinkos instituciją.",
+  "liNote": "Elektros ir elektroninei įrangai Lichtenšteine pagal muitų sutartį daugiausia taikomos Šveicarijos taisyklės. Kontaktas – Amt für Umweltschutz (Aplinkos apsaugos tarnyba).",
+  "lvNote": "Latvijoje elektros prietaisų ir baterijų gamintojų registrą ministerijos vardu tvarko asociacija LETERA.",
+  "contactHeading": "Klausimų?",
+  "contactText": "Rašykite mums adresu support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Kokias pareigas apima programa",
+    "body": [
+     "Baterijos (ES Baterijų reglamentas, Vokietijoje taip pat BattDG): jei parduodate baterijas ar įrenginius su baterijomis, turite informuoti apie nemokamą priėmimą atgal, perbrauktą šiukšliadėžę su ratais ir baterijų keliamus pavojus. Gamintojai ir importuotojai taip pat turi registruotis.",
+     "Elektros prietaisai (WEEE direktyva, Vokietijoje – ElektroG): klientai turi sužinoti, kaip grąžinti senus prietaisus. Jei turite priėmimo atgal pareigą, rodote priėmimo atgal simbolį.",
+     "Įkroviklio piktograma (Direktyva (ES) 2022/2380): telefonams, ausinėms, nešiojamiesiems kompiuteriams ir kitiems laidu įkraunamiems įrenginiams šalia kainos turi būti nurodyta, ar įkroviklis pridėtas, ir kokios įkrovimo galios reikia įrenginiui.",
+     "Data Act (Reglamentas (ES) 2023/2854): prieš perkant susietus įrenginius klientai turi sužinoti, kokius duomenis įrenginys generuoja ir kaip jie gali juos pasiekti. Šią informaciją pateikia gamintojas."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Sąranka žingsnis po žingsnio",
+    "body": [
+     "Sąranka veda per visus žingsnius ir atliktus punktus pažymi automatiškai. Ją rasite meniu skiltyje Sąranka.",
+     "Pirmiausia atsakysite į kelis klausimus: ką parduodate, ar esate mažmenininkai ar gamintojai, ir į kurias šalis pristatote. Pagal atsakymus programa įjungia Jums reikalingas sritis.",
+     "Skiltyje Grąžinimas ir šalys įrašote grąžinimo adresą, grąžinimo būdus ir, jei reikia, savo registracijos numerius.",
+     "Tada prie temos produktų puslapio pridėkite programos bloką, sukurkite Šalinimo puslapis ir įjunkite pranešimą Padėkos puslapyje ir užsakymo būsenos puslapyje."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Produktų priskyrimas",
+    "body": [
+     "Skiltyje Produktai kiekvieną produktą priskiriate atitinkamoms sritims: Baterijos, Elektros prietaisai, Įkroviklio piktograma ir Data Act. Tik priskirti produktai rodo pranešimus.",
+     "Galite redaguoti po vieną arba daug iš karto, filtruodami pagal kolekciją, produkto tipą ar žymą. Programa pasiūlo produktus, kurių tekstuose minima akumuliatoriai, baterijos, įkrovimo laidai ar susietos funkcijos.",
+     "Jei turite daug produktų, padeda CSV importas plane Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "DI pasiūlymai ir DI masinis tikrinimas",
+    "body": [
+     "Produktų rengyklėje DI vienu mygtuku ieško internete: baterijos tipas, cheminė sudėtis, elektros prietaiso kategorija ir įkroviklio duomenys – kiekvienam pateikiami šaltiniai. Tam į OpenAI išsiunčiami pavadinimas, tiekėjas, aprašymas, SKU ir brūkšninis kodas, be jokių klientų duomenų.",
+     "Su DI masiniu tikrinimu (Pro ir Business) vienu kartu išsiunčiate iki 10 pažymėtų produktų. Pasiūlymai atsiranda produktų sąraše.",
+     "DI gali klysti, ypač jei neranda gamintojo duomenų. Todėl programa perima pasiūlymą tik tada, kai Jūs jį patikrinote ir patvirtinote."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Šalys, registracijos numeriai ir kalbos",
+    "body": [
+     "Kiekvienai pristatymo šaliai galioja savos taisyklės. Kai kuriose šalyse registracijos numeriai turi būti rodomi parduotuvėje arba sąskaitose, pavyzdžiui, Prancūzijoje, Ispanijoje, Italijoje ar Lenkijoje.",
+     "Užsienio klientams pranešimai turi būti jų kalba. Būsena parodo, kurios Jūsų pristatymo šalių kalbos trūksta parduotuvėje.",
+     "Šalių stebėtojas (Pro ir Business) palygina Jūsų Shopify pristatymo nustatymų šalis su sąranka ir praneša apie naujas šalis.",
+     "Šio puslapio apačioje rasite kiekvienos šalies kompetentingas institucijas ir registrus."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Po pirkimo: padėkos puslapis ir užsakymo el. laiškas",
+    "body": [
+     "Grąžinimo pranešimas rodomas ir Padėkos puslapyje, ir užsakymo būsenos puslapyje. Tam ten pridėkite programos bloką.",
+     "Užsakymo patvirtinimui ir pakavimo lapui programa pateikia kodą įklijuoti. Vienu spustelėjimu ji įrašo kodą ir į visas šablono kalbines versijas."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Planai ir papildomos funkcijos",
+    "body": [
+     "Free apima visas sritis iki 20 produktų. Basic, Pro ir Business neturi produkto ribos ir skiriasi papildomomis funkcijomis.",
+     "DI pasiūlymai yra nuo Basic, DI masinis tikrinimas ir šalių stebėtojas – nuo Pro. Savaitinis el. laiškas su nebaigtais darbais ir CSV importas priklauso planui Business.",
+     "Visus mokamus planus galite bandyti 7 dienas nemokamai. Atsiskaitymas vyksta per Jūsų Shopify sąskaitą."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Jūsų atsakomybė",
+    "body": [
+     "Programa pateikia pavyzdinius tekstus, pranešimus ir pasiūlymus. Tai nėra teisinė konsultacija ir jos nepakeičia.",
+     "Ar ir kokios pareigos Jums taikomos, priklauso nuo Jūsų veiklos. Patikrinkite detales, o kilus abejonių – kreipkitės į kompetentingą instituciją arba teisininką."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Esu tik mažmenininkai. Ar turiu registruotis?",
+    "a": "Dažniausiai ne. Registruotis turi gamintojai ir importuotojai. Tačiau jei patys importuojate prekes iš užsienio arba parduodate savo vardu, dažnai laikotės gamintoju. Sąranka to paklausia ir parodo, kas Jums taikoma."
+   },
+   {
+    "q": "Kodėl nematau pranešimų savo produktų puslapyje?",
+    "a": "Patikrinkite du dalykus: produktas turi būti priskirtas sričiai, o programos blokas turi būti įdėtas temos produktų puslapyje. Būsena rodo abu."
+   },
+   {
+    "q": "Kas nutinka mano duomenims per DI paiešką?",
+    "a": "Į OpenAI išsiunčiami tik produktų duomenys: pavadinimas, tiekėjas, aprašymas, SKU ir brūkšninis kodas. Klientų ir užsakymų duomenys nesiunčiami."
+   },
+   {
+    "q": "Ar galiu pakeisti tekstus?",
+    "a": "Taip. Skiltyje Tekstai galite pritaikyti kiekvieną tekstą, kurį mato Jūsų klientai. Tušti laukai grįžta prie pavyzdinio teksto."
+   },
+   {
+    "q": "Kas galioja Šveicarijoje ir Jungtinėje Karalystėje?",
+    "a": "Ten galioja savos taisyklės, nesusijusios su ES teise. Programa parodo pastabą, jei ten pristatote. Pavyzdiniai tekstai parašyti ES ir EEE rinkai."
+   },
+   {
+    "q": "Kaip atšaukti planą?",
+    "a": "Skiltyje Planas bet kada galite pereiti į Free. Shopify grąžins nepanaudotą laiką."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Reglamentas (ES) 2023/1542 dėl baterijų ir atliekų baterijų",
+   "weeeDirective": "Direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (EEĮA)",
+   "chargerDirective": "Direktyva (ES) 2022/2380 dėl bendrojo įkroviklio",
+   "dataAct": "Duomenų aktas, Reglamentas (ES) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Europos Komisija: baterijos",
+   "ecWeee": "Europos Komisija: elektros ir elektroninės įrangos atliekos",
+   "ecCharger": "Europos Komisija: bendrasis įkroviklis",
+   "ecDataAct": "Europos Komisija: Duomenų aktas"
+  },
+  "types": {
+   "battery": "Baterijos",
+   "weee": "Elektros prietaisai",
+   "both": "Baterijos ir elektros prietaisai",
+   "retail": "Mažmenininkams"
+  },
+  "yourCountries": "Jūsų pristatymo šalys",
+  "otherCountries": "Kitos šalys",
+  "countryNames": {
+   "AT": "Austrija",
+   "BE": "Belgija",
+   "BG": "Bulgarija",
+   "CY": "Kipras",
+   "CZ": "Čekija",
+   "DE": "Vokietija",
+   "DK": "Danija",
+   "EE": "Estija",
+   "ES": "Ispanija",
+   "FI": "Suomija",
+   "FR": "Prancūzija",
+   "GR": "Graikija",
+   "HR": "Kroatija",
+   "HU": "Vengrija",
+   "IE": "Airija",
+   "IT": "Italija",
+   "LT": "Lietuva",
+   "LU": "Liuksemburgas",
+   "LV": "Latvija",
+   "MT": "Malta",
+   "NL": "Nyderlandai",
+   "PL": "Lenkija",
+   "PT": "Portugalija",
+   "RO": "Rumunija",
+   "SE": "Švedija",
+   "SI": "Slovėnija",
+   "SK": "Slovakija",
+   "IS": "Islandija",
+   "LI": "Lichtenšteinas",
+   "NO": "Norvegija"
+  }
+ }
+}

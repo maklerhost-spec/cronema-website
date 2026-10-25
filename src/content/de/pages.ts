@@ -166,7 +166,9 @@ export const HOME = {
 };
 
 export type Reference = {
-  id: "work247" | "bookique" | "garan";
+  id: "work247" | "bookique" | "garan" | "elektropflicht";
+  /** Not released yet: badge "coming soon" and a link to its page on this site. */
+  upcoming?: boolean;
   name: string;
   platform: string;
   url?: string;
@@ -222,6 +224,29 @@ export const REFERENCES: Reference[] = [
       "Ein typisches Beispiel für unseren Ansatz: Eine neue gesetzliche Pflicht trifft viele kleine Händler, und eine schlanke, eigene App setzt sie schnell und kostengünstig um.",
     ],
     services: ["Erweiterungen", "Hosting"],
+  },
+  {
+    "id": "elektropflicht",
+    "name": "ElektroPflicht",
+    "platform": "Shopify-App",
+    "upcoming": true,
+    "title": "Pflichtangaben für Batterien, Elektrogeräte und Ladegeräte",
+    "text": "Batterie-Hinweis, Rücknahme-Symbol und Ladegerät-Piktogramm automatisch im Shop, nach dem Kauf und in der Bestell-E-Mail. Für 30 Länder, in 26 Sprachen, mit KI-Recherche.",
+    "facts": [
+      "EU-Batterieverordnung, WEEE, Ladegerät",
+      "30 Länder, 26 Sprachen",
+      "KI-Recherche mit Quellen"
+    ],
+    "story": [
+      "Wer in der EU Batterien oder Elektrogeräte verkauft, muss über Rücknahme und Entsorgung informieren, bei vielen Geräten auch über das Ladegerät. Jedes Land hat dazu eigene Registriernummern, Sprachen und Rückgabewege.",
+      "ElektroPflicht bringt diese Angaben in jeden Shopify-Shop: auf die Produktseite, die Danke-Seite, die Bestellstatus-Seite und in die Bestell-E-Mail. Eine geführte Einrichtung kennt die Regeln für 30 Länder, eine KI recherchiert Batterieart, Kategorie und Ladegerät mit Quellen, der Händler prüft und bestätigt.",
+      "Die App ist in 26 Sprachen verfügbar, mit Dokumentation und Links zu den zuständigen Behörden. Sie ist in der letzten Testphase und erscheint in Kürze im Shopify App Store."
+    ],
+    "services": [
+      "Erweiterungen",
+      "KI-Agenten",
+      "Hosting"
+    ]
   },
 ];
 

@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht Shopify vidē – obligātās norādes par baterijām, elektroierīcēm un lādētājiem",
+ "metaDescription": "Shopify lietotne ES obligātajām norādēm par baterijām, elektroierīcēm un lādētājiem: produkta lapa, pateicības lapa un pasūtījuma e-pasts, 26 valodas, MI izpēte. Drīzumā Shopify App Store veikalā.",
+ "docsMetaTitle": "ElektroPflicht – dokumentācija un oficiālie avoti",
+ "docsMetaDescription": "Kā iestatīt ElektroPflicht: pienākumi, iestatīšana, produkti, MI, valstis un reģistrācijas numuri, ar saitēm uz ES tiesību aktiem un iestādēm 30 valstīs.",
+ "badge": "Drīzumā Shopify App Store veikalā",
+ "title": "Obligātās norādes par baterijām un elektroierīcēm, tieši jūsu veikalā",
+ "subtitle": "ElektroPflicht rāda bateriju paziņojumu, nodošanas simbolu un lādētāja piktogrammu pie katra atbilstoša produkta, arī pēc pirkuma, 26 valodās.",
+ "ctaDocs": "Lasīt dokumentāciju",
+ "ctaContact": "Pieprasīt agrīnu piekļuvi",
+ "featuresTitle": "Ko dara lietotne",
+ "whyTitle": "Kāpēc tas ir svarīgi",
+ "langsTitle": "26 valodās",
+ "langsText": "Lietotne, teksti jūsu veikalā un šī lapa ir pieejami visās ES oficiālajās valodās, kā arī norvēģu un islandiešu valodā.",
+ "upcomingNote": "ElektroPflicht ir noslēdzošajā testēšanas fāzē un drīzumā būs pieejama Shopify App Store veikalā.",
+ "byCronema": "Lietotne no Cronema",
+ "docsLink": "Dokumentācija",
+ "backToApp": "Atpakaļ uz ElektroPflicht",
+ "language": "Valoda",
+ "imageAlt": "ElektroPflicht lietotnes ekrānuzņēmums",
+ "facts": [
+  "26 valodas",
+  "30 valstis",
+  "Bezmaksas līdz 20 produktiem"
+ ],
+ "why": [
+  {
+   "title": "Noteikts likumā",
+   "text": "Ja ES pārdodat baterijas vai elektroierīces, jums jāsniedz informācija par nodošanu un apsaimniekošanu. Trūkstošas norādes var novest pie brīdinājumiem un sodiem."
+  },
+  {
+   "title": "Katrā valstī ir savi noteikumi",
+   "text": "Reģistrācijas numuri, valodas un atgriešanas veidi atšķiras pa valstīm. Lietotne zina noteikumus 30 valstīm."
+  },
+  {
+   "title": "MI veic izpēti jūsu vietā",
+   "text": "MI ar avotiem izpēta baterijas tipu, kategoriju un lādētāja detaļas. Jūs pārbaudāt un apstiprināt, lietotne tos aizpilda."
+  }
+ ],
+ "tagline": "Obligātā informācija par baterijām, elektroiekārtām un lādētājiem – 26 valodās",
+ "features": [
+  {
+   "title": "Obligātā informācija tieši veikalā",
+   "text": "Bateriju norāde, pieņemšanas simbols un lādētāja piktogramma produkta lapā parādās automātiski.",
+   "image": "/elektropflicht/lv/01-shop.webp"
+  },
+  {
+   "title": "Viss vienā skatienā",
+   "text": "Cik produktiem ir informācija – un kurus vēl būtu jāpārbauda.",
+   "image": "/elektropflicht/lv/02-dashboard.webp"
+  },
+  {
+   "title": "MI meklē jūsu vietā",
+   "text": "Baterijas veids, ķīmiskais sastāvs, kategorija un lādētājs ar avotiem. Jūs pārbaudāt un apstiprināt.",
+   "image": "/elektropflicht/lv/03-editor.webp"
+  },
+  {
+   "title": "Iestatīts dažās minūtēs",
+   "text": "Vadītā iestatīšana pati atzīmē katru soli.",
+   "image": "/elektropflicht/lv/04-setup.webp"
+  },
+  {
+   "title": "Arī pēc pirkuma",
+   "text": "Nodošanas norāde pateicības lapā, pasūtījuma statusā un e-pastā.",
+   "image": "/elektropflicht/lv/05-order.webp"
+  },
+  {
+   "title": "30 valstis, 26 valodas",
+   "text": "Statuss pa jomām – ar brīdinājumu, ja trūkst piegādes valsts valodas.",
+   "image": "/elektropflicht/lv/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Palīdzība un avoti",
+  "intro": "Šeit atradīsiet, kuras saistības lietotne sedz, kā to iestatīt un kur lasīt oficiālos noteikumus.",
+  "disclaimer": "Šī lapa skaidro lietotni un norāda uz publiskām ES un kompetento iestāžu lapām. Tā nav juridiska konsultācija. Mēs neesam saistīti ar šīm iestādēm. Izšķiroši ir tiesību akti un iestāžu sniegtā informācija.",
+  "contents": "Saturs",
+  "faqHeading": "Biežāk uzdotie jautājumi",
+  "sourcesHeading": "Oficiālie avoti",
+  "euHeading": "ES tiesības un Eiropas Komisija",
+  "euIntro": "Tiesību akti atveras EUR-Lex vietnē jūsu valodā. Eiropas Komisijas lapas pārsvarā ir pieejamas tikai angļu valodā.",
+  "inEnglish": "angļu valodā",
+  "countriesHeading": "Iestādes un reģistri pa valstīm",
+  "countriesIntro": "Kompetento iestāžu un reģistru oficiālās lapas. Nosaukumi ir attiecīgās lapas valodā.",
+  "englishVersion": "Angļu valodā",
+  "noOfficial": "Vēl neesam atraduši oficiālu lapu par šīm saistībām. Šaubu gadījumā sazinieties ar kompetento vides iestādi.",
+  "liNote": "Attiecībā uz elektriskajām un elektroniskajām iekārtām Lihtenšteina, pamatojoties uz muitas līgumu, lielā mērā piemēro Šveices noteikumus. Kontaktpersona ir Amt für Umweltschutz (Vides aizsardzības dienests).",
+  "lvNote": "Latvijā elektrisko iekārtu un bateriju ražotāju reģistru ministra uzdevumā uztur asociācija LETERA.",
+  "contactHeading": "Jautājumi?",
+  "contactText": "Rakstiet mums uz support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Kuras saistības lietotne sedz",
+    "body": [
+     "Baterijas (ES Regula (ES) 2023/1542 par baterijām un bateriju atkritumiem; Vācijā arī BattDG). Ja pārdodat baterijas vai ierīces ar baterijām, jāinformē par bezmaksas nodošanu, pārsvītrotās atkritumu tvertnes simbolu un bateriju bīstamību. Ražotājiem un importētājiem jāreģistrējas.",
+     "Elektroiekārtas (Direktīva 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem; Vācijā ElektroG). Klientiem jāzina, kā nodot nolietotās ierīces. Ja jums ir pienākums pieņemt atpakaļ, jāparāda nodošanas simbols.",
+     "Lādētāja piktogramma (Direktīva (ES) 2022/2380). Tālruņiem, austiņām, klēpjdatoriem un citām ar vadu lādējamām ierīcēm pie cenas jānorāda, vai komplektā ir lādētājs un kādu uzlādes jaudu ierīcei vajag.",
+     "Data Act (Regula (ES) 2023/2854). Pirms iegādāties savienotas ierīces, klientiem jāzina, kādus datus ierīce ģenerē un kā tiem piekļūt. Šo informāciju sniedz ražotājs."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Iestatīšana soli pa solim",
+    "body": [
+     "Iestatīšana ved jūs cauri visiem soļiem un izpildītos punktus atzīmē pati. To atradīsiet izvēlnē zem Iestatīšana.",
+     "Vispirms atbildiet uz dažiem jautājumiem: ko pārdodat, vai esat mazumtirgotājs vai ražotājs un uz kurām valstīm piegādājat. Pēc atbildēm lietotne ieslēdz vajadzīgās jomas.",
+     "Zem Nodošana un valstis ievadiet nodošanas adresi, nodošanas veidus un, ja vajag, savus reģistrācijas numurus.",
+     "Pēc tam pievienojiet lietotnes bloku tēmas produkta lapā, izveidojiet Apsaimniekošanas lapu un ieslēdziet paziņojumu Pateicības lapā un pasūtījuma statusa lapā."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Produktu piešķiršana",
+    "body": [
+     "Zem Produkti piešķiriet katru produktu atbilstošajām jomām: Baterijas, Elektroiekārtas, Lādētāja piktogramma un Data Act. Paziņojumi redzami tikai pie piešķirtajiem produktiem.",
+     "Varat rediģēt produktus pa vienam vai daudzus uzreiz, filtrējot pēc kolekcijas, produkta tipa vai birkas. Lietotne piedāvā produktus, kuru tekstos minēti akumulatori, baterijas, uzlādes kabeļi vai savienotas funkcijas.",
+     "Ja produktu ir daudz, palīdz CSV imports Business plānā."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "MI ieteikumi un MI koppārbaude",
+    "body": [
+     "Produkta redaktorā MI ar vienu pogu internetā sameklē: baterijas tipu, ķīmiju, elektroiekārtas kategoriju un datus par lādētāju, katru ar avotiem. Tam uz OpenAI tiek nosūtīti nosaukums, ražotājs, apraksts, SKU un svītrkods, nevis klientu dati.",
+     "Ar MI koppārbaudi (Pro un Business) vienlaikus nosūtīsiet MI līdz 10 atlasītus produktus. Ieteikumi parādās produktu sarakstā.",
+     "MI var kļūdīties, īpaši ja neatrod ražotāja datus. Tāpēc lietotne pārņem ieteikumu tikai pēc tam, kad to esat pārbaudījuši un apstiprinājuši."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Valstis, reģistrācijas numuri un valodas",
+    "body": [
+     "Katrai piegādes valstij ir savi noteikumi. Dažās valstīs reģistrācijas numuri jānorāda veikalā vai rēķinos, piemēram, Francijā, Spānijā, Itālijā vai Polijā.",
+     "Ārvalstu klientiem paziņojumi vajadzīgi viņu valodā. Statuss rāda, kuras jūsu piegādes valstu valodas veikalā trūkst.",
+     "Valstu uzraugs (Pro un Business) salīdzina piegādes valstis jūsu Shopify sūtīšanas iestatījumos ar jūsu iestatījumiem un ziņo par jaunām valstīm.",
+     "Šīs lapas apakšā atradīsiet katras valsts kompetentās iestādes un reģistrus."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Pēc pirkuma: Pateicības lapa un pasūtījuma e-pasts",
+    "body": [
+     "Nodošanas paziņojums redzams arī Pateicības lapā un pasūtījuma statusa lapā. Tam tur pievienojiet lietotnes bloku.",
+     "Pasūtījuma apstiprinājumam un pavadzīmei lietotne dod ielīmējamu kodu. Ar vienu klikšķi tā ieraksta kodu arī visās veidnes valodu versijās."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Plāni un papildu iespējas",
+    "body": [
+     "Free ietver visas jomas līdz 20 produktiem. Basic, Pro un Business nav produktu limita; tie atšķiras ar papildu iespējām.",
+     "MI ieteikumi ir no Basic un augstāk, MI koppārbaude un Valstu uzraugs — no Pro un augstāk. Iknedēļas e-pasts ar atvērtajiem punktiem un CSV imports — Business plānā.",
+     "Jebkuru maksas plānu varat izmēģināt bez maksas 7 dienas. Norēķini notiek caur jūsu Shopify rēķinu."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Jūsu atbildība",
+    "body": [
+     "Lietotne nodrošina parauktekstu, paziņojumus un ieteikumus. Tā nav juridiska konsultācija un to neaizstāj.",
+     "Vai un kuras saistības uz jums attiecas, ir atkarīgs no jūsu uzņēmējdarbības. Pārbaudiet detaļas un, ja rodas šaubas, jautājiet kompetentajai iestādei vai juristam."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Esmu tikai mazumtirgotājs. Vai man jāreģistrējas?",
+    "a": "Parasti nē. Reģistrēties jābūt ražotājiem un importētājiem. Tomēr, ja preces ievedat no ārvalstīm pats vai pārdodat ar savu zīmolu, jūs bieži skaitāties kā ražotājs. Iestatīšana par to pajautā un parāda, kas uz jums attiecas."
+   },
+   {
+    "q": "Kāpēc neredzu paziņojumus savā produkta lapā?",
+    "a": "Pārbaudiet divas lietas: produktam jābūt piešķirtam kādai jomai, un lietotnes blokam jābūt jūsu tēmas produkta lapā. Statuss rāda abus."
+   },
+   {
+    "q": "Kas notiek ar maniem datiem MI izpētes laikā?",
+    "a": "Uz OpenAI aiziet tikai produktu dati: nosaukums, ražotājs, apraksts, SKU un svītrkods. Klientu vai pasūtījumu dati netiek sūtīti."
+   },
+   {
+    "q": "Vai varu mainīt tekstus?",
+    "a": "Jā. Zem Teksti varat pielāgot katru tekstu, ko redz jūsu klienti. Tukši lauki atgriežas pie paraukteksta."
+   },
+   {
+    "q": "Kas attiecas uz Šveici un Apvienoto Karalisti?",
+    "a": "Tur spēkā ir pašu noteikumi ārpus ES tiesībām. Lietotne rāda piezīmi, ja piegādājat uz šīm valstīm. Paraukteksti ir rakstīti ES un EEZ vajadzībām."
+   },
+   {
+    "q": "Kā atcelt plānu?",
+    "a": "Zem Plāns jebkurā brīdī varat pārslēgties uz Free. Shopify ieskaita neizmantoto laiku."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Regula (ES) 2023/1542 par baterijām un bateriju atkritumiem",
+   "weeeDirective": "Direktīva 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem",
+   "chargerDirective": "Direktīva (ES) 2022/2380 par kopēju lādētāju",
+   "dataAct": "Datu akts, Regula (ES) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Eiropas Komisija: baterijas",
+   "ecWeee": "Eiropas Komisija: elektrisko un elektronisko iekārtu atkritumi",
+   "ecCharger": "Eiropas Komisija: kopējais lādētājs",
+   "ecDataAct": "Eiropas Komisija: Datu akts"
+  },
+  "types": {
+   "battery": "Baterijas",
+   "weee": "Elektroiekārtas",
+   "both": "Baterijas un elektroiekārtas",
+   "retail": "Mazumtirgotājiem"
+  },
+  "yourCountries": "Jūsu piegādes valstis",
+  "otherCountries": "Citas valstis",
+  "countryNames": {
+   "AT": "Austrija",
+   "BE": "Beļģija",
+   "BG": "Bulgārija",
+   "CY": "Kipra",
+   "CZ": "Čehija",
+   "DE": "Vācija",
+   "DK": "Dānija",
+   "EE": "Igaunija",
+   "ES": "Spānija",
+   "FI": "Somija",
+   "FR": "Francija",
+   "GR": "Grieķija",
+   "HR": "Horvātija",
+   "HU": "Ungārija",
+   "IE": "Īrija",
+   "IT": "Itālija",
+   "LT": "Lietuva",
+   "LU": "Luksemburga",
+   "LV": "Latvija",
+   "MT": "Malta",
+   "NL": "Nīderlande",
+   "PL": "Polija",
+   "PT": "Portugāle",
+   "RO": "Rumānija",
+   "SE": "Zviedrija",
+   "SI": "Slovēnija",
+   "SK": "Slovākija",
+   "IS": "Islande",
+   "LI": "Lihtenšteina",
+   "NO": "Norvēģija"
+  }
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht pre Shopify – povinné informácie pre batérie, elektrozariadenia a nabíjačky",
+ "metaDescription": "Aplikácia pre Shopify na povinné informácie EÚ o batériách, elektrozariadeniach a nabíjačkách: produktová stránka, ďakovacia stránka a e-mail s objednávkou, 26 jazykov, výskum pomocou AI. Čoskoro v Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – dokumentácia a oficiálne zdroje",
+ "docsMetaDescription": "Ako nastaviť ElektroPflicht: povinnosti, úvodné nastavenie, produkty, AI, krajiny a registračné čísla, s odkazmi na právo EÚ a úrady v 30 krajinách.",
+ "badge": "Čoskoro v Shopify App Store",
+ "title": "Povinné informácie o batériách a elektrozariadeniach, priamo vo Vašom obchode",
+ "subtitle": "ElektroPflicht zobrazí informáciu o batérii, symbol spätného zberu a piktogram nabíjačky pri každom relevantnom produkte, aj po nákupe, v 26 jazykoch.",
+ "ctaDocs": "Prečítať dokumentáciu",
+ "ctaContact": "Požiadať o skorý prístup",
+ "featuresTitle": "Čo aplikácia dokáže",
+ "whyTitle": "Prečo je to dôležité",
+ "langsTitle": "V 26 jazykoch",
+ "langsText": "Aplikácia, texty vo Vašom obchode aj táto stránka sú dostupné vo všetkých úradných jazykoch EÚ, plus v nórčine a islandčine.",
+ "upcomingNote": "ElektroPflicht je v záverečnej testovacej fáze a čoskoro bude dostupná v Shopify App Store.",
+ "byCronema": "Aplikácia od Cronema",
+ "docsLink": "Dokumentácia",
+ "backToApp": "Späť do ElektroPflicht",
+ "language": "Jazyk",
+ "imageAlt": "Snímka obrazovky aplikácie ElektroPflicht",
+ "facts": [
+  "26 jazykov",
+  "30 krajín",
+  "Zadarmo do 20 produktov"
+ ],
+ "why": [
+  {
+   "title": "Vyžadované zákonom",
+   "text": "Ak predávate batérie alebo elektrozariadenia v EÚ, musíte informovať o spätnom zbere a zneškodnení. Chýbajúce informácie môžu viesť k výzvam a pokutám."
+  },
+  {
+   "title": "Každá krajina má vlastné pravidlá",
+   "text": "Registračné čísla, jazyky a spôsoby vrátenia sa líšia podľa krajiny. Aplikácia pozná pravidlá pre 30 krajín."
+  },
+  {
+   "title": "AI urobí prieskum za Vás",
+   "text": "AI vyhľadá typ batérie, kategóriu a podrobnosti o nabíjačke so zdrojmi. Vy skontrolujete a potvrdíte, aplikácia ich doplní."
+  }
+ ],
+ "tagline": "Povinné údaje pre batérie, elektrozariadenia a nabíjačky – v 26 jazykoch",
+ "features": [
+  {
+   "title": "Povinné údaje priamo v obchode",
+   "text": "Upozornenie na batérie, symbol spätného zberu a piktogram nabíjačky sa na stránke produktu zobrazia automaticky.",
+   "image": "/elektropflicht/sk/01-shop.webp"
+  },
+  {
+   "title": "Všetko na prvý pohľad",
+   "text": "Koľko produktov má údaje – a ktoré by ste ešte mali skontrolovať.",
+   "image": "/elektropflicht/sk/02-dashboard.webp"
+  },
+  {
+   "title": "AI vyhľadá za vás",
+   "text": "Typ batérie, chémia, kategória a nabíjačka aj so zdrojmi. Vy skontrolujete a potvrdíte.",
+   "image": "/elektropflicht/sk/03-editor.webp"
+  },
+  {
+   "title": "Nastavené za pár minút",
+   "text": "Sprievodca nastavením odškrtne každý krok sám.",
+   "image": "/elektropflicht/sk/04-setup.webp"
+  },
+  {
+   "title": "Aj po nákupe",
+   "text": "Upozornenie na spätný zber na ďakovnej stránke, v stave objednávky a v e-maile.",
+   "image": "/elektropflicht/sk/05-order.webp"
+  },
+  {
+   "title": "30 krajín, 26 jazykov",
+   "text": "Stav podľa oblasti – s upozornením, keď chýba jazyk krajiny dodania.",
+   "image": "/elektropflicht/sk/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Pomoc a zdroje",
+  "intro": "Tu zistíte, ktoré povinnosti aplikácia pokrýva, ako ju nastaviť a kde si prečítať oficiálne pravidlá.",
+  "disclaimer": "Táto stránka vysvetľuje aplikáciu a odkazuje na verejné stránky EÚ a príslušných orgánov. Nie je to právne poradenstvo. Nie sme prepojení s týmito inštitúciami. Rozhodujúce sú právne texty a informácie orgánov.",
+  "contents": "Obsah",
+  "faqHeading": "Často kladené otázky",
+  "sourcesHeading": "Oficiálne zdroje",
+  "euHeading": "Právo EÚ a Európska komisia",
+  "euIntro": "Právne texty sa otvoria na EUR-Lexe vo Vašom jazyku. Stránky Európskej komisie sú väčšinou len v angličtine.",
+  "inEnglish": "v angličtine",
+  "countriesHeading": "Orgány a registre podľa krajiny",
+  "countriesIntro": "Oficiálne stránky príslušných orgánov a registrov. Názvy sú v jazyku danej stránky.",
+  "englishVersion": "Anglická verzia",
+  "noOfficial": "K týmto povinnostiam sme zatiaľ nenašli oficiálnu stránku. V prípade pochybností sa obráťte na príslušný environmentálny orgán.",
+  "liNote": "Pre elektrické a elektronické zariadenia uplatňuje Lichtenštajnsko cez colnú zmluvu vo veľkej miere švajčiarske pravidlá. Kontakt je Amt für Umweltschutz (Úrad pre životné prostredie).",
+  "lvNote": "Register výrobcov elektrozariadení a batérií vedie v Lotyšsku združenie LETERA v mene ministerstva.",
+  "contactHeading": "Máte otázky?",
+  "contactText": "Napíšte nám na support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Ktoré povinnosti aplikácia pokrýva",
+    "body": [
+     "Batérie (nariadenie o batériách EÚ, v Nemecku aj BattDG): ak predávate batérie alebo zariadenia s batériami, musíte informovať o bezplatnom spätnom zbere, prečiarknutom kontajneri na kolieskach a nebezpečenstvách batérie. Výrobcovia a dovozcovia sa musia aj registrovať.",
+     "Elektrozariadenia (smernica WEEE, v Nemecku ElektroG): zákazníci sa musia dozvedieť, ako môžu vrátiť staré zariadenia. Ak máte povinnosť spätného zberu, zobrazíte symbol spätného zberu.",
+     "Piktogram nabíjačky (smernica 2022/2380): pri telefónoch, slúchadlách, notebookoch a iných zariadeniach nabíjaných káblom musí byť pri cene uvedené, či je nabíjačka v balení a aký nabíjací výkon zariadenie potrebuje.",
+     "Data Act (nariadenie 2023/2854): pred kúpou pripojených zariadení sa zákazníci musia dozvedieť, aké údaje zariadenie vytvára a ako k nim môžu pristupovať. Tieto informácie poskytuje výrobca."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Úvodné nastavenie krok za krokom",
+    "body": [
+     "Úvodné nastavenie Vás prevedie všetkými krokmi a hotové body sa odškrtnú automaticky. Nájdete ho v menu pod Úvodné nastavenie.",
+     "Najprv odpoviete na pár otázok: čo predávate, či ste predajca alebo výrobca a do ktorých krajín posielate. Z odpovedí aplikácia zapne potrebné oblasti.",
+     "V časti Spätný zber a krajiny zadáte adresu pre spätný zber, spôsoby vrátenia a podľa potreby aj Vaše registračné čísla.",
+     "Potom pridáte blok aplikácie na produktovú stránku Vášho motívu, vytvoríte Stránku o likvidácii a zapnete upozornenie na ďakovacej stránke a na stránke stavu objednávky."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Priraďovanie produktov",
+    "body": [
+     "V časti Produkty priradíte každý produkt k príslušným oblastiam: Batérie, Elektrozariadenia, Piktogram nabíjačky a Data Act. Upozornenia sa zobrazia len pri priradených produktoch.",
+     "Produkty môžete upravovať jednotlivo alebo hromadne, filtrované podľa kolekcie, typu produktu alebo značky. Aplikácia navrhne produkty, v ktorých textoch sa spomínajú akumulátory, batérie, nabíjacie káble alebo pripojené funkcie.",
+     "Pri veľkom počte produktov pomôže import CSV v tarife Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Návrhy AI a hromadná kontrola AI",
+    "body": [
+     "V editore produktu AI na stlačenie tlačidla preskúma web: typ batérie, chémiu, kategóriu elektrozariadenia a údaje o nabíjačke, vždy so zdrojmi. Kvôli tomu sa odošlú do OpenAI názov, výrobca, popis, SKU a čiarový kód, nie údaje o zákazníkoch.",
+     "Pomocou hromadnej kontroly AI (Pro a Business) pošlete naraz až 10 vybraných produktov do AI. Návrhy sa zobrazia v zozname produktov.",
+     "AI sa môže mýliť, najmä keď nenájde údaje od výrobcu. Preto aplikácia prevezme návrh až po tom, čo ho skontrolujete a potvrdíte."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Krajiny, registračné čísla a jazyky",
+    "body": [
+     "Každá doručovacia krajina má vlastné pravidlá. V niektorých krajinách musia byť registračné čísla uvedené v obchode alebo na faktúrach, napríklad vo Francúzsku, Španielsku, Taliansku alebo Poľsku.",
+     "Zákazníci v zahraničí potrebujú upozornenia vo svojom jazyku. Stav Vám ukáže, ktorý jazyk Vašich doručovacích krajín vo Vašom obchode chýba.",
+     "Sledovanie krajín (Pro a Business) porovná doručovacie krajiny z nastavení dopravy v Shopify s Vaším nastavením a nahlási nové krajiny.",
+     "Dole na tejto stránke nájdete pre každú krajinu príslušné orgány a registre."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Po nákupe: ďakovacia stránka a e-mail k objednávke",
+    "body": [
+     "Upozornenie na spätný zber sa zobrazí aj na ďakovacej stránke a na stránke stavu objednávky. Na to tam pridáte blok aplikácie.",
+     "Pre potvrdenie objednávky a dodací list Vám aplikácia dá kód na vloženie. Jedným kliknutím ho zapíše aj do všetkých jazykových verzií šablóny."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Tarify a doplnkové funkcie",
+    "body": [
+     "Free obsahuje všetky oblasti pre až 20 produktov. Basic, Pro a Business nemajú limit produktov a líšia sa doplnkovými funkciami.",
+     "Návrhy AI sú od tarify Basic vyššie, hromadná kontrola AI a Sledovanie krajín od tarify Pro vyššie. Týždenný e-mail s otvorenými položkami a import CSV patria k tarife Business.",
+     "Každú platenú tarifu si môžete vyskúšať 7 dní zadarmo. Fakturácia prebieha cez Vašu faktúru v Shopify."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Vaša zodpovednosť",
+    "body": [
+     "Aplikácia poskytuje vzorové texty, upozornenia a návrhy. Nie je to právne poradenstvo a ani ho nenahrádza.",
+     "Či a ktoré povinnosti sa na Vás vzťahujú, závisí od Vášho podnikania. Skontrolujte podrobnosti a v prípade pochybností sa obráťte na príslušný orgán alebo právneho poradcu."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Som len predajca. Musím sa registrovať?",
+    "a": "Zvyčajne nie. Registrovať sa musia výrobcovia a dovozcovia. Ak však sami dovážate tovar zo zahraničia alebo ho predávate pod vlastným menom, často sa považujete za výrobcu. Úvodné nastavenie sa na to pýta a ukáže Vám, čo platí pre Vás."
+   },
+   {
+    "q": "Prečo nevidím upozornenia na mojej produktovej stránke?",
+    "a": "Skontrolujte dve veci: produkt musí byť priradený k oblasti a blok aplikácie musí byť v motíve na produktovej stránke. Stav ukazuje oboje."
+   },
+   {
+    "q": "Čo sa deje s mojimi údajmi počas výskumu AI?",
+    "a": "Do OpenAI idú len údaje o produktoch: názov, výrobca, popis, SKU a čiarový kód. Údaje o zákazníkoch ani objednávkach sa neodosielajú."
+   },
+   {
+    "q": "Môžem zmeniť texty?",
+    "a": "Áno. V časti Texty upravíte každý text, ktorý Vaši zákazníci vidia. Prázdne polia sa vrátia na vzorový text."
+   },
+   {
+    "q": "Čo platí vo Švajčiarsku a v Spojenom kráľovstve?",
+    "a": "Majú vlastné pravidlá mimo práva EÚ. Aplikácia zobrazí poznámku, keď tam posielate. Vzorové texty sú napísané pre EÚ a EHP."
+   },
+   {
+    "q": "Ako zruším tarifu?",
+    "a": "V časti Tarifa môžete kedykoľvek prejsť na Free. Shopify Vám nevyužitý čas vráti."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Nariadenie o batériách (EÚ) 2023/1542",
+   "weeeDirective": "Smernica 2012/19/EÚ o odpade z elektrických a elektronických zariadení (WEEE)",
+   "chargerDirective": "Smernica (EÚ) 2022/2380 o spoločnej nabíjačke",
+   "dataAct": "Akt o údajoch, nariadenie (EÚ) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Európska komisia: batérie",
+   "ecWeee": "Európska komisia: odpad z elektrických a elektronických zariadení",
+   "ecCharger": "Európska komisia: spoločná nabíjačka",
+   "ecDataAct": "Európska komisia: Akt o údajoch"
+  },
+  "types": {
+   "battery": "Batérie",
+   "weee": "Elektrozariadenia",
+   "both": "Batérie a elektrozariadenia",
+   "retail": "Pre predajcov"
+  },
+  "yourCountries": "Vaše krajiny doručenia",
+  "otherCountries": "Ďalšie krajiny",
+  "countryNames": {
+   "AT": "Rakúsko",
+   "BE": "Belgicko",
+   "BG": "Bulharsko",
+   "CY": "Cyprus",
+   "CZ": "Česko",
+   "DE": "Nemecko",
+   "DK": "Dánsko",
+   "EE": "Estónsko",
+   "ES": "Španielsko",
+   "FI": "Fínsko",
+   "FR": "Francúzsko",
+   "GR": "Grécko",
+   "HR": "Chorvátsko",
+   "HU": "Maďarsko",
+   "IE": "Írsko",
+   "IT": "Taliansko",
+   "LT": "Litva",
+   "LU": "Luxembursko",
+   "LV": "Lotyšsko",
+   "MT": "Malta",
+   "NL": "Holandsko",
+   "PL": "Poľsko",
+   "PT": "Portugalsko",
+   "RO": "Rumunsko",
+   "SE": "Švédsko",
+   "SI": "Slovinsko",
+   "SK": "Slovensko",
+   "IS": "Island",
+   "LI": "Lichtenštajnsko",
+   "NO": "Nórsko"
+  }
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht pour Shopify – mentions obligatoires pour piles, équipements électriques et chargeurs",
+ "metaDescription": "Application Shopify pour les mentions obligatoires de l’UE concernant les piles, les équipements électriques et les chargeurs : page produit, page de remerciement et e‑mail de commande, 26 langues, recherche par IA. Bientôt sur le Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – documentation et sources officielles",
+ "docsMetaDescription": "Comment configurer ElektroPflicht : obligations, configuration, produits, IA, pays et numéros d’enregistrement, avec des liens vers le droit de l’UE et les autorités de 30 pays.",
+ "badge": "Bientôt sur le Shopify App Store",
+ "title": "Mentions obligatoires pour piles et équipements électriques, directement dans votre boutique",
+ "subtitle": "ElektroPflicht affiche l’avertissement batteries, le symbole de reprise et le pictogramme du chargeur sur chaque produit concerné, après l’achat aussi, en 26 langues.",
+ "ctaDocs": "Lire la documentation",
+ "ctaContact": "Demander un accès anticipé",
+ "featuresTitle": "Ce que fait l’application",
+ "whyTitle": "Pourquoi c’est important",
+ "langsTitle": "En 26 langues",
+ "langsText": "L’application, les textes dans votre boutique et cette page existent dans toutes les langues officielles de l’UE, ainsi qu’en norvégien et en islandais.",
+ "upcomingNote": "ElektroPflicht est en phase finale de test et sera bientôt disponible sur le Shopify App Store.",
+ "byCronema": "Une application de Cronema",
+ "docsLink": "Documentation",
+ "backToApp": "Retour à ElektroPflicht",
+ "language": "Langue",
+ "imageAlt": "Capture d’écran de l’application ElektroPflicht",
+ "facts": [
+  "26 langues",
+  "30 pays",
+  "Gratuit jusqu’à 20 produits"
+ ],
+ "why": [
+  {
+   "title": "Exigé par la loi",
+   "text": "Si vous vendez des piles ou des équipements électriques dans l’UE, vous devez informer sur la reprise et l’élimination. L’absence de mentions peut entraîner des mises en demeure et des amendes."
+  },
+  {
+   "title": "Chaque pays a ses règles",
+   "text": "Numéros d’enregistrement, langues et modalités de retour varient selon le pays. L’application connaît les règles de 30 pays."
+  },
+  {
+   "title": "L’IA fait la recherche pour vous",
+   "text": "L’IA recherche le type de pile, la catégorie et les détails du chargeur avec leurs sources. Vous vérifiez et confirmez, l’application renseigne."
+  }
+ ],
+ "tagline": "Mentions obligatoires pour piles, équipements électriques et chargeurs – en 26 langues",
+ "features": [
+  {
+   "title": "Les mentions obligatoires dans votre boutique",
+   "text": "Mention piles, symbole de reprise et pictogramme du chargeur apparaissent automatiquement sur la page produit.",
+   "image": "/elektropflicht/fr/01-shop.webp"
+  },
+  {
+   "title": "Tout en un coup d'œil",
+   "text": "Combien de produits ont leurs mentions – et lesquels vous devez encore vérifier.",
+   "image": "/elektropflicht/fr/02-dashboard.webp"
+  },
+  {
+   "title": "L'IA fait la recherche",
+   "text": "Type de batterie, chimie, catégorie et chargeur, avec sources. Vous vérifiez et confirmez.",
+   "image": "/elektropflicht/fr/03-editor.webp"
+  },
+  {
+   "title": "Prête en quelques minutes",
+   "text": "La configuration guidée valide chaque étape d'elle-même.",
+   "image": "/elektropflicht/fr/04-setup.webp"
+  },
+  {
+   "title": "Aussi après l'achat",
+   "text": "Mention de reprise sur la page de remerciement, le suivi de commande et l'e-mail de commande.",
+   "image": "/elektropflicht/fr/05-order.webp"
+  },
+  {
+   "title": "30 pays, 26 langues",
+   "text": "État par domaine – avec un avertissement si la langue d'un pays de livraison manque.",
+   "image": "/elektropflicht/fr/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Aide et sources",
+  "intro": "Vous découvrez ici quelles obligations l’app couvre, comment la configurer et où lire les règles officielles.",
+  "disclaimer": "Cette page explique l’app et renvoie vers des pages publiques de l’UE et des autorités compétentes. Ce n’est pas un conseil juridique. Nous ne sommes liés à aucun de ces organismes. Seuls les textes juridiques et les informations des autorités font foi.",
+  "contents": "Contenu",
+  "faqHeading": "Questions fréquentes",
+  "sourcesHeading": "Sources officielles",
+  "euHeading": "Droit de l’UE et Commission européenne",
+  "euIntro": "Les textes juridiques s’ouvrent sur EUR-Lex dans votre langue. Les pages de la Commission européenne sont le plus souvent uniquement en anglais.",
+  "inEnglish": "en anglais",
+  "countriesHeading": "Autorités et registres par pays",
+  "countriesIntro": "Les pages officielles des autorités compétentes et des registres. Les titres sont dans la langue de chaque page.",
+  "englishVersion": "Version anglaise",
+  "noOfficial": "Nous n’avons pas encore trouvé de page officielle sur ces obligations. En cas de doute, contactez l’autorité environnementale compétente.",
+  "liNote": "Pour les équipements électriques et électroniques, le Liechtenstein applique largement les règles suisses via le traité douanier. Le contact est l’Amt für Umweltschutz (Office de la protection de l’environnement).",
+  "lvNote": "En Lettonie, le registre des producteurs d’équipements électriques et de batteries est tenu par l’association LETERA pour le compte du ministère.",
+  "contactHeading": "Des questions ?",
+  "contactText": "Écrivez-nous à support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Quelles obligations l’app couvre",
+    "body": [
+     "Piles et batteries (Règlement (UE) 2023/1542, en Allemagne aussi le BattDG) : si vous vendez des batteries ou des appareils avec batteries, vous devez informer sur la reprise gratuite, la poubelle barrée et les dangers liés à la batterie. Les fabricants et importateurs doivent aussi s’enregistrer.",
+     "Équipements électriques (Directive 2012/19/UE relative aux déchets d’équipements électriques et électroniques) : les clients doivent savoir comment rapporter les anciens appareils. Si vous avez une obligation de reprise, vous affichez le symbole de reprise.",
+     "Pictogramme du chargeur (Directive (UE) 2022/2380) : pour les téléphones, casques, ordinateurs portables et autres appareils chargés par câble, le prix doit indiquer si un chargeur est inclus et quelle puissance de charge l’appareil requiert.",
+     "Data Act (Règlement (UE) 2023/2854) : avant d’acheter des appareils connectés, les clients doivent savoir quelles données l’appareil génère et comment y accéder. Le fabricant fournit ces informations."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Configuration étape par étape",
+    "body": [
+     "La Configuration vous guide à chaque étape et coche automatiquement ce qui est fait. Vous la trouvez dans le menu sous Configuration.",
+     "Vous répondez d’abord à quelques questions : ce que vous vendez, si vous êtes détaillant ou fabricant, et vers quels pays vous expédiez. L’app active ensuite les domaines dont vous avez besoin.",
+     "Sous Reprise et pays, vous indiquez l’adresse de reprise, les modes de retour et, si nécessaire, vos numéros d’enregistrement.",
+     "Ensuite, vous ajoutez le bloc de l’app à la page produit de votre thème, vous créez la Page d’élimination et vous activez l’avis sur la page de remerciement et la page d’état de la commande."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Affecter les produits",
+    "body": [
+     "Sous Produits, vous affectez chaque produit aux domaines correspondants : Piles et batteries, Équipements électriques, Pictogramme du chargeur et Data Act. Seuls les produits affectés affichent les avis.",
+     "Vous pouvez modifier les produits un par un ou en masse, filtrés par collection, type de produit ou étiquette. L’app propose des produits dont les textes mentionnent des accumulateurs, des batteries, des câbles de charge ou des fonctions connectées.",
+     "Avec de nombreux produits, l’import CSV dans l’offre Business vous aide."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Suggestions IA et vérification IA en lot",
+    "body": [
+     "Dans l’éditeur de produit, l’IA recherche sur le web en un clic : type de batterie, chimie, catégorie d’équipement électrique et détails du chargeur, chacun avec sources. Pour cela, le titre, le fournisseur, la description, la SKU et le code-barres sont envoyés à OpenAI, aucune donnée client.",
+     "Avec la vérification IA en lot (Pro et Business), vous envoyez jusqu’à 10 produits sélectionnés à l’IA en une fois. Les suggestions apparaissent dans la liste des produits.",
+     "L’IA peut se tromper, surtout si elle ne trouve pas de données du fabricant. C’est pourquoi l’app n’applique une suggestion qu’après votre vérification et votre confirmation."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Pays, numéros d’enregistrement et langues",
+    "body": [
+     "Chaque pays de livraison a ses propres règles. Dans certains pays, les numéros d’enregistrement doivent figurer dans la boutique ou sur les factures, par exemple en France, en Espagne, en Italie ou en Pologne.",
+     "Les clients à l’étranger ont besoin des avis dans leur langue. État vous montre quelle langue de vos pays de livraison manque dans votre boutique.",
+     "Le suivi des pays (Pro et Business) compare les pays de livraison de vos paramètres d’expédition Shopify avec votre configuration et signale les nouveaux pays.",
+     "En bas de cette page, vous trouvez pour chaque pays les autorités compétentes et les registres."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Après l’achat : page de remerciement et e-mail de commande",
+    "body": [
+     "L’avis de reprise apparaît aussi sur la page de remerciement et la page d’état de la commande. Pour cela, ajoutez-y le bloc de l’app.",
+     "Pour la confirmation de commande et le bon de livraison, l’app vous fournit un code à coller. En un clic, elle l’écrit aussi dans toutes les versions linguistiques du modèle."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Forfaits et fonctions supplémentaires",
+    "body": [
+     "Free inclut tous les domaines jusqu’à 20 produits. Basic, Pro et Business n’ont pas de limite de produits et diffèrent par leurs fonctions supplémentaires.",
+     "Les suggestions IA sont incluses à partir de Basic, la vérification IA en lot et le suivi des pays à partir de Pro. L’e-mail hebdomadaire avec les points ouverts et l’import CSV font partie de Business.",
+     "Vous pouvez essayer chaque forfait payant gratuitement pendant 7 jours. La facturation passe par votre facture Shopify."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Votre responsabilité",
+    "body": [
+     "L’app fournit des textes modèles, des avis et des suggestions. Ce n’est pas un conseil juridique et cela ne le remplace pas.",
+     "Les obligations qui s’appliquent à vous dépendent de votre activité. Vérifiez les détails et, en cas de doute, demandez à l’autorité compétente ou à un conseil juridique."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Je suis seulement détaillant. Dois-je m’enregistrer ?",
+    "a": "En général non. Les fabricants et les importateurs doivent s’enregistrer. Cependant, si vous importez vous-même des marchandises de l’étranger ou vendez sous votre propre nom, vous êtes souvent considéré comme fabricant. La Configuration vous le demande et vous indique ce qui s’applique à vous."
+   },
+   {
+    "q": "Pourquoi je ne vois pas les avis sur ma page produit ?",
+    "a": "Vérifiez deux choses : le produit doit être affecté à un domaine, et le bloc de l’app doit se trouver sur la page produit dans votre thème. État affiche les deux."
+   },
+   {
+    "q": "Que devient mes données lors de la recherche par l’IA ?",
+    "a": "Seules des données produit sont envoyées à OpenAI : titre, fournisseur, description, SKU et code-barres. Aucune donnée client ni de commande n’est transmise."
+   },
+   {
+    "q": "Puis-je modifier les textes ?",
+    "a": "Oui. Sous Textes, vous adaptez chaque texte visible par vos clients. Les champs vides reviennent au texte modèle."
+   },
+   {
+    "q": "Que s’applique en Suisse et au Royaume-Uni ?",
+    "a": "Ils ont leurs propres règles en dehors du droit de l’UE. L’app affiche un avis quand vous y livrez. Les textes modèles sont rédigés pour l’UE et l’EEE."
+   },
+   {
+    "q": "Comment résilier un forfait ?",
+    "a": "Sous Forfait, vous pouvez passer à Free à tout moment. Shopify vous crédite le temps non utilisé."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Règlement (UE) 2023/1542 relatif aux batteries et aux déchets de batteries",
+   "weeeDirective": "Directive 2012/19/UE relative aux déchets d’équipements électriques et électroniques (DEEE)",
+   "chargerDirective": "Directive (UE) 2022/2380 sur le chargeur universel",
+   "dataAct": "Data Act, règlement (UE) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Commission européenne : batteries",
+   "ecWeee": "Commission européenne : déchets d’équipements électriques et électroniques",
+   "ecCharger": "Commission européenne : chargeur universel",
+   "ecDataAct": "Commission européenne : Data Act"
+  },
+  "types": {
+   "battery": "Piles et batteries",
+   "weee": "Équipements électriques",
+   "both": "Piles et batteries et équipements électriques",
+   "retail": "Pour les détaillants"
+  },
+  "yourCountries": "Vos pays de livraison",
+  "otherCountries": "Autres pays",
+  "countryNames": {
+   "AT": "Autriche",
+   "BE": "Belgique",
+   "BG": "Bulgarie",
+   "CY": "Chypre",
+   "CZ": "Tchéquie",
+   "DE": "Allemagne",
+   "DK": "Danemark",
+   "EE": "Estonie",
+   "ES": "Espagne",
+   "FI": "Finlande",
+   "FR": "France",
+   "GR": "Grèce",
+   "HR": "Croatie",
+   "HU": "Hongrie",
+   "IE": "Irlande",
+   "IT": "Italie",
+   "LT": "Lituanie",
+   "LU": "Luxembourg",
+   "LV": "Lettonie",
+   "MT": "Malte",
+   "NL": "Pays-Bas",
+   "PL": "Pologne",
+   "PT": "Portugal",
+   "RO": "Roumanie",
+   "SE": "Suède",
+   "SI": "Slovénie",
+   "SK": "Slovaquie",
+   "IS": "Islande",
+   "LI": "Liechtenstein",
+   "NO": "Norvège"
+  }
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht para Shopify – avisos obrigatórios para baterias, equipamentos elétricos e carregadores",
+ "metaDescription": "App Shopify para os avisos obrigatórios da UE sobre baterias, equipamentos elétricos e carregadores: página de produto, página de agradecimento e email de encomenda, 26 línguas, pesquisa por IA. Em breve na Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – documentação e fontes oficiais",
+ "docsMetaDescription": "Como configurar a ElektroPflicht: obrigações, configuração, produtos, IA, países e números de registo, com ligações ao Direito da UE e às autoridades em 30 países.",
+ "badge": "Em breve na Shopify App Store",
+ "title": "Avisos obrigatórios para baterias e equipamentos elétricos, diretamente na tua loja",
+ "subtitle": "A ElektroPflicht mostra o aviso sobre baterias, o símbolo de retoma e o pictograma do carregador em cada produto relevante, também depois da compra, e em 26 línguas.",
+ "ctaDocs": "Ler a documentação",
+ "ctaContact": "Pedir acesso antecipado",
+ "featuresTitle": "O que a app faz",
+ "whyTitle": "Porque é importante",
+ "langsTitle": "Em 26 línguas",
+ "langsText": "A app, os textos na tua loja e esta página estão disponíveis em todas as línguas oficiais da UE, além de norueguês e islandês.",
+ "upcomingNote": "A ElektroPflicht está na fase final de testes e ficará disponível em breve na Shopify App Store.",
+ "byCronema": "Uma app da Cronema",
+ "docsLink": "Documentação",
+ "backToApp": "Voltar à ElektroPflicht",
+ "language": "Idioma",
+ "imageAlt": "Captura de ecrã da app ElektroPflicht",
+ "facts": [
+  "26 línguas",
+  "30 países",
+  "Grátis até 20 produtos"
+ ],
+ "why": [
+  {
+   "title": "Exigido por lei",
+   "text": "Se vendes baterias ou equipamentos elétricos na UE, tens de informar sobre a retoma e a eliminação. A falta de avisos pode trazer advertências e coimas."
+  },
+  {
+   "title": "Cada país tem regras próprias",
+   "text": "Números de registo, línguas e formas de retoma variam de país para país. A app conhece as regras de 30 países."
+  },
+  {
+   "title": "A IA trata da pesquisa por ti",
+   "text": "A IA pesquisa o tipo de bateria, a categoria e os detalhes do carregador, com fontes. Tu verificas e confirmas; a app preenche."
+  }
+ ],
+ "tagline": "Indicações obrigatórias para baterias, equipamentos elétricos e carregadores – em 26 idiomas",
+ "features": [
+  {
+   "title": "Indicações obrigatórias diretamente na loja",
+   "text": "O aviso de baterias, o símbolo de retoma e o pictograma do carregador aparecem automaticamente na página do produto.",
+   "image": "/elektropflicht/pt/01-shop.webp"
+  },
+  {
+   "title": "Tudo num relance",
+   "text": "Quantos produtos têm as indicações – e quais ainda deves verificar.",
+   "image": "/elektropflicht/pt/02-dashboard.webp"
+  },
+  {
+   "title": "A IA pesquisa por ti",
+   "text": "Tipo de bateria, química, categoria e carregador, com fontes. Tu verificas e confirmas.",
+   "image": "/elektropflicht/pt/03-editor.webp"
+  },
+  {
+   "title": "Pronta em minutos",
+   "text": "A configuração guiada marca cada passo sozinha.",
+   "image": "/elektropflicht/pt/04-setup.webp"
+  },
+  {
+   "title": "Também depois da compra",
+   "text": "Aviso de retoma na página de agradecimento, no estado da encomenda e no e-mail.",
+   "image": "/elektropflicht/pt/05-order.webp"
+  },
+  {
+   "title": "30 países, 26 idiomas",
+   "text": "Estado por área – com aviso quando falta o idioma de um país de envio.",
+   "image": "/elektropflicht/pt/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Ajuda & fontes",
+  "intro": "Aqui ficas a saber que obrigações a app cobre, como a configuras e onde ler as regras oficiais.",
+  "disclaimer": "Esta página explica a app e liga a páginas públicas da UE e das autoridades competentes. Não é aconselhamento jurídico. Não temos ligação a estes organismos. O que conta são os textos legais e as informações das autoridades.",
+  "contents": "Conteúdo",
+  "faqHeading": "Perguntas frequentes",
+  "sourcesHeading": "Fontes oficiais",
+  "euHeading": "Direito da UE e Comissão Europeia",
+  "euIntro": "Os textos legais abrem no EUR-Lex na tua língua. As páginas da Comissão Europeia estão na maioria apenas em inglês.",
+  "inEnglish": "em inglês",
+  "countriesHeading": "Autoridades e registos por país",
+  "countriesIntro": "As páginas oficiais das autoridades e registos competentes. Os títulos estão na língua de cada página.",
+  "englishVersion": "Versão em inglês",
+  "noOfficial": "Ainda não encontrámos uma página oficial sobre estas obrigações. Em caso de dúvida, pergunta à autoridade ambiental competente.",
+  "liNote": "Para equipamentos elétricos e eletrónicos, o Liechtenstein aplica em grande medida as regras suíças através do tratado aduaneiro. O contacto é o Amt für Umweltschutz (Gabinete para a Proteção do Ambiente).",
+  "lvNote": "Na Letónia, o registo de produtores de equipamentos elétricos e baterias é mantido pela associação LETERA em nome do ministério.",
+  "contactHeading": "Tens perguntas?",
+  "contactText": "Escreve para support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Que obrigações a app cobre",
+    "body": [
+     "Baterias (Regulamento das Baterias da UE, na Alemanha também o BattDG): se vendes baterias ou aparelhos com baterias, tens de informar sobre a retoma gratuita, o caixote do lixo riscado e os perigos da bateria. Produtores e importadores também têm de se registar.",
+     "Equipamentos elétricos (Diretiva WEEE, na Alemanha o ElektroG): os clientes têm de saber como devolver equipamentos usados. Se tens obrigação de retoma, mostras o símbolo de retoma.",
+     "Pictograma do carregador (Diretiva 2022/2380): para telemóveis, auscultadores, portáteis e outros aparelhos carregados por cabo, junto ao preço deve indicar se o carregador vem incluído e qual a potência de carregamento de que o aparelho precisa.",
+     "Data Act (Regulamento 2023/2854): antes de comprar dispositivos conectados, os clientes devem saber que dados o aparelho gera e como lhes aceder. A informação vem do fabricante."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Configuração passo a passo",
+    "body": [
+     "A Configuração guia-te por todos os passos e assinala sozinha o que já está feito. Encontras isto no menu em Configuração.",
+     "Primeiro respondes a algumas perguntas: o que vendes, se és retalhista ou produtor e para que países envias. A partir disso, a app ativa as áreas de que precisas.",
+     "Em Retoma e países colocas o endereço de retoma, as formas de devolução e, se for preciso, os teus números de registo.",
+     "Depois adicionas o bloco da app à página de produto do teu tema, crias a Página de eliminação e ativas o aviso na página de agradecimento e na página do estado da encomenda."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Atribuir produtos",
+    "body": [
+     "Em Produtos atribuis cada produto às áreas certas: Baterias, Equipamentos elétricos, Pictograma do carregador e Data Act. Só os produtos atribuídos mostram os avisos.",
+     "Podes editar produtos um a um ou muitos de uma vez, filtrados por coleção, tipo de produto ou tag. A app sugere produtos cujos textos mencionam baterias recarregáveis, pilhas, cabos de carregamento ou funções conectadas.",
+     "Com muitos produtos, ajuda a importação por CSV no plano Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Sugestões da IA e verificação em lote da IA",
+    "body": [
+     "No editor de produtos, a IA pesquisa na web com um clique: tipo de bateria, química, categoria do equipamento elétrico e dados do carregador, sempre com fontes. Para isso, o título, fornecedor, descrição, SKU e código de barras vão para a OpenAI, sem dados de clientes.",
+     "Com a verificação em lote da IA (Pro e Business) envias até 10 produtos selecionados de uma vez para a IA. As sugestões aparecem na lista de produtos.",
+     "A IA pode falhar, sobretudo quando não encontra dados do fabricante. Por isso a app só assume uma sugestão depois de a conferires e confirmares."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Países, números de registo e línguas",
+    "body": [
+     "Cada país de entrega tem regras próprias. Em alguns países os números de registo têm de aparecer na loja ou nas faturas, por exemplo em França, Espanha, Itália ou Polónia.",
+     "Clientes no estrangeiro precisam dos avisos na sua língua. Estado mostra-te que língua dos teus países de entrega falta na loja.",
+     "O vigilante de países (Pro e Business) compara os países de entrega nas tuas definições de envio da Shopify com a tua configuração e avisa de países novos.",
+     "No fim desta página encontras, para cada país, as autoridades competentes e os registos."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Depois da compra: página de agradecimento e e-mail da encomenda",
+    "body": [
+     "O aviso de retoma também aparece na página de agradecimento e na página do estado da encomenda. Para isso adicionas lá o bloco da app.",
+     "Para a confirmação da encomenda e a guia de remessa, a app dá-te um código para colar. Com um clique também o escreve em todas as versões de língua do modelo."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Planos e extras",
+    "body": [
+     "O Free inclui todas as áreas até 20 produtos. Basic, Pro e Business não têm limite de produtos e diferem nas funcionalidades extra.",
+     "As sugestões da IA vêm com o Basic e superiores, a verificação em lote da IA e o vigilante de países com o Pro e superiores. O e-mail semanal com pontos em aberto e a importação por CSV pertencem ao Business.",
+     "Podes testar qualquer plano pago grátis por 7 dias. A faturação é feita na tua fatura da Shopify."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "A tua responsabilidade",
+    "body": [
+     "A app fornece textos de exemplo, avisos e sugestões. Não é aconselhamento jurídico nem o substitui.",
+     "Se e quais obrigações se aplicam a ti depende do teu negócio. Confere os detalhes e, em caso de dúvida, pergunta à autoridade competente ou a um jurista."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Sou só retalhista. Preciso de me registar?",
+    "a": "Normalmente não. Quem tem de se registar são produtores e importadores. Mas se importas mercadoria do estrangeiro por conta própria ou vendes com a tua própria marca, muitas vezes contas como produtor. A Configuração pergunta isso e mostra-te o que se aplica a ti."
+   },
+   {
+    "q": "Porque é que não vejo os avisos na minha página de produto?",
+    "a": "Vê duas coisas: o produto tem de estar atribuído a uma área e o bloco da app tem de estar na página de produto do teu tema. Estado mostra ambos."
+   },
+   {
+    "q": "O que acontece aos meus dados durante a pesquisa da IA?",
+    "a": "Só vão dados do produto para a OpenAI: título, fornecedor, descrição, SKU e código de barras. Não são enviados dados de clientes nem de encomendas."
+   },
+   {
+    "q": "Posso alterar os textos?",
+    "a": "Sim. Em Textos ajustas cada texto que os teus clientes veem. Campos vazios voltam ao texto de exemplo."
+   },
+   {
+    "q": "O que se aplica na Suíça e no Reino Unido?",
+    "a": "Têm regras próprias fora do direito da UE. A app mostra um aviso quando envias para lá. Os textos de exemplo são escritos para a UE e o EEE."
+   },
+   {
+    "q": "Como cancelo um plano?",
+    "a": "Em Plano podes mudar para Free a qualquer momento. A Shopify credita-te o tempo não usado."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Regulamento (UE) 2023/1542 relativo às pilhas e baterias e aos respetivos resíduos",
+   "weeeDirective": "Diretiva 2012/19/UE relativa aos resíduos de equipamentos elétricos e eletrónicos (REEE)",
+   "chargerDirective": "Diretiva (UE) 2022/2380 sobre o carregador comum",
+   "dataAct": "Data Act, Regulamento (UE) 2023/2854 relativo a regras harmonizadas sobre o acesso a dados e a sua utilização"
+  },
+  "ec": {
+   "ecBatteries": "Comissão Europeia: baterias",
+   "ecWeee": "Comissão Europeia: resíduos de equipamentos elétricos e eletrónicos",
+   "ecCharger": "Comissão Europeia: carregador comum",
+   "ecDataAct": "Comissão Europeia: Data Act"
+  },
+  "types": {
+   "battery": "Baterias",
+   "weee": "Equipamentos elétricos",
+   "both": "Baterias e equipamentos elétricos",
+   "retail": "Para retalhistas"
+  },
+  "yourCountries": "Os teus países de entrega",
+  "otherCountries": "Outros países",
+  "countryNames": {
+   "AT": "Áustria",
+   "BE": "Bélgica",
+   "BG": "Bulgária",
+   "CY": "Chipre",
+   "CZ": "Tchéquia",
+   "DE": "Alemanha",
+   "DK": "Dinamarca",
+   "EE": "Estônia",
+   "ES": "Espanha",
+   "FI": "Finlândia",
+   "FR": "França",
+   "GR": "Grécia",
+   "HR": "Croácia",
+   "HU": "Hungria",
+   "IE": "Irlanda",
+   "IT": "Itália",
+   "LT": "Lituânia",
+   "LU": "Luxemburgo",
+   "LV": "Letônia",
+   "MT": "Malta",
+   "NL": "Países Baixos",
+   "PL": "Polônia",
+   "PT": "Portugal",
+   "RO": "Romênia",
+   "SE": "Suécia",
+   "SI": "Eslovênia",
+   "SK": "Eslováquia",
+   "IS": "Islândia",
+   "LI": "Liechtenstein",
+   "NO": "Noruega"
+  }
+ }
+}

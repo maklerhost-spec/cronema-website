@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht für Shopify – Pflichtangaben für Batterien, Elektrogeräte und Ladegeräte",
+ "metaDescription": "Shopify-App für die EU-Pflichtangaben zu Batterien, Elektrogeräten und Ladegeräten: Produktseite, Danke-Seite und Bestell-E-Mail, 26 Sprachen, KI-Recherche. Bald im Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – Dokumentation und offizielle Quellen",
+ "docsMetaDescription": "So richtest du ElektroPflicht ein: Pflichten, Einrichtung, Produkte, KI, Länder und Registriernummern, mit Links zu EU-Recht und Behörden in 30 Ländern.",
+ "badge": "Bald im Shopify App Store",
+ "title": "Pflichtangaben für Batterien und Elektrogeräte, direkt im Shop",
+ "subtitle": "ElektroPflicht zeigt den Batterie-Hinweis, das Rücknahme-Symbol und das Ladegerät-Piktogramm auf jedem passenden Produkt, auch nach dem Kauf und in 26 Sprachen.",
+ "ctaDocs": "Dokumentation lesen",
+ "ctaContact": "Früher Zugang anfragen",
+ "facts": [
+  "26 Sprachen",
+  "30 Länder",
+  "Kostenlos bis 20 Produkte"
+ ],
+ "featuresTitle": "Was die App macht",
+ "whyTitle": "Warum das wichtig ist",
+ "why": [
+  {
+   "title": "Gesetzlich vorgeschrieben",
+   "text": "Wer Batterien oder Elektrogeräte in der EU verkauft, muss über Rücknahme und Entsorgung informieren. Fehlende Angaben können abgemahnt werden."
+  },
+  {
+   "title": "Jedes Land hat eigene Regeln",
+   "text": "Registriernummern, Sprachen und Rückgabewege unterscheiden sich von Land zu Land. Die App kennt die Regeln für 30 Länder."
+  },
+  {
+   "title": "Die KI nimmt dir die Recherche ab",
+   "text": "Batterieart, Kategorie und Ladegerät recherchiert die KI mit Quellen. Du prüfst und bestätigst, die App trägt ein."
+  }
+ ],
+ "langsTitle": "In 26 Sprachen",
+ "langsText": "Die App, die Texte im Shop und diese Seite gibt es in allen Amtssprachen der EU sowie auf Norwegisch und Isländisch.",
+ "upcomingNote": "ElektroPflicht ist in der letzten Testphase und erscheint in Kürze im Shopify App Store.",
+ "byCronema": "Eine App von Cronema",
+ "docsLink": "Dokumentation",
+ "backToApp": "Zurück zu ElektroPflicht",
+ "language": "Sprache",
+ "imageAlt": "Screenshot der App ElektroPflicht",
+ "tagline": "Pflichtangaben für Batterien, Elektrogeräte und Ladegeräte – in 26 Sprachen",
+ "features": [
+  {
+   "title": "Pflichtangaben direkt im Shop",
+   "text": "Batterie-Hinweis, Rücknahme-Symbol und Ladegerät-Piktogramm erscheinen automatisch auf der Produktseite.",
+   "image": "/elektropflicht/de/01-shop.webp"
+  },
+  {
+   "title": "Alles auf einen Blick",
+   "text": "Wie viele Produkte Angaben haben – und welche du noch prüfen solltest.",
+   "image": "/elektropflicht/de/02-dashboard.webp"
+  },
+  {
+   "title": "KI recherchiert für dich",
+   "text": "Batterieart, Chemie, Kategorie und Ladegerät mit Quellen. Du prüfst und bestätigst.",
+   "image": "/elektropflicht/de/03-editor.webp"
+  },
+  {
+   "title": "In wenigen Minuten eingerichtet",
+   "text": "Die geführte Einrichtung hakt jeden Schritt selbst ab.",
+   "image": "/elektropflicht/de/04-setup.webp"
+  },
+  {
+   "title": "Auch nach dem Kauf",
+   "text": "Rücknahmehinweis auf der Danke-Seite, im Bestellstatus und in der Bestell-E-Mail.",
+   "image": "/elektropflicht/de/05-order.webp"
+  },
+  {
+   "title": "30 Länder, 26 Sprachen",
+   "text": "Status je Bereich – mit Hinweis, wenn die Sprache eines Lieferlands fehlt.",
+   "image": "/elektropflicht/de/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Hilfe & Quellen",
+  "intro": "Hier erfährst du, welche Pflichten die App abdeckt, wie du sie einrichtest und wo du die offiziellen Regeln nachlesen kannst.",
+  "disclaimer": "Diese Seite erklärt die App und verweist auf öffentliche Seiten der EU und der zuständigen Behörden. Sie ist keine Rechtsberatung. Wir sind mit diesen Stellen nicht verbunden. Maßgeblich sind die Rechtstexte und die Auskünfte der Behörden.",
+  "contents": "Inhalt",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Welche Pflichten die App abdeckt",
+    "body": [
+     "Batterien (EU-Batterieverordnung, in Deutschland zusätzlich das BattDG): Wer Batterien oder Geräte mit Batterien verkauft, muss über die kostenlose Rücknahme, die durchgestrichene Mülltonne und die Gefahren der Batterie informieren. Hersteller und Importeure brauchen außerdem eine Registrierung.",
+     "Elektrogeräte (WEEE-Richtlinie, in Deutschland das ElektroG): Kunden müssen erfahren, wie sie Altgeräte zurückgeben können. Wer zur Rücknahme verpflichtet ist, zeigt das Symbol für die Rücknahme.",
+     "Ladegerät-Piktogramm (Richtlinie 2022/2380): Bei Handys, Kopfhörern, Laptops und anderen Geräten mit Kabelladung muss neben dem Preis stehen, ob ein Ladegerät dabei ist und welche Ladeleistung das Gerät braucht.",
+     "Data Act (Verordnung 2023/2854): Vor dem Kauf vernetzter Geräte müssen Kunden erfahren, welche Daten das Gerät erzeugt und wie sie darauf zugreifen. Die Angaben dazu kommen vom Hersteller."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Einrichtung Schritt für Schritt",
+    "body": [
+     "Die Einrichtung führt dich durch alle Schritte und hakt erledigte Punkte selbst ab. Du findest sie im Menü unter Einrichtung.",
+     "Zuerst beantwortest du ein paar Fragen: was du verkaufst, ob du Händler oder Hersteller bist und in welche Länder du lieferst. Daraus schaltet die App die passenden Bereiche ein.",
+     "Unter Rücknahme & Länder trägst du die Rücknahmeadresse, die Rückgabewege und, falls nötig, deine Registriernummern ein.",
+     "Danach fügst du den Block der App in die Produktseite deines Themes ein, legst die Entsorgungsseite an und aktivierst den Hinweis auf der Danke-Seite und der Bestellstatus-Seite."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Produkte zuordnen",
+    "body": [
+     "Unter Produkte ordnest du jedes Produkt den passenden Bereichen zu: Batterien, Elektrogeräte, Ladegerät-Piktogramm und Data Act. Nur zugeordnete Produkte zeigen die Hinweise.",
+     "Du kannst einzelne Produkte bearbeiten oder viele auf einmal, gefiltert nach Kollektion, Produkttyp oder Tag. Die App schlägt Produkte vor, in deren Texten Akkus, Batterien, Ladekabel oder vernetzte Funktionen vorkommen.",
+     "Hast du viele Produkte, hilft der CSV-Import im Business-Tarif."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "KI-Vorschläge und KI-Sammelprüfung",
+    "body": [
+     "Im Produkt-Editor recherchiert die KI auf Knopfdruck im Internet: Batterieart, Chemie, Kategorie des Elektrogeräts und Angaben zum Ladegerät, jeweils mit Quellen. Dazu gehen Titel, Hersteller, Beschreibung, SKU und Barcode an OpenAI, keine Kundendaten.",
+     "Mit der KI-Sammelprüfung (Pro und Business) schickst du bis zu 10 markierte Produkte auf einmal zur KI. Die Vorschläge erscheinen in der Produktliste.",
+     "Die KI kann sich irren, vor allem wenn sie keine Herstellerangaben findet. Deshalb übernimmt die App einen Vorschlag erst, wenn du ihn geprüft und bestätigt hast."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Länder, Registriernummern und Sprachen",
+    "body": [
+     "Für jedes Lieferland gelten eigene Regeln. In manchen Ländern müssen Registriernummern im Shop oder auf Rechnungen stehen, etwa in Frankreich, Spanien, Italien oder Polen.",
+     "Kunden im Ausland brauchen die Hinweise in ihrer Sprache. Der Status zeigt dir, welche Sprache deines Lieferlands im Shop fehlt.",
+     "Der Länder-Wächter (Pro und Business) vergleicht die Lieferländer aus deinen Shopify-Versandeinstellungen mit deinen Angaben und meldet neue Länder.",
+     "Unten auf dieser Seite findest du für jedes Land die zuständigen Behörden und Register."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Nach dem Kauf: Danke-Seite und Bestell-E-Mail",
+    "body": [
+     "Der Rücknahmehinweis erscheint auch auf der Danke-Seite und der Bestellstatus-Seite. Dafür fügst du dort den Block der App ein.",
+     "Für die Bestellbestätigung und den Lieferschein gibt dir die App einen Code zum Einfügen. Mit einem Klick schreibt sie ihn auch in alle Sprachfassungen der Vorlage."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Tarife und Zusatzfunktionen",
+    "body": [
+     "Free enthält alle Bereiche für bis zu 20 Produkte. Basic, Pro und Business haben keine Produktgrenze und unterscheiden sich bei den Zusatzfunktionen.",
+     "KI-Vorschläge gibt es ab Basic, die KI-Sammelprüfung und den Länder-Wächter ab Pro. Die wöchentliche E-Mail mit offenen Punkten und der CSV-Import gehören zu Business.",
+     "Alle bezahlten Tarife kannst du 7 Tage kostenlos testen. Die Abrechnung läuft über deine Shopify-Rechnung."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Eigenverantwortung",
+    "body": [
+     "Die App liefert Mustertexte, Hinweise und Vorschläge. Sie ist keine Rechtsberatung und ersetzt keine.",
+     "Ob und welche Pflichten für dich gelten, hängt von deinem Geschäft ab. Prüfe die Angaben und frag im Zweifel die zuständige Behörde oder eine Rechtsberatung."
+    ]
+   }
+  ],
+  "faqHeading": "Häufige Fragen",
+  "faq": [
+   {
+    "q": "Ich bin nur Händler. Brauche ich eine Registrierung?",
+    "a": "Meist nicht. Registrieren müssen sich Hersteller und Importeure. Wer Ware aus dem Ausland selbst einführt oder unter eigenem Namen verkauft, gilt aber oft als Hersteller. Die Einrichtung fragt das ab und zeigt dir, was für dich gilt."
+   },
+   {
+    "q": "Warum sehe ich die Hinweise nicht auf meiner Produktseite?",
+    "a": "Prüfe zwei Dinge: Das Produkt muss einem Bereich zugeordnet sein, und der Block der App muss in deinem Theme auf der Produktseite stehen. Der Status zeigt beides."
+   },
+   {
+    "q": "Was passiert mit meinen Daten bei der KI-Recherche?",
+    "a": "Nur Produktdaten gehen an OpenAI: Titel, Hersteller, Beschreibung, SKU und Barcode. Kunden- und Bestelldaten werden nicht übermittelt."
+   },
+   {
+    "q": "Kann ich die Texte ändern?",
+    "a": "Ja. Unter Texte passt du jeden Text an, den deine Kunden sehen. Leere Felder kehren zum Mustertext zurück."
+   },
+   {
+    "q": "Was gilt in der Schweiz und im Vereinigten Königreich?",
+    "a": "Dort gelten eigene Regeln außerhalb des EU-Rechts. Die App zeigt einen Hinweis, wenn du dorthin lieferst. Die Mustertexte sind für die EU und den EWR geschrieben."
+   },
+   {
+    "q": "Wie kündige ich einen Tarif?",
+    "a": "Unter Tarif wechselst du jederzeit zu Free. Shopify schreibt dir die ungenutzte Zeit gut."
+   }
+  ],
+  "sourcesHeading": "Offizielle Quellen",
+  "euHeading": "EU-Recht und EU-Kommission",
+  "euIntro": "Die Rechtstexte öffnen sich auf EUR-Lex in deiner Sprache. Die Seiten der EU-Kommission gibt es meist nur auf Englisch.",
+  "law": {
+   "batteryRegulation": "Batterieverordnung (EU) 2023/1542",
+   "weeeDirective": "WEEE-Richtlinie 2012/19/EU über Elektro- und Elektronik-Altgeräte",
+   "chargerDirective": "Richtlinie (EU) 2022/2380 zum einheitlichen Ladegerät",
+   "dataAct": "Data Act, Verordnung (EU) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "EU-Kommission: Batterien",
+   "ecWeee": "EU-Kommission: Elektro- und Elektronik-Altgeräte",
+   "ecCharger": "EU-Kommission: Einheitliches Ladegerät",
+   "ecDataAct": "EU-Kommission: Data Act"
+  },
+  "inEnglish": "auf Englisch",
+  "countriesHeading": "Behörden und Register je Land",
+  "countriesIntro": "Die offiziellen Seiten der zuständigen Behörden und Register. Die Titel stehen in der Sprache der jeweiligen Seite.",
+  "types": {
+   "battery": "Batterien",
+   "weee": "Elektrogeräte",
+   "both": "Batterien und Elektrogeräte",
+   "retail": "Für Händler"
+  },
+  "englishVersion": "Englische Fassung",
+  "noOfficial": "Wir haben noch keine offizielle Seite zu diesen Pflichten gefunden. Frag im Zweifel die zuständige Umweltbehörde.",
+  "liNote": "Liechtenstein wendet für Elektro- und Elektronikgeräte über den Zollvertrag weitgehend die Schweizer Regeln an. Ansprechpartner ist das Amt für Umweltschutz.",
+  "lvNote": "Das Register für Hersteller von Elektrogeräten und Batterien führt in Lettland der Verband LETERA im Auftrag des Ministeriums.",
+  "contactHeading": "Noch Fragen?",
+  "contactText": "Schreib uns an support@cronema.com.",
+  "yourCountries": "Deine Lieferländer",
+  "otherCountries": "Weitere Länder",
+  "countryNames": {
+   "AT": "Österreich",
+   "BE": "Belgien",
+   "BG": "Bulgarien",
+   "CY": "Zypern",
+   "CZ": "Tschechien",
+   "DE": "Deutschland",
+   "DK": "Dänemark",
+   "EE": "Estland",
+   "ES": "Spanien",
+   "FI": "Finnland",
+   "FR": "Frankreich",
+   "GR": "Griechenland",
+   "HR": "Kroatien",
+   "HU": "Ungarn",
+   "IE": "Irland",
+   "IT": "Italien",
+   "LT": "Litauen",
+   "LU": "Luxemburg",
+   "LV": "Lettland",
+   "MT": "Malta",
+   "NL": "Niederlande",
+   "PL": "Polen",
+   "PT": "Portugal",
+   "RO": "Rumänien",
+   "SE": "Schweden",
+   "SI": "Slowenien",
+   "SK": "Slowakei",
+   "IS": "Island",
+   "LI": "Liechtenstein",
+   "NO": "Norwegen"
+  }
+ }
+}

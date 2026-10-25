@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht za Shopify – obvezna obvestila za baterije, električne naprave in polnilnike",
+ "metaDescription": "Aplikacija Shopify za obvezna obvestila EU o baterijah, električnih napravah in polnilnikih: stran izdelka, zahvalna stran in e-pošta o naročilu, 26 jezikov, raziskave z AI. Kmalu v Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – dokumentacija in uradni viri",
+ "docsMetaDescription": "Kako nastaviti ElektroPflicht: obveznosti, začetna nastavitev, izdelki, AI, države in registracijske številke, s povezavami do prava EU in organov v 30 državah.",
+ "badge": "Kmalu v Shopify App Store",
+ "title": "Obvezna obvestila za baterije in električne naprave, neposredno v vaši trgovini",
+ "subtitle": "ElektroPflicht prikazuje obvestilo o baterijah, simbol za vračilo in piktogram polnilnika pri vsakem ustreznem izdelku, tudi po nakupu, v 26 jezikih.",
+ "ctaDocs": "Preberite dokumentacijo",
+ "ctaContact": "Zaprosite za zgodnji dostop",
+ "featuresTitle": "Kaj aplikacija naredi",
+ "whyTitle": "Zakaj je to pomembno",
+ "langsTitle": "V 26 jezikih",
+ "langsText": "Aplikacija, besedila v vaši trgovini in ta stran so na voljo v vseh uradnih jezikih EU ter norveščini in islandščini.",
+ "upcomingNote": "ElektroPflicht je v zadnji fazi testiranja in bo kmalu na voljo v Shopify App Store.",
+ "byCronema": "Aplikacija podjetja Cronema",
+ "docsLink": "Dokumentacija",
+ "backToApp": "Nazaj na ElektroPflicht",
+ "language": "Jezik",
+ "imageAlt": "Posnetek zaslona aplikacije ElektroPflicht",
+ "facts": [
+  "26 jezikov",
+  "30 držav",
+  "Brezplačno do 20 izdelkov"
+ ],
+ "why": [
+  {
+   "title": "Zakonsko zahtevano",
+   "text": "Če v EU prodajate baterije ali električne naprave, morate obveščati o vračanju in odstranjevanju. Manjkajoča obvestila lahko vodijo do opominov in glob."
+  },
+  {
+   "title": "Vsaka država ima svoja pravila",
+   "text": "Registracijske številke, jeziki in načini vračila se razlikujejo od države do države. Aplikacija pozna pravila za 30 držav."
+  },
+  {
+   "title": "AI opravi raziskavo namesto vas",
+   "text": "AI z viri razišče tip baterije, kategorijo in podatke o polnilniku. Vi preverite in potrdite, aplikacija pa jih izpolni."
+  }
+ ],
+ "tagline": "Obvezni podatki za baterije, električno opremo in polnilnike – v 26 jezikih",
+ "features": [
+  {
+   "title": "Obvezni podatki neposredno v trgovini",
+   "text": "Obvestilo o baterijah, simbol prevzema in piktogram polnilnika se na strani izdelka prikažejo samodejno.",
+   "image": "/elektropflicht/sl/01-shop.webp"
+  },
+  {
+   "title": "Vse na prvi pogled",
+   "text": "Koliko izdelkov ima podatke – in katere morate še preveriti.",
+   "image": "/elektropflicht/sl/02-dashboard.webp"
+  },
+  {
+   "title": "UI poišče namesto vas",
+   "text": "Vrsta baterije, kemijska sestava, kategorija in polnilnik z viri. Vi preverite in potrdite.",
+   "image": "/elektropflicht/sl/03-editor.webp"
+  },
+  {
+   "title": "Nastavljeno v nekaj minutah",
+   "text": "Vodena nastavitev sama odkljuka vsak korak.",
+   "image": "/elektropflicht/sl/04-setup.webp"
+  },
+  {
+   "title": "Tudi po nakupu",
+   "text": "Obvestilo o vračilu na strani z zahvalo, v stanju naročila in v e-pošti.",
+   "image": "/elektropflicht/sl/05-order.webp"
+  },
+  {
+   "title": "30 držav, 26 jezikov",
+   "text": "Stanje po področjih – z opozorilom, če manjka jezik države dostave.",
+   "image": "/elektropflicht/sl/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Pomoč in viri",
+  "intro": "Tukaj izveste, katere obveznosti aplikacija pokriva, kako jo nastavite in kje preberete uradna pravila.",
+  "disclaimer": "Ta stran pojasnjuje aplikacijo in povezuje na javne strani EU in pristojnih organov. Ni pravno svetovanje. Z navedenimi organi nismo povezani. Veljajo pravni besedili in informacije organov.",
+  "contents": "Vsebina",
+  "faqHeading": "pogosto zastavljena vprašanja",
+  "sourcesHeading": "Uradni viri",
+  "euHeading": "Pravo EU in Evropska komisija",
+  "euIntro": "Pravna besedila se odprejo na EUR-Lexu v vašem jeziku. Strani Evropske komisije so večinoma na voljo le v angleščini.",
+  "inEnglish": "v angleščini",
+  "countriesHeading": "Organi in registri po državah",
+  "countriesIntro": "Uradne strani pristojnih organov in registrov. Naslovi so v jeziku posamezne strani.",
+  "englishVersion": "Angleška različica",
+  "noOfficial": "Za te obveznosti še nismo našli uradne strani. V primeru dvoma vprašajte pristojni okoljski organ.",
+  "liNote": "Za električno in elektronsko opremo Lihtenštajn prek carinske unije večinoma uporablja švicinska pravila. Kontakt: Amt für Umweltschutz (Urad za varstvo okolja).",
+  "lvNote": "V Latviji register proizvajalcev električne opreme in baterij vodi združenje LETERA po pooblastilu ministrstva.",
+  "contactHeading": "Imate vprašanja?",
+  "contactText": "Pišite nam na support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Katere obveznosti aplikacija pokriva",
+    "body": [
+     "Baterije (Uredba (EU) 2023/1542 o baterijah in odpadnih baterijah, v Nemčiji tudi BattDG): če prodajate baterije ali naprave z baterijami, morate obvestiti o brezplačnem vračilu, o prečrtanem smetnjaku na kolesih in o nevarnostih baterije. Proizvajalci in uvozniki se morajo tudi registrirati.",
+     "Električna oprema (Direktiva 2012/19/EU o odpadni električni in elektronski opremi – WEEE, v Nemčiji ElektroG): stranke morajo izvedeti, kako vrnejo odsluženo opremo. Če imate obveznost vračila, pokažete simbol za vračilo.",
+     "Piktogram polnilnika (Direktiva (EU) 2022/2380): pri telefonih, slušalkah, prenosnikih in drugih napravah, ki se polnijo s kablom, mora ob ceni pisati, ali je polnilnik priložen in kakšno moč polnjenja naprava potrebuje.",
+     "Data Act (Uredba (EU) 2023/2854): pred nakupom povezanih naprav morajo stranke izvedeti, katere podatke naprava ustvarja in kako do njih dostopajo. Te podatke zagotovi proizvajalec."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Nastavitev po korakih",
+    "body": [
+     "Začetna nastavitev vas vodi skozi vse korake in opravljene točke sama odkljuka. Najdete jo v meniju pod Začetna nastavitev.",
+     "Najprej odgovorite na nekaj vprašanj: kaj prodajate, ali ste trgovec ali proizvajalec in v katere države pošiljate. Na podlagi odgovorov aplikacija vklopi potrebna področja.",
+     "Pod Vračila in države vpišete naslov za vračilo, načine vračila in, po potrebi, svoje registrske številke.",
+     "Nato dodate blok aplikacije na stran izdelka svoje teme, ustvarite Stran o odstranjevanju in vklopite obvestilo na strani za zahvalo in na strani s stanjem naročila."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Dodelitev izdelkov",
+    "body": [
+     "Pod Izdelki vsak izdelek dodelite ustreznim področjem: Baterije, Električna oprema, Piktogram polnilnika in Data Act. Le dodeljeni izdelki pokažejo obvestila.",
+     "Izdelke lahko urejate posamično ali več naenkrat, filtrirano po kolekciji, vrsti izdelka ali oznaki. Aplikacija predlaga izdelke, v katerih besedilu se omenjajo akumulatorske baterije, baterije, polnilni kabli ali povezane funkcije.",
+     "Če imate veliko izdelkov, pomaga uvoz CSV v paketu Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Predlogi UI in skupinsko preverjanje UI",
+    "body": [
+     "V urejevalniku izdelka UI na klik poišče po spletu: vrsto baterije, kemijo, kategorijo električne opreme in podatke o polnilniku, vsakič z viri. Za to gredo k OpenAI naslov, dobavitelj, opis, SKU in črtna koda, ne pa podatki o strankah.",
+     "S skupinskim preverjanjem UI (Pro in Business) naenkrat pošljete do 10 izbranih izdelkov v UI. Predlogi se pokažejo v seznamu izdelkov.",
+     "UI se lahko moti, zlasti če ne najde podatkov proizvajalca. Zato aplikacija prevzame predlog šele, ko ga preverite in potrdite."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Države, registrske številke in jeziki",
+    "body": [
+     "Za vsako državo dostave veljajo lastna pravila. V nekaterih državah morajo biti registrske številke prikazane v trgovini ali na računih, na primer v Franciji, Španiji, Italiji ali na Poljskem.",
+     "Stranke v tujini potrebujejo obvestila v svojem jeziku. Stanje vam pokaže, kateri jezik vaše države dostave v trgovini manjka.",
+     "Nadzornik držav (Pro in Business) primerja države dostave v nastavitvah pošiljanja v Shopify z vašo nastavitvijo in sporoči nove države.",
+     "Na dnu te strani za vsako državo najdete pristojne organe in registre."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Po nakupu: stran za zahvalo in e-pošta o naročilu",
+    "body": [
+     "Obvestilo o vračilu se prikaže tudi na strani za zahvalo in na strani s stanjem naročila. Zato tja dodate blok aplikacije.",
+     "Za potrditev naročila in dobavnico vam aplikacija da kodo za lepljenje. Z enim klikom jo vpiše tudi v vse jezikovne različice predloge."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Paketi in dodatne funkcije",
+    "body": [
+     "Free vključuje vsa področja za do 20 izdelkov. Basic, Pro in Business nimajo omejitve števila izdelkov in se razlikujejo po dodatnih funkcijah.",
+     "Predlogi UI so na voljo od paketa Basic naprej, skupinsko preverjanje UI in nadzornik držav od paketa Pro naprej. Tedenska e-pošta z odprtimi točkami in uvoz CSV sodita v paket Business.",
+     "Vsak plačljiv paket lahko 7 dni preizkusite brezplačno. Obračun gre prek vašega računa Shopify."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Vaša odgovornost",
+    "body": [
+     "Aplikacija ponuja vzorčna besedila, obvestila in predloge. Ni pravno svetovanje in ga ne nadomešča.",
+     "Ali in katere obveznosti veljajo za vas, je odvisno od vašega poslovanja. Preverite podatke in se v dvomu obrnite na pristojni organ ali pravnega svetovalca."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Sem samo trgovec. Ali se moram registrirati?",
+    "a": "Običajno ne. Registrirati se morajo proizvajalci in uvozniki. Če blago iz tujine uvažate sami ali ga prodajate pod lastnim imenom, pogosto veljate za proizvajalca. Na to vas vpraša začetna nastavitev in pokaže, kaj velja za vas."
+   },
+   {
+    "q": "Zakaj na strani izdelka ne vidim obvestil?",
+    "a": "Preverite dvoje: izdelek mora biti dodeljen področju in blok aplikacije mora biti v vaši temi na strani izdelka. Stanje pokaže oboje."
+   },
+   {
+    "q": "Kaj se zgodi z mojimi podatki pri raziskavi z UI?",
+    "a": "K OpenAI gredo le podatki o izdelku: naslov, dobavitelj, opis, SKU in črtna koda. Podatki o strankah ali naročilih se ne pošiljajo."
+   },
+   {
+    "q": "Ali lahko spremenim besedila?",
+    "a": "Da. Pod Besedila prilagodite vsako besedilo, ki ga vidijo vaše stranke. Prazna polja se vrnejo na vzorčno besedilo."
+   },
+   {
+    "q": "Kaj velja v Švici in Združenem kraljestvu?",
+    "a": "Imata lastna pravila zunaj prava EU. Aplikacija pokaže opombo, ko tja pošiljate. Vzorčna besedila so napisana za EU in EGP."
+   },
+   {
+    "q": "Kako prekličem paket?",
+    "a": "Pod Paket lahko kadar koli preklopite na Free. Shopify vam prizna neizkoriščeni čas."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Uredba (EU) 2023/1542 o baterijah in odpadnih baterijah",
+   "weeeDirective": "Direktiva 2012/19/EU o odpadni električni in elektronski opremi (WEEE)",
+   "chargerDirective": "Direktiva (EU) 2022/2380 o skupnem polnilniku",
+   "dataAct": "Akt o podatkih, Uredba (EU) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Evropska komisija: baterije",
+   "ecWeee": "Evropska komisija: odpadna električna in elektronska oprema",
+   "ecCharger": "Evropska komisija: skupni polnilnik",
+   "ecDataAct": "Evropska komisija: Akt o podatkih"
+  },
+  "types": {
+   "battery": "Baterije",
+   "weee": "Električna oprema",
+   "both": "Baterije in električna oprema",
+   "retail": "Za trgovce"
+  },
+  "yourCountries": "Vaše države dostave",
+  "otherCountries": "Druge države",
+  "countryNames": {
+   "AT": "Avstrija",
+   "BE": "Belgija",
+   "BG": "Bolgarija",
+   "CY": "Ciper",
+   "CZ": "Češka",
+   "DE": "Nemčija",
+   "DK": "Danska",
+   "EE": "Estonija",
+   "ES": "Španija",
+   "FI": "Finska",
+   "FR": "Francija",
+   "GR": "Grčija",
+   "HR": "Hrvaška",
+   "HU": "Madžarska",
+   "IE": "Irska",
+   "IT": "Italija",
+   "LT": "Litva",
+   "LU": "Luksemburg",
+   "LV": "Latvija",
+   "MT": "Malta",
+   "NL": "Nizozemska",
+   "PL": "Poljska",
+   "PT": "Portugalska",
+   "RO": "Romunija",
+   "SE": "Švedska",
+   "SI": "Slovenija",
+   "SK": "Slovaška",
+   "IS": "Islandija",
+   "LI": "Lihtenštajn",
+   "NO": "Norveška"
+  }
+ }
+}

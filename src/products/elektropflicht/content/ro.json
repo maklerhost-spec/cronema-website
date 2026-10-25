@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht pentru Shopify – mențiuni obligatorii pentru baterii, echipamente electrice și încărcătoare",
+ "metaDescription": "Aplicație Shopify pentru mențiunile obligatorii din UE privind bateriile, echipamentele electrice și încărcătoarele: pagina de produs, pagina de mulțumire și emailul comenzii, 26 de limbi, cercetare cu IA. În curând în Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – documentație și surse oficiale",
+ "docsMetaDescription": "Cum configurezi ElektroPflicht: obligații, configurare, produse, IA, țări și numere de înregistrare, cu linkuri către dreptul UE și autoritățile din 30 de țări.",
+ "badge": "În curând în Shopify App Store",
+ "title": "Mențiuni obligatorii pentru baterii și echipamente electrice, direct în magazin",
+ "subtitle": "ElektroPflicht arată mesajul pentru baterii, simbolul de preluare și pictograma încărcătorului la fiecare produs relevant, și după cumpărare, în 26 de limbi.",
+ "ctaDocs": "Citește documentația",
+ "ctaContact": "Cere acces anticipat",
+ "featuresTitle": "Ce face aplicația",
+ "whyTitle": "De ce contează",
+ "langsTitle": "În 26 de limbi",
+ "langsText": "Aplicația, textele din magazin și această pagină sunt disponibile în toate limbile oficiale ale UE plus norvegiană și islandeză.",
+ "upcomingNote": "ElektroPflicht este în faza finală de testare și va fi disponibilă în curând în Shopify App Store.",
+ "byCronema": "O aplicație de la Cronema",
+ "docsLink": "Documentație",
+ "backToApp": "Înapoi la ElektroPflicht",
+ "language": "Limbă",
+ "imageAlt": "Captură de ecran a aplicației ElektroPflicht",
+ "facts": [
+  "26 de limbi",
+  "30 de țări",
+  "Gratuit până la 20 de produse"
+ ],
+ "why": [
+  {
+   "title": "Obligatoriu prin lege",
+   "text": "Dacă vinzi baterii sau echipamente electrice în UE, trebuie să informezi despre preluare și eliminare. Lipsa mențiunilor poate duce la somații și amenzi."
+  },
+  {
+   "title": "Fiecare țară are propriile reguli",
+   "text": "Numerele de înregistrare, limbile și modalitățile de returnare diferă de la o țară la alta. Aplicația cunoaște regulile pentru 30 de țări."
+  },
+  {
+   "title": "IA face cercetarea pentru tine",
+   "text": "IA caută tipul bateriei, categoria și detaliile încărcătorului, cu surse. Tu verifici și confirmi, aplicația completează."
+  }
+ ],
+ "tagline": "Informații obligatorii pentru baterii, echipamente electrice și încărcătoare – în 26 de limbi",
+ "features": [
+  {
+   "title": "Informații obligatorii direct în magazin",
+   "text": "Informarea despre baterii, simbolul de preluare și pictograma încărcătorului apar automat pe pagina produsului.",
+   "image": "/elektropflicht/ro/01-shop.webp"
+  },
+  {
+   "title": "Totul dintr-o privire",
+   "text": "Câte produse au informațiile – și pe care ar trebui să le mai verifici.",
+   "image": "/elektropflicht/ro/02-dashboard.webp"
+  },
+  {
+   "title": "IA caută pentru tine",
+   "text": "Tip de baterie, chimie, categorie și încărcător, cu surse. Tu verifici și confirmi.",
+   "image": "/elektropflicht/ro/03-editor.webp"
+  },
+  {
+   "title": "Configurat în câteva minute",
+   "text": "Configurarea ghidată bifează singură fiecare pas.",
+   "image": "/elektropflicht/ro/04-setup.webp"
+  },
+  {
+   "title": "Și după cumpărare",
+   "text": "Informare despre preluare pe pagina de mulțumire, în starea comenzii și în e-mail.",
+   "image": "/elektropflicht/ro/05-order.webp"
+  },
+  {
+   "title": "30 de țări, 26 de limbi",
+   "text": "Stare pe domenii – cu avertizare când lipsește limba unei țări de livrare.",
+   "image": "/elektropflicht/ro/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Ajutor & surse",
+  "intro": "Aici afli ce obligații acoperă aplicația, cum o configurezi și unde citești regulile oficiale.",
+  "disclaimer": "Această pagină explică aplicația și leagă spre pagini publice ale UE și ale autorităților competente. Nu este consultanță juridică. Nu suntem afiliați acestor instituții. Contează textele legale și informațiile autorităților.",
+  "contents": "Cuprins",
+  "faqHeading": "Întrebări frecvente",
+  "sourcesHeading": "Surse oficiale",
+  "euHeading": "Legislația UE și Comisia Europeană",
+  "euIntro": "Textele juridice se deschid pe EUR-Lex în limba ta. Paginile Comisiei Europene sunt, de obicei, disponibile doar în engleză.",
+  "inEnglish": "în engleză",
+  "countriesHeading": "Autorități și registre pe țări",
+  "countriesIntro": "Paginile oficiale ale autorităților și registrelor competente. Titlurile sunt în limba fiecărei pagini.",
+  "englishVersion": "Versiunea în engleză",
+  "noOfficial": "Încă nu am găsit o pagină oficială despre aceste obligații. Dacă ai dubii, întreabă autoritatea de mediu competentă.",
+  "liNote": "Pentru echipamente electrice și electronice, Liechtenstein aplică în mare parte regulile elvețiene prin convenția vamală. Persoana de contact este Amt für Umweltschutz (Oficiul pentru Protecția Mediului).",
+  "lvNote": "În Letonia, registrul pentru producătorii de echipamente electrice și baterii este ținut de asociația LETERA în numele ministerului.",
+  "contactHeading": "Întrebări?",
+  "contactText": "Scrie-ne la support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Ce obligații acoperă aplicația",
+    "body": [
+     "Baterii (Regulamentul privind bateriile (UE) 2023/1542, în Germania și BattDG): dacă vinzi baterii sau dispozitive cu baterii, trebuie să informezi despre preluarea gratuită, pubela tăiată cu o cruce și pericolele bateriei. Producătorii și importatorii trebuie și să se înregistreze.",
+     "Echipamente electrice (Directiva 2012/19/UE privind deșeurile de echipamente electrice și electronice – WEEE, în Germania ElektroG): clienții trebuie să afle cum returnează aparatele vechi. Dacă ai obligație de preluare, arăți simbolul de preluare.",
+     "Pictograma încărcătorului (Directiva (UE) 2022/2380): la telefoane, căști, laptopuri și alte dispozitive încărcate pe cablu, lângă preț trebuie să scrie dacă este inclus un încărcător și ce putere de încărcare cere dispozitivul.",
+     "Data Act (Regulamentul (UE) 2023/2854): înainte de a cumpăra dispozitive conectate, clienții trebuie să afle ce date generează dispozitivul și cum pot accesa aceste date. Producătorul furnizează aceste informații."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Configurare pas cu pas",
+    "body": [
+     "Configurarea te ghidează prin toți pașii și bifează singură ce e gata. O găsești în meniu la Configurare.",
+     "Mai întâi răspunzi la câteva întrebări: ce vinzi, dacă ești comerciant sau producător și în ce țări livrezi. Din răspunsuri, aplicația pornește zonele de care ai nevoie.",
+     "La Preluare și țări introduci adresa de preluare, modalitățile de returnare și, dacă e nevoie, numerele tale de înregistrare.",
+     "Apoi adaugi blocul aplicației în pagina de produs a temei, creezi Pagina de eliminare și pornești notificarea pe pagina de mulțumire și pe pagina cu starea comenzii."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Alocarea produselor",
+    "body": [
+     "La Produse aloci fiecare produs zonelor potrivite: Baterii, Echipamente electrice, Pictograma încărcătorului și Data Act. Doar produsele alocate arată notele.",
+     "Poți edita produsele pe rând sau multe odată, filtrate după colecție, tip de produs sau etichetă. Aplicația îți sugerează produse ale căror texte menționează acumulatori, baterii, cabluri de încărcare sau funcții conectate.",
+     "Cu multe produse te ajută importul CSV din planul Business."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Sugestii IA și verificare în lot cu IA",
+    "body": [
+     "În editorul de produse, IA caută pe internet la apăsarea unui buton: tipul bateriei, chimia, categoria echipamentului electric și detalii despre încărcător, fiecare cu surse. Pentru asta se trimit la OpenAI titlul, furnizorul, descrierea, SKU și codul de bare, fără date de clienți.",
+     "Cu verificarea în lot cu IA (Pro și Business) trimiți până la 10 produse selectate deodată la IA. Sugestiile apar în lista de produse.",
+     "IA poate greși, mai ales când nu găsește date de la producător. De aceea aplicația preia o sugestie doar după ce ai verificat-o și confirmat-o."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Țări, numere de înregistrare și limbi",
+    "body": [
+     "Fiecare țară de livrare are propriile reguli. În unele țări, numerele de înregistrare trebuie afișate în magazin sau pe facturi, de exemplu în Franța, Spania, Italia sau Polonia.",
+     "Clienții din străinătate au nevoie de note în limba lor. Stare îți arată ce limbă a țărilor tale de livrare lipsește din magazin.",
+     "Observatorul de țări (Pro și Business) compară țările de livrare din setările de expediere Shopify cu configurarea ta și anunță țările noi.",
+     "În partea de jos a acestei pagini găsești pentru fiecare țară autoritățile competente și registrele."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "După achiziție: pagina de mulțumire și e-mailul comenzii",
+    "body": [
+     "Notificarea despre preluare apare și pe pagina de mulțumire și pe pagina cu starea comenzii. Pentru asta adaugi acolo blocul aplicației.",
+     "Pentru confirmarea comenzii și bonul de ambalare, aplicația îți oferă un cod de lipit. Cu un clic îl scrie și în toate versiunile lingvistice ale șablonului."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Planuri și funcții extra",
+    "body": [
+     "Free include toate zonele pentru până la 20 de produse. Basic, Pro și Business nu au limită de produse și se deosebesc prin funcțiile extra.",
+     "Sugestiile IA vin de la Basic în sus, verificarea în lot cu IA și Observatorul de țări de la Pro în sus. E-mailul săptămânal cu puncte deschise și importul CSV țin de Business.",
+     "Poți testa gratuit 7 zile orice plan plătit. Facturarea se face prin factura ta Shopify."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Responsabilitatea ta",
+    "body": [
+     "Aplicația oferă texte-model, note și sugestii. Nu este consultanță juridică și nu o înlocuiește.",
+     "Dacă și ce obligații ți se aplică depinde de afacerea ta. Verifică detaliile și, la nevoie, întreabă autoritatea competentă sau un consilier juridic."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Sunt doar comerciant. Trebuie să mă înregistrez?",
+    "a": "De obicei nu. Trebuie să se înregistreze producătorii și importatorii. Totuși, dacă imporți singur mărfuri din străinătate sau le vinzi sub numele tău, ești adesea considerat producător. Configurarea te întreabă despre asta și îți arată ce ți se aplică."
+   },
+   {
+    "q": "De ce nu văd notele pe pagina mea de produs?",
+    "a": "Verifică două lucruri: produsul trebuie alocat unei zone, iar blocul aplicației trebuie să fie pe pagina de produs în tema ta. Stare îți arată ambele."
+   },
+   {
+    "q": "Ce se întâmplă cu datele mele în timpul cercetării cu IA?",
+    "a": "Doar datele produsului merg la OpenAI: titlu, furnizor, descriere, SKU și cod de bare. Nu se trimit date de clienți sau comenzi."
+   },
+   {
+    "q": "Pot schimba textele?",
+    "a": "Da. La Texte ajustezi fiecare text pe care îl văd clienții tăi. Câmpurile goale revin la textul-model."
+   },
+   {
+    "q": "Ce se aplică în Elveția și în Regatul Unit?",
+    "a": "Au propriile reguli, în afara dreptului UE. Aplicația îți arată o notă când livrezi acolo. Textele-model sunt scrise pentru UE și SEE."
+   },
+   {
+    "q": "Cum anulez un plan?",
+    "a": "La Plan poți trece oricând la Free. Shopify îți creditează timpul nefolosit."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Regulamentul privind bateriile (UE) 2023/1542",
+   "weeeDirective": "Directiva 2012/19/UE privind deșeurile de echipamente electrice și electronice (WEEE)",
+   "chargerDirective": "Directiva (UE) 2022/2380 privind încărcătorul comun",
+   "dataAct": "Data Act, Regulamentul (UE) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Comisia Europeană: baterii",
+   "ecWeee": "Comisia Europeană: deșeuri de echipamente electrice și electronice",
+   "ecCharger": "Comisia Europeană: încărcător comun",
+   "ecDataAct": "Comisia Europeană: Data Act"
+  },
+  "types": {
+   "battery": "Baterii",
+   "weee": "Echipamente electrice",
+   "both": "Baterii și echipamente electrice",
+   "retail": "Pentru comercianți"
+  },
+  "yourCountries": "Țările tale de livrare",
+  "otherCountries": "Alte țări",
+  "countryNames": {
+   "AT": "Austria",
+   "BE": "Belgia",
+   "BG": "Bulgaria",
+   "CY": "Cipru",
+   "CZ": "Cehia",
+   "DE": "Germania",
+   "DK": "Danemarca",
+   "EE": "Estonia",
+   "ES": "Spania",
+   "FI": "Finlanda",
+   "FR": "Franța",
+   "GR": "Grecia",
+   "HR": "Croația",
+   "HU": "Ungaria",
+   "IE": "Irlanda",
+   "IT": "Italia",
+   "LT": "Lituania",
+   "LU": "Luxemburg",
+   "LV": "Letonia",
+   "MT": "Malta",
+   "NL": "Țările de Jos",
+   "PL": "Polonia",
+   "PT": "Portugalia",
+   "RO": "România",
+   "SE": "Suedia",
+   "SI": "Slovenia",
+   "SK": "Slovacia",
+   "IS": "Islanda",
+   "LI": "Liechtenstein",
+   "NO": "Norvegia"
+  }
+ }
+}

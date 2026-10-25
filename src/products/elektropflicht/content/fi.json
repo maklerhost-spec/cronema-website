@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht Shopifylle – pakolliset ilmoitukset paristoista, sähkölaitteista ja latureista",
+ "metaDescription": "Shopify-sovellus EU:n pakollisiin ilmoituksiin paristoista, sähkölaitteista ja latureista: tuotesivu, kiitossivu ja tilausviesti, 26 kieltä, tekoälytutkimus. Tulossa pian Shopify App Storeen.",
+ "docsMetaTitle": "ElektroPflicht – dokumentaatio ja viralliset lähteet",
+ "docsMetaDescription": "Näin otat ElektroPflichtin käyttöön: velvollisuudet, käyttöönotto, tuotteet, tekoäly, maat ja rekisterinumerot, linkein EU-lainsäädäntöön ja viranomaisiin 30 maassa.",
+ "badge": "Tulossa pian Shopify App Storeen",
+ "title": "Pakolliset ilmoitukset paristoille ja sähkölaitteille, suoraan kaupassasi",
+ "subtitle": "ElektroPflicht näyttää paristotiedot, palautussymbolin ja laturipiktogrammin jokaisessa asiaankuuluvassa tuotteessa, myös oston jälkeen, 26 kielellä.",
+ "ctaDocs": "Lue dokumentaatio",
+ "ctaContact": "Pyydä varhainen pääsy",
+ "featuresTitle": "Mitä sovellus tekee",
+ "whyTitle": "Miksi tämä on tärkeää",
+ "langsTitle": "26 kielellä",
+ "langsText": "Sovellus, kauppasi tekstit ja tämä sivu ovat saatavilla kaikilla EU:n virallisilla kielillä sekä norjaksi ja islanniksi.",
+ "upcomingNote": "ElektroPflicht on loppuvaiheen testauksessa ja tulee pian saataville Shopify App Storeen.",
+ "byCronema": "Croneman sovellus",
+ "docsLink": "Dokumentaatio",
+ "backToApp": "Takaisin ElektroPflichtiin",
+ "language": "Kieli",
+ "imageAlt": "Kuvakaappaus ElektroPflicht-sovelluksesta",
+ "facts": [
+  "26 kieltä",
+  "30 maata",
+  "Maksuton 20 tuotteeseen asti"
+ ],
+ "why": [
+  {
+   "title": "Laissa vaadittu",
+   "text": "Jos myyt EU:ssa paristoja tai sähkölaitteita, sinun on kerrottava palautuksesta ja käsittelystä. Puuttuvat tiedot voivat johtaa huomautuksiin ja sakkoihin."
+  },
+  {
+   "title": "Jokaisella maalla omat sääntönsä",
+   "text": "Rekisterinumerot, kielet ja palautustavat vaihtelevat maittain. Sovellus tuntee säännöt 30 maassa."
+  },
+  {
+   "title": "Tekoäly tekee taustatyön",
+   "text": "Tekoäly selvittää paristotyypin, laitteen kategorian ja laturin tiedot lähteineen. Sinä tarkistat ja vahvistat, sovellus täyttää kentät."
+  }
+ ],
+ "tagline": "Pakolliset tiedot paristoille, sähkölaitteille ja latureille – 26 kielellä",
+ "features": [
+  {
+   "title": "Pakolliset tiedot suoraan kauppaan",
+   "text": "Paristotiedote, vastaanottosymboli ja laturipiktogrammi näkyvät tuotesivulla automaattisesti.",
+   "image": "/elektropflicht/fi/01-shop.webp"
+  },
+  {
+   "title": "Kaikki yhdellä silmäyksellä",
+   "text": "Kuinka monella tuotteella tiedot on – ja mitkä kannattaa vielä tarkistaa.",
+   "image": "/elektropflicht/fi/02-dashboard.webp"
+  },
+  {
+   "title": "Tekoäly hakee tiedot",
+   "text": "Akkutyyppi, kemia, luokka ja laturi lähteineen. Sinä tarkistat ja vahvistat.",
+   "image": "/elektropflicht/fi/03-editor.webp"
+  },
+  {
+   "title": "Käytössä minuuteissa",
+   "text": "Opastettu käyttöönotto kuittaa jokaisen vaiheen itse.",
+   "image": "/elektropflicht/fi/04-setup.webp"
+  },
+  {
+   "title": "Myös oston jälkeen",
+   "text": "Palautustiedote kiitossivulla, tilauksen tilassa ja tilaussähköpostissa.",
+   "image": "/elektropflicht/fi/05-order.webp"
+  },
+  {
+   "title": "30 maata, 26 kieltä",
+   "text": "Tila alueittain – ilmoitus, jos toimitusmaan kieli puuttuu.",
+   "image": "/elektropflicht/fi/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Ohjeet & lähteet",
+  "intro": "Täältä näet, mitä velvoitteita sovellus kattaa, miten sen saa käyttöön ja mistä löydät viralliset säännöt.",
+  "disclaimer": "Tämä sivu selittää sovellusta ja linkittää EU:n ja toimivaltaisten viranomaisten julkisiin sivuihin. Tämä ei ole oikeudellista neuvontaa. Emme ole sidoksissa näihin tahoihin. Ratkaisevia ovat lakitekstit ja viranomaisten antamat tiedot.",
+  "contents": "Sisältö",
+  "faqHeading": "Usein kysytyt kysymykset",
+  "sourcesHeading": "Viralliset lähteet",
+  "euHeading": "EU-lainsäädäntö ja Euroopan komissio",
+  "euIntro": "Lakitekstit avautuvat EUR-Lexissä omalla kielelläsi. Euroopan komission sivut ovat useimmiten vain englanniksi.",
+  "inEnglish": "englanniksi",
+  "countriesHeading": "Viranomaiset ja rekisterit maittain",
+  "countriesIntro": "Toimivaltaisten viranomaisten ja rekisterien viralliset sivut. Otsikot ovat kunkin sivun kielellä.",
+  "englishVersion": "Englanninkielinen versio",
+  "noOfficial": "Emme ole vielä löytäneet näistä velvoitteista virallista sivua. Epäselvissä tilanteissa kysy toimivaltaiselta ympäristöviranomaiselta.",
+  "liNote": "Sähkö- ja elektroniikkalaitteissa Liechtenstein soveltaa tulliliiton kautta pitkälti Sveitsin sääntöjä. Yhteystaho on Amt für Umweltschutz (Ympäristönsuojeluvirasto).",
+  "lvNote": "Latviassa sähkölaite- ja paristovalmistajien rekisteriä ylläpitää yhdistys LETERA ministeriön toimeksiannosta.",
+  "contactHeading": "Kysyttävää?",
+  "contactText": "Kirjoita meille: support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Mitä velvoitteita sovellus kattaa",
+    "body": [
+     "Paristot ja akut (EU:n akkuasetus, Saksassa lisäksi BattDG): jos myyt paristoja tai laitteita, joissa on paristo tai akku, sinun pitää kertoa maksuttomasta vastaanotosta, yliruksatusta jäteastiasta sekä pariston vaaroista. Valmistajien ja maahantuojien on lisäksi rekisteröidyttävä.",
+     "Sähkölaitteet (WEEE-direktiivi, Saksassa ElektroG): asiakkaalle on kerrottava, miten vanhat laitteet voi palauttaa. Jos sinulla on vastaanottovelvollisuus, näytät vastaanottosymbolin.",
+     "Laturipiktogrammi (direktiivi 2022/2380): puhelimissa, kuulokkeissa, kannettavissa ja muissa kaapelilla ladattavissa laitteissa hinnan yhteydessä on kerrottava, tuleeko laturi mukana ja mikä latausteho laitteessa tarvitaan.",
+     "Data Act (asetus 2023/2854): ennen yhdistettyjen laitteiden ostoa asiakkaalle on kerrottava, mitä dataa laite tuottaa ja miten siihen pääsee käsiksi. Nämä tiedot antaa valmistaja."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Käyttöönotto vaihe vaiheelta",
+    "body": [
+     "Käyttöönotto ohjaa sinut kaikkiin vaiheisiin ja merkitsee valmiit kohdat automaattisesti. Löydät sen valikosta kohdasta Käyttöönotto.",
+     "Ensin vastaat muutamaan kysymykseen: mitä myyt, oletko jälleenmyyjä vai valmistaja ja mihin maihin toimitat. Vastausten perusteella sovellus kytkee päälle tarvitut alueet.",
+     "Kohdassa Vastaanotto & maat lisäät vastaanotto-osoitteen, palautustavat ja tarvittaessa rekisterinumerosi.",
+     "Sen jälkeen lisäät sovelluksen lohkon teeman tuotesivulle, luot Kierrätyssivu-sivun ja otat käyttöön ilmoituksen Kiitos-sivulla ja tilauksen tilasivulla."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Tuotteiden määrittäminen",
+    "body": [
+     "Kohdassa Tuotteet liität jokaisen tuotteen oikeisiin alueisiin: Paristot ja akut, Sähkölaitteet, Laturipiktogrammi ja Data Act. Vain liitetyt tuotteet näyttävät ilmoitukset.",
+     "Voit muokata tuotteita yksitellen tai monta kerralla, suodatettuna kokoelman, tuotetyypin tai tunnisteen mukaan. Sovellus ehdottaa tuotteita, joiden teksteissä mainitaan akut, paristot, latauskaapelit tai yhdistetyt ominaisuudet.",
+     "Jos tuotteita on paljon, Business-paketin CSV-tuonti auttaa."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Tekoälyehdotukset ja tekoälyn massatarkistus",
+    "body": [
+     "Tuotemuokkaimessa tekoäly tekee haun verkosta napinpainalluksella: pariston tyyppi, kemia, sähkölaitteen luokka ja laturin tiedot, lähteet mukana. Tätä varten otsikko, toimittaja, kuvaus, SKU ja viivakoodi lähetetään OpenAI:lle, ei asiakastietoja.",
+     "Tekoälyn massatarkistuksella (Pro ja Business) lähetät kerralla jopa 10 valittua tuotetta tekoälylle. Ehdotukset näkyvät tuoteluettelossa.",
+     "Tekoäly voi erehtyä, etenkin jos valmistajan tietoja ei löydy. Siksi sovellus ottaa ehdotuksen käyttöön vasta, kun olet tarkistanut ja vahvistanut sen."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Maat, rekisterinumerot ja kielet",
+    "body": [
+     "Jokaisella toimitusmaalla on omat sääntönsä. Joissakin maissa rekisterinumerot on näytettävä kaupassa tai laskuissa, esimerkiksi Ranskassa, Espanjassa, Italiassa tai Puolassa.",
+     "Ulkomailla asioivat asiakkaat tarvitsevat ilmoitukset omalla kielellään. Tila näyttää, minkä toimitusmaidesi kielen kaupastasi puuttuu.",
+     "Maa-vahti (Pro ja Business) vertaa Shopify-toimitusasetustesi toimitusmaita käyttöönoton tietoihisi ja ilmoittaa uudet maat.",
+     "Tämän sivun alaosasta löydät kunkin maan toimivaltaiset viranomaiset ja rekisterit."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Oston jälkeen: Kiitos-sivu ja tilausviesti",
+    "body": [
+     "Vastaanottoilmoitus näkyy myös Kiitos-sivulla ja tilauksen tilasivulla. Tätä varten lisäät sinne sovelluksen lohkon.",
+     "Tilausvahvistukseen ja lähetteeseen sovellus antaa liitettävän koodin. Yhdellä klikkauksella se kirjoittaa koodin myös kaikkiin mallin kieliversioihin."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Paketit ja lisätoiminnot",
+    "body": [
+     "Free sisältää kaikki alueet enintään 20 tuotteelle. Basic, Pro ja Business eivät rajoita tuotteiden määrää ja eroavat lisätoiminnoissa.",
+     "Tekoälyehdotukset tulevat Basicista ylöspäin, tekoälyn massatarkistus ja Maa-vahti Prosta ylöspäin. Viikoittainen sähköposti avoimista asioista ja CSV-tuonti kuuluvat Businessiin.",
+     "Kaikkia maksullisia paketteja voi kokeilla maksutta 7 päivää. Laskutus tapahtuu Shopify-laskusi kautta."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Oma vastuu",
+    "body": [
+     "Sovellus tarjoaa mallitekstejä, ilmoituksia ja ehdotuksia. Se ei ole oikeudellista neuvontaa eikä korvaa sitä.",
+     "Se, sovelletaanko sinuun velvoitteita ja mitkä, riippuu liiketoiminnastasi. Tarkista tiedot ja kysy epäselvissä tilanteissa toimivaltaiselta viranomaiselta tai lakiasiantuntijalta."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Olen vain jälleenmyyjä. Pitääkö minun rekisteröityä?",
+    "a": "Yleensä ei. Rekisteröityä pitää valmistajan ja maahantuojan. Mutta jos tuot tavaraa itse ulkomailta tai myyt sitä omalla nimelläsi, katsotaan sinut usein valmistajaksi. Käyttöönotto kysyy tämän ja näyttää, mikä sinuun soveltuu."
+   },
+   {
+    "q": "Miksi en näe ilmoituksia tuotesivullani?",
+    "a": "Tarkista kaksi asiaa: tuote pitää liittää johonkin alueeseen, ja sovelluksen lohkon pitää olla teemasi tuotesivulla. Tila näyttää molemmat."
+   },
+   {
+    "q": "Mitä tiedoilleni tapahtuu tekoälyhaun aikana?",
+    "a": "Vain tuotetiedot lähetetään OpenAI:lle: otsikko, toimittaja, kuvaus, SKU ja viivakoodi. Asiakas- tai tilaustietoja ei lähetetä."
+   },
+   {
+    "q": "Voinko muuttaa tekstejä?",
+    "a": "Kyllä. Kohdassa Tekstit voit muokata kaikkia asiakkaillesi näkyviä tekstejä. Tyhjät kentät palautuvat mallitekstiin."
+   },
+   {
+    "q": "Mitä pätee Sveitsissä ja Yhdistyneessä kuningaskunnassa?",
+    "a": "Niissä on EU-oikeuden ulkopuoliset omat säännöt. Sovellus näyttää huomautuksen, kun toimitat sinne. Mallitekstit on kirjoitettu EU:ta ja ETAa varten."
+   },
+   {
+    "q": "Miten perun paketin?",
+    "a": "Kohdassa Paketti voit vaihtaa koska vain tilaan Free. Shopify hyvittää käyttämättömän ajan."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Akkuasetus (EU) 2023/1542",
+   "weeeDirective": "WEEE-direktiivi 2012/19/EU sähkö- ja elektroniikkalaiteromusta",
+   "chargerDirective": "Direktiivi (EU) 2022/2380 yhteisestä laturista",
+   "dataAct": "Data Act, asetus (EU) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Euroopan komissio: paristot ja akut",
+   "ecWeee": "Euroopan komissio: sähkö- ja elektroniikkalaiteromu",
+   "ecCharger": "Euroopan komissio: yhteinen laturi",
+   "ecDataAct": "Euroopan komissio: Data Act"
+  },
+  "types": {
+   "battery": "Paristot ja akut",
+   "weee": "Sähkölaitteet",
+   "both": "Paristot ja sähkölaitteet",
+   "retail": "Jälleenmyyjille"
+  },
+  "yourCountries": "Toimitusmaasi",
+  "otherCountries": "Muut maat",
+  "countryNames": {
+   "AT": "Itävalta",
+   "BE": "Belgia",
+   "BG": "Bulgaria",
+   "CY": "Kypros",
+   "CZ": "Tšekki",
+   "DE": "Saksa",
+   "DK": "Tanska",
+   "EE": "Viro",
+   "ES": "Espanja",
+   "FI": "Suomi",
+   "FR": "Ranska",
+   "GR": "Kreikka",
+   "HR": "Kroatia",
+   "HU": "Unkari",
+   "IE": "Irlanti",
+   "IT": "Italia",
+   "LT": "Liettua",
+   "LU": "Luxemburg",
+   "LV": "Latvia",
+   "MT": "Malta",
+   "NL": "Alankomaat",
+   "PL": "Puola",
+   "PT": "Portugali",
+   "RO": "Romania",
+   "SE": "Ruotsi",
+   "SI": "Slovenia",
+   "SK": "Slovakia",
+   "IS": "Islanti",
+   "LI": "Liechtenstein",
+   "NO": "Norja"
+  }
+ }
+}

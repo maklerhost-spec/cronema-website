@@ -1,0 +1,245 @@
+{
+ "metaTitle": "ElektroPflicht fyrir Shopify – lögboðnar upplýsingar um rafhlöður, raftæki og hleðslutæki",
+ "metaDescription": "Shopify-app fyrir lögboðnar ESB-upplýsingar um rafhlöður, raftæki og hleðslutæki: vörusíða, þakkarsíða og pöntunarstaðfestingar‑tölvupóstur, 26 tungumál, leit með gervigreind. Kemur fljótlega í Shopify App Store.",
+ "docsMetaTitle": "ElektroPflicht – leiðbeiningar og opinberar heimildir",
+ "docsMetaDescription": "Svona stillirðu ElektroPflicht: skyldur, uppsetning, vörur, gervigreind, lönd og skráningarnúmer, með hlekkjum á ESB-löggjöf og stjórnvöld í 30 löndum.",
+ "badge": "Kemur fljótlega í Shopify App Store",
+ "title": "Lögboðnar upplýsingar um rafhlöður og raftæki, beint í versluninni þinni",
+ "subtitle": "ElektroPflicht sýnir rafhlöðuviðvörun, endurheimtutáknið og Myndtákn hleðslutækis á hverri viðeigandi vöru, líka eftir kaupin, á 26 tungumálum.",
+ "ctaDocs": "Lestu leiðbeiningarnar",
+ "ctaContact": "Biðja um snemman aðgang",
+ "featuresTitle": "Hvað appið gerir",
+ "whyTitle": "Af hverju þetta skiptir máli",
+ "langsTitle": "Á 26 tungumálum",
+ "langsText": "Appið, textarnir í versluninni og þessi síða eru fáanleg á öllum opinberum tungumálum ESB, auk norsku og íslensku.",
+ "upcomingNote": "ElektroPflicht er á lokaprófunarstigi og verður fljótlega fáanlegt í Shopify App Store.",
+ "byCronema": "Forrit frá Cronema",
+ "docsLink": "Leiðbeiningar",
+ "backToApp": "Til baka í ElektroPflicht",
+ "language": "Tungumál",
+ "imageAlt": "Skjámynd af ElektroPflicht-forritinu",
+ "facts": [
+  "26 tungumál",
+  "30 lönd",
+  "Ókeypis fyrir allt að 20 vörur"
+ ],
+ "why": [
+  {
+   "title": "Lögboðið",
+   "text": "Ef þú selur rafhlöður eða raftæki í ESB þarftu að upplýsa um móttöku og förgun. Vantar þessar upplýsingar? Þá geta komið aðvörunarbréf og sektir."
+  },
+  {
+   "title": "Hvert land hefur sínar reglur",
+   "text": "Skráningarnúmer, tungumál og skilaleiðir eru mismunandi eftir löndum. Appið þekkir reglurnar í 30 löndum."
+  },
+  {
+   "title": "Gervigreindin leitar upplýsinganna fyrir þig",
+   "text": "Gervigreind finnur rafhlöðutegund, flokk og atriði um hleðslutæki með heimildum. Þú skoðar og staðfestir, appið fyllir inn."
+  }
+ ],
+ "tagline": "Skyldubundnar upplýsingar um rafhlöður, raftæki og hleðslutæki – á 26 tungumálum",
+ "features": [
+  {
+   "title": "Skyldubundnar upplýsingar beint í versluninni",
+   "text": "Rafhlöðuupplýsingar, móttökutákn og myndtákn hleðslutækis birtast sjálfkrafa á vörusíðunni.",
+   "image": "/elektropflicht/is/01-shop.webp"
+  },
+  {
+   "title": "Allt í einni sýn",
+   "text": "Hve margar vörur hafa upplýsingarnar – og hverjar þú ættir enn að yfirfara.",
+   "image": "/elektropflicht/is/02-dashboard.webp"
+  },
+  {
+   "title": "Gervigreind leitar fyrir þig",
+   "text": "Tegund rafhlöðu, efnasamsetning, flokkur og hleðslutæki með heimildum. Þú yfirferð og staðfestir.",
+   "image": "/elektropflicht/is/03-editor.webp"
+  },
+  {
+   "title": "Uppsett á nokkrum mínútum",
+   "text": "Leiðbeinandi uppsetningin hakar sjálf við hvert skref.",
+   "image": "/elektropflicht/is/04-setup.webp"
+  },
+  {
+   "title": "Líka eftir kaupin",
+   "text": "Upplýsingar um skil á þakkarsíðunni, í pöntunarstöðu og í pöntunarpósti.",
+   "image": "/elektropflicht/is/05-order.webp"
+  },
+  {
+   "title": "30 lönd, 26 tungumál",
+   "text": "Staða eftir sviði – með ábendingu ef tungumál afhendingarlands vantar.",
+   "image": "/elektropflicht/is/06-status.webp"
+  }
+ ],
+ "docs": {
+  "heading": "Hjálp og heimildir",
+  "intro": "Hér sérðu hvaða skyldur appið dekker, hvernig þú stillir það og hvar þú lest opinberu reglurnar.",
+  "disclaimer": "Þessi síða útskýrir appið og vísar á opinberar síður ESB og viðkomandi yfirvalda. Hún er ekki lögfræðiráðgjöf. Við erum ekki tengd þessum aðilum. Lagatextar og upplýsingar frá yfirvöldum gilda.",
+  "contents": "Efnisyfirlit",
+  "faqHeading": "Algengar spurningar",
+  "sourcesHeading": "Opinberar heimildir",
+  "euHeading": "ESB-löggjöf og Framkvæmdastjórnin",
+  "euIntro": "Laga­textarnir opnast á EUR-Lex á þínu máli. Síður Framkvæmdastjórnar ESB eru oftast bara á ensku.",
+  "inEnglish": "á ensku",
+  "countriesHeading": "Yfirvöld og skrár eftir landi",
+  "countriesIntro": "Opinberar síður viðkomandi yfirvalda og skráa. Titlar eru á tungumáli hverrar síðu.",
+  "englishVersion": "Enska útgáfan",
+  "noOfficial": "Við höfum ekki fundið opinbera síðu um þessar skyldur enn. Spurðu viðkomandi umhverfisstofnun ef þú ert í vafa.",
+  "liNote": "Fyrir raf- og rafeindatæki gildir Liechtenstein að mestu eftir svissneskum reglum með tollasamningnum. Tengiliður er Amt für Umweltschutz (umhverfisverndarskrifstofan).",
+  "lvNote": "Á Lettlandi rekur samtökin LETERA skrá yfir framleiðendur raftækja og rafhlaðna fyrir hönd ráðuneytisins.",
+  "contactHeading": "Eitthvað óljóst?",
+  "contactText": "Skrifaðu okkur á support@cronema.com.",
+  "sections": [
+   {
+    "id": "duties",
+    "title": "Hvaða skyldur appið nær yfir",
+    "body": [
+     "Rafhlöður (ESB-reglugerð um rafhlöður, í Þýskalandi einnig BattDG): Ef þú selur rafhlöður eða tæki með rafhlöðum verður þú að upplýsa um ókeypis móttöku, strikaða ruslafötuna og hættur rafhlöðunnar. Framleiðendur og innflytjendur þurfa líka skráningu.",
+     "Raftæki (WEEE-tilskipunin, í Þýskalandi ElektroG): Viðskiptavinir þurfa að vita hvernig þeir skila gömlum tækjum. Ef þú berð móttöku­skyldu, sýnir þú táknið fyrir móttöku.",
+     "Myndtákn hleðslutækis (Tilskipun 2022/2380): Fyrir síma, heyrnartól, fartölvur og önnur tæki sem hlaðast með snúru þarf við verðið að standa hvort hleðslutæki fylgi og hvaða hleðsluafl tækið þarf.",
+     "Data Act (Reglugerð 2023/2854): Áður en tengd tæki eru keypt þurfa viðskiptavinir að vita hvaða gögn tækið myndar og hvernig þau fá aðgang að þeim. Framleiðandinn leggur til þessar upplýsingar."
+    ]
+   },
+   {
+    "id": "setup",
+    "title": "Uppsetning skref fyrir skref",
+    "body": [
+     "Uppsetningin leiðir þig í gegnum öll skref og hakar sjálf við það sem er búið. Þú finnur hana í valmyndinni undir Uppsetning.",
+     "Fyrst svarar þú nokkrum spurningum: hvað þú selur, hvort þú sért smásali eða framleiðandi og til hvaða landa þú sendir. Út frá svörunum kveikir appið á þeim sviðum sem þú þarft.",
+     "Undir Móttaka og lönd setur þú inn móttökuheimilisfang, leiðir til að skila og, ef þarf, skráningarnúmerin þín.",
+     "Svo bætir þú kubbi appsins á vörusíðu þemans, býrð til Förgunarsíðu og virkjar tilkynningu á þakkarsíðu og pöntunarstöðusíðu."
+    ]
+   },
+   {
+    "id": "products",
+    "title": "Flokkun vara",
+    "body": [
+     "Undir Vörur flokkar þú hverja vöru í rétta svið: Rafhlöður, Raftæki, Myndtákn hleðslutækis og Data Act. Aðeins flokkaðar vörur sýna tilkynningar.",
+     "Þú getur breytt stökum vörum eða mörgum í einu, síað eftir safni, vörutegund eða merki. Appið stingur upp á vörum þar sem textar nefna endurhlaðanlegar rafhlöður, rafhlöður, hleðslusnúrur eða tengda eiginleika.",
+     "Ef þú ert með margar vörur hjálpar CSV-innflutningur í Business-áætlun."
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "Tillögur gervigreindar og magnathugun",
+    "body": [
+     "Í vöru­ritlinum leitar gervigreindin á vefnum með einum smelli: gerð rafhlöðu, efnafræði, flokkur raftækis og upplýsingar um hleðslutæki, allt með heimildum. Fyrir það fara titill, birgir, lýsing, SKU og strikamerki til OpenAI, engin viðskiptavina­gögn.",
+     "Með magnathugun gervigreindar (Pro og Business) sendir þú allt að 10 valdar vörur í einu til gervigreindar. Tillögurnar birtast í vörulistanum.",
+     "Gervigreindin getur haft rangt fyrir sér, sérstaklega ef hún finnur engar framleiðsluupplýsingar. Þess vegna tekur appið aðeins yfir tillögu eftir að þú hefur yfirfarið og staðfest hana."
+    ]
+   },
+   {
+    "id": "countries",
+    "title": "Lönd, skráningarnúmer og tungumál",
+    "body": [
+     "Fyrir hvert móttökuland gilda eigin reglur. Í sumum löndum þurfa skráningarnúmer að birtast í netverslun eða á reikningum, t.d. í Frakklandi, Spáni, Ítalíu eða Póllandi.",
+     "Viðskiptavinir erlendis þurfa tilkynningarnar á sínu máli. Staða sýnir þér hvaða tungumál móttökulanda vantar í verslunina.",
+     "Landavaktin (Pro og Business) ber saman móttökulöndin í Shopify-flutningsstillingunum þínum við uppsetninguna þína og lætur vita um ný lönd.",
+     "Neðst á þessari síðu finnur þú viðkomandi yfirvöld og skrár fyrir hvert land."
+    ]
+   },
+   {
+    "id": "order",
+    "title": "Eftir kaupin: þakkarsíða og pöntunar­póstur",
+    "body": [
+     "Móttökutilkynningin birtist líka á þakkarsíðu og pöntunarstöðusíðu. Til þess bætir þú kubbi appsins þar inn.",
+     "Fyrir pöntunarstaðfestingu og fylgiseðil færð þú kóða til að líma inn. Með einum smelli skrifar appið hann líka í allar tungumálaútgáfur sniðmátsins."
+    ]
+   },
+   {
+    "id": "plans",
+    "title": "Áskriftir og aukaeiginleikar",
+    "body": [
+     "Free inniheldur öll svið fyrir allt að 20 vörur. Basic, Pro og Business hafa ekki vörutakmörk og eru ólík í aukaeiginleikum.",
+     "Tillögur gervigreindar fylgja með Basic og upp úr, magnathugun gervigreindar og Landavaktin með Pro og upp úr. Vikulegur tölvupóstur með opnum atriðum og CSV-innflutningur eru í Business.",
+     "Þú getur prófað hverja greidda áætlun frítt í 7 daga. Greiðsla fer í gegnum Shopify-reikninginn þinn."
+    ]
+   },
+   {
+    "id": "responsibility",
+    "title": "Þín ábyrgð",
+    "body": [
+     "Appið veitir sýnishornstexta, tilkynningar og tillögur. Það er ekki lögfræðiráðgjöf og kemur ekki í stað hennar.",
+     "Hvort og hvaða skyldur gilda um þig fer eftir rekstrinum þínum. Farðu yfir upplýsingarnar og spurðu, ef vafi leikur á, viðkomandi stjórnvald eða lögfræðing."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ég er bara smásali. Þarf ég að skrá mig?",
+    "a": "Yfirleitt ekki. Framleiðendur og innflytjendur þurfa að skrá sig. En ef þú flytur sjálf/ur inn vörur frá útlöndum eða selur undir þínu eigin nafni telst þú oft framleiðandi. Uppsetningin spyr um þetta og sýnir hvað á við hjá þér."
+   },
+   {
+    "q": "Af hverju sé ég ekki tilkynningarnar á vörusíðunni minni?",
+    "a": "Athugaðu tvennt: varan þarf að vera flokkuð í svið og kubbur appsins þarf að vera á vörusíðunni í þemanu þínu. Staða sýnir hvort tveggja."
+   },
+   {
+    "q": "Hvað gerist með gögnin mín í leit gervigreindar?",
+    "a": "Aðeins vörugögn fara til OpenAI: titill, birgir, lýsing, SKU og strikamerki. Engin viðskiptavina- né pöntunargögn eru send."
+   },
+   {
+    "q": "Get ég breytt textunum?",
+    "a": "Já. Undir Textar stillir þú alla texta sem viðskiptavinir sjá. Tómar reitir fara aftur í sýnishornstexta."
+   },
+   {
+    "q": "Hvað gildir í Sviss og í Bretlandi?",
+    "a": "Þar gilda eigin reglur utan ESB-réttar. Appið sýnir athugasemd ef þú sendir þangað. Sýnishornstextarnir eru skrifaðir fyrir ESB og EES."
+   },
+   {
+    "q": "Hvernig segi ég upp áætlun?",
+    "a": "Undir Áskrift geturðu skipt yfir í Free hvenær sem er. Shopify endurgreiðir ónotaðan tíma."
+   }
+  ],
+  "law": {
+   "batteryRegulation": "Reglugerð (ESB) 2023/1542 um rafhlöður og úrgangsrafhlöður",
+   "weeeDirective": "WEEE-tilskipun 2012/19/ES um raf- og rafeindatækjaúrgang",
+   "chargerDirective": "Tilskipun (ESB) 2022/2380 um sameiginlegt hleðslutæki",
+   "dataAct": "Data Act, reglugerð (ESB) 2023/2854"
+  },
+  "ec": {
+   "ecBatteries": "Framkvæmdastjórn ESB: rafhlöður",
+   "ecWeee": "Framkvæmdastjórn ESB: raf- og rafeindatækjaúrgangur",
+   "ecCharger": "Framkvæmdastjórn ESB: sameiginlegt hleðslutæki",
+   "ecDataAct": "Framkvæmdastjórn ESB: Data Act"
+  },
+  "types": {
+   "battery": "Rafhlöður",
+   "weee": "Raftæki",
+   "both": "Rafhlöður og raftæki",
+   "retail": "Fyrir smásala"
+  },
+  "yourCountries": "Afhendingarlöndin þín",
+  "otherCountries": "Önnur lönd",
+  "countryNames": {
+   "AT": "Austurríki",
+   "BE": "Belgía",
+   "BG": "Búlgaría",
+   "CY": "Kýpur",
+   "CZ": "Tékkland",
+   "DE": "Þýskaland",
+   "DK": "Danmörk",
+   "EE": "Eistland",
+   "ES": "Spánn",
+   "FI": "Finnland",
+   "FR": "Frakkland",
+   "GR": "Grikkland",
+   "HR": "Króatía",
+   "HU": "Ungverjaland",
+   "IE": "Írland",
+   "IT": "Ítalía",
+   "LT": "Litháen",
+   "LU": "Lúxemborg",
+   "LV": "Lettland",
+   "MT": "Malta",
+   "NL": "Holland",
+   "PL": "Pólland",
+   "PT": "Portúgal",
+   "RO": "Rúmenía",
+   "SE": "Svíþjóð",
+   "SI": "Slóvenía",
+   "SK": "Slóvakía",
+   "IS": "Ísland",
+   "LI": "Liechtenstein",
+   "NO": "Noregur"
+  }
+ }
+}

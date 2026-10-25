@@ -179,8 +179,45 @@ function GaranArt() {
   );
 }
 
+function ElektroPflichtArt() {
+  return (
+    <Art w={320} h={200} label={art("Grafik: ElektroPflicht zeigt Batterie-Hinweis, Rücknahme-Symbol und Ladegerät-Piktogramm auf der Produktseite")}>
+      <rect width="320" height="200" rx="16" fill={C.s100} />
+      <Win x={18} y={18} w={284} h={164} title={art("Produktseite")}>
+        <rect x="12" y="10" width="84" height="84" rx="10" fill={C.net1} />
+        <path d="M34 58 C34 34 74 34 74 58" fill="none" stroke={C.ink} strokeWidth="6" strokeLinecap="round" />
+        <rect x="28" y="54" width="14" height="22" rx="6" fill={C.ink} />
+        <rect x="66" y="54" width="14" height="22" rx="6" fill={C.ink} />
+        <Bar x={106} y={12} w={100} h={9} fill={C.ink} />
+        <text x="106" y="38" fontSize="12" fontWeight="800" fill={C.ink}>59,90 €</text>
+        {/* charger pictogram: no charger included, 5–18 W */}
+        <g transform="translate(106 46)">
+          <rect width="24" height="24" rx="3" fill={C.white} stroke={C.ink} strokeWidth="1.6" />
+          <path d="M8 6v5M16 6v5M6 11h12v3a6 6 0 0 1-12 0z M12 20v2" fill="none" stroke={C.ink} strokeWidth="1.4" />
+          <path d="M4 21L20 3" stroke={C.ink} strokeWidth="1.6" />
+          <rect x="28" width="34" height="24" rx="3" fill={C.white} stroke={C.ink} strokeWidth="1.6" />
+          <text x="45" y="11" textAnchor="middle" fontSize="7.5" fontWeight="800" fill={C.ink}>5–18 W</text>
+          <text x="45" y="20" textAnchor="middle" fontSize="5.5" fontWeight="700" fill={C.ink}>USB PD</text>
+        </g>
+        <rect x="178" y="48" width="88" height="20" rx="10" fill={C.ink} />
+        <text x="222" y="61.5" textAnchor="middle" fontSize="8" fontWeight="700" fill={C.white}>{art("In den Warenkorb")}</text>
+        {/* battery notice with the crossed-out wheeled bin */}
+        <rect x="12" y="102" width="260" height="40" rx="6" fill={C.white} stroke={C.s200} />
+        <g transform="translate(22 108)" stroke={C.ink} strokeWidth="1.4" fill="none">
+          <path d="M3 6h14M5 6l1.5 18h7L15 6M8 3h4" />
+          <path d="M1 2L19 26M19 2L1 26" />
+        </g>
+        <text x="50" y="118" fontSize="8" fontWeight="700" fill={C.ink}>{art("Hinweise zu Batterien")}</text>
+        <Bar x={50} y={124} w={150} h={5} fill={C.s200} />
+        <text x="50" y="138" fontSize="7" fill={C.hi}>{art("Kostenlose Rücknahme")}</text>
+      </Win>
+    </Art>
+  );
+}
+
 export const REFERENCE_ART: Record<Reference["id"], () => JSX.Element> = {
   work247: Work247Art,
   bookique: BookiqueArt,
   garan: GaranArt,
+  elektropflicht: ElektroPflichtArt,
 };
